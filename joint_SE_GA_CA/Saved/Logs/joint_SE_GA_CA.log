@@ -2483,3 +2483,736 @@ Make sure 'blade_BP_C' has been compiled for  Get Delay Time
 [2023.03.10-17.46.03:502][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
 [2023.03.10-17.46.03:514][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
 [2023.03.10-17.46.03:593][920]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.03.10-17.52.41:992][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.10-17.52.41:997][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/9/Y7/LJVUDZE0XTCFLP2ETWCLSA_Auto9
+[2023.03.10-17.52.41:998][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/LJVUDZE0XTCFLP2ETWCLSA_Auto9D525B24E4F10C7C54E0E4882F288CC6A.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/9/Y7/LJVUDZE0XTCFLP2ETWCLSA_Auto9.uasset'
+[2023.03.10-17.52.42:002][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/C/D5/ET0P6C2DQGE6YC53JIHOSU_Auto9
+[2023.03.10-17.52.42:002][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/ET0P6C2DQGE6YC53JIHOSU_Auto9009FAD724901A8DE82F526B6FA7645D6.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/C/D5/ET0P6C2DQGE6YC53JIHOSU_Auto9.uasset'
+[2023.03.10-17.52.42:008][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/6/UN/8KE47595OWNI4YHCYLK8LT_Auto9
+[2023.03.10-17.52.42:008][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/8KE47595OWNI4YHCYLK8LT_Auto945487D824A642659A336F2ABDCAAA408.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/6/UN/8KE47595OWNI4YHCYLK8LT_Auto9.uasset'
+[2023.03.10-17.52.42:012][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/C/9R/FJ2IL5WO0BMF82UEYGRHXD_Auto9
+[2023.03.10-17.52.42:013][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/FJ2IL5WO0BMF82UEYGRHXD_Auto9D4109061438987234B3CB881D68BDCB4.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/C/9R/FJ2IL5WO0BMF82UEYGRHXD_Auto9.uasset'
+[2023.03.10-17.52.42:017][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/4/9O/13EUMDXQS5OD8A43P6RW0R_Auto9
+[2023.03.10-17.52.42:017][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/13EUMDXQS5OD8A43P6RW0R_Auto9356378D44851C54398574981B8B0A3AF.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/4/9O/13EUMDXQS5OD8A43P6RW0R_Auto9.uasset'
+[2023.03.10-17.52.42:022][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/3/3E/FWIYR0HQ5PSDIYP4QFI418_Auto9
+[2023.03.10-17.52.42:022][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/FWIYR0HQ5PSDIYP4QFI418_Auto90E56A3984F9A5B2D93D09DBC29F3EE6D.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/3/3E/FWIYR0HQ5PSDIYP4QFI418_Auto9.uasset'
+[2023.03.10-17.52.42:026][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/B/BN/NI5PQMO2FYA6AX3NN05832_Auto9
+[2023.03.10-17.52.42:026][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NI5PQMO2FYA6AX3NN05832_Auto9085C1C6E460668944F513CA3A2846FB8.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/B/BN/NI5PQMO2FYA6AX3NN05832_Auto9.uasset'
+[2023.03.10-17.52.42:030][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/3/N3/E26IIDFC9XXL6M1SNT3CNB_Auto9
+[2023.03.10-17.52.42:030][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/E26IIDFC9XXL6M1SNT3CNB_Auto9501CF05B4C5D514797CE1EB03CFF5B32.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/3/N3/E26IIDFC9XXL6M1SNT3CNB_Auto9.uasset'
+[2023.03.10-17.52.42:033][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/5/TE/Q8BEH0LA73ENLJZKZ5TPP0_Auto9
+[2023.03.10-17.52.42:034][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Q8BEH0LA73ENLJZKZ5TPP0_Auto95F8384DD44E1A3E098CA52A0B4A61414.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/5/TE/Q8BEH0LA73ENLJZKZ5TPP0_Auto9.uasset'
+[2023.03.10-17.52.42:035][635]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca' took 0.093
+[2023.03.10-17.52.42:035][635]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2023.03.10-17.52.42:035][635]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blade_BP] ([2] browsable assets)...
+[2023.03.10-17.52.42:155][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blade_BP.blade_BP]
+[2023.03.10-17.52.42:155][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/blade_BP]
+[2023.03.10-17.52.42:166][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blade_BP_Auto9
+[2023.03.10-17.52.42:166][635]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/blade_BP_Auto9F5695F594C63A84C03C6959975AABC4D.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/blade_BP_Auto9.uasset'
+[2023.03.10-17.52.42:167][635]LogFileHelpers: Auto-saving content packages took 0.132
+[2023.03.10-17.58.40:285][749]LogViewport: Scene viewport resized to 777x539, mode Windowed.
+[2023.03.10-17.58.43:653][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blade_BP" FILE="../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/blade_BP.uasset" SILENT=true
+[2023.03.10-17.58.43:666][784]LogSavePackage: Moving output files for package: /Game/blade_BP
+[2023.03.10-17.58.43:668][784]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/blade_BP7DB76FF64FCD48C284FB9791DD79BD38.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/blade_BP.uasset'
+[2023.03.10-17.58.43:755][784]AssetCheck: New page: Asset Save: blade_BP
+[2023.03.10-17.58.43:755][784]LogContentValidation: Display: Validating Blueprint /Game/blade_BP.blade_BP
+[2023.03.10-17.58.45:091][806]LogSavePackage: Moving output files for package: /Game/Obstacle_Blueprint
+[2023.03.10-17.58.45:093][806]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Obstacle_BlueprintA5A63FF043E795F3B148229E0A60EA94.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/Obstacle_Blueprint.uasset'
+[2023.03.10-17.58.45:133][806]AssetCheck: New page: Asset Save: Obstacle_Blueprint
+[2023.03.10-17.58.45:133][806]LogContentValidation: Display: Validating Blueprint /Game/Obstacle_Blueprint.Obstacle_Blueprint
+[2023.03.10-17.58.47:375][864]LogSlate: Window 'blade_BP' being destroyed
+[2023.03.10-17.58.47:394][864]LogSlate: Window 'blade_BP' being destroyed
+[2023.03.10-17.58.47:424][864]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-17.58.47:425][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-17.58.47:726][864]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.10-17.58.47:726][864]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-17.58.47:726][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-17.58.52:500][945]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.10-17.58.52:581][945]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.10-17.58.52:588][945]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.10-17.58.52:603][946]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.03.10-17.59.03:075][261]LogContentBrowser: Attempting asset rename: NewBlueprint -> trip_bp
+[2023.03.10-17.59.03:338][261]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.10-17.59.05:459][314]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/trip_bp.trip_bp_C
+[2023.03.10-17.59.05:459][314]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/trip_bp.trip_bp_C
+[2023.03.10-17.59.05:460][314]LogActorFactory: Actor Factory spawned Blueprint /Game/trip_bp.trip_bp as actor: trip_bp_C /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.trip_bp_C_0
+[2023.03.10-17.59.05:461][314]LogActorFactory: Actor Factory spawned Blueprint /Game/trip_bp.trip_bp as actor: trip_bp_C /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.trip_bp_C_0
+[2023.03.10-17.59.07:468][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/trip_bp.trip_bp_C
+[2023.03.10-17.59.07:468][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/trip_bp.trip_bp_C
+[2023.03.10-17.59.07:470][373]LogActorFactory: Actor Factory spawned Blueprint /Game/trip_bp.trip_bp as actor: trip_bp_C /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.trip_bp_C_UAID_84A9380F62651B6E01_1116239092
+[2023.03.10-17.59.07:471][373]LogActorFactory: Actor Factory spawned Blueprint /Game/trip_bp.trip_bp as actor: trip_bp_C /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.trip_bp_C_UAID_84A9380F62651B6E01_1116239092
+[2023.03.10-17.59.08:634][407]Cmd: DELETE
+[2023.03.10-17.59.08:635][407]Cmd: ACTOR DELETE
+[2023.03.10-17.59.08:645][407]LogEditorActor: Deleted Actor: trip_bp_C
+[2023.03.10-17.59.08:724][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.03.10-17.59.08:735][407]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2023.03.10-17.59.10:841][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/trip_bp.trip_bp
+[2023.03.10-17.59.10:842][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-17.59.11:455][458]LogViewport: Scene viewport resized to 777x541, mode Windowed.
+[2023.03.10-18.01.18:266][941]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:267][941]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:293][942]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:293][942]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:294][942]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:332][943]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:332][943]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:332][943]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:393][944]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:394][944]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:394][944]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:418][945]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:419][945]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:419][945]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:472][946]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:473][946]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:473][946]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:505][947]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:505][947]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:505][947]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:543][948]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:543][948]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:543][948]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:605][949]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:605][949]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:605][949]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:630][950]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:630][950]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:630][950]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:663][951]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:663][951]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:663][951]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:696][952]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:697][952]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:697][952]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:728][953]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:729][953]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:729][953]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:763][954]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:764][954]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:764][954]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:796][955]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:796][955]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:796][955]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:829][956]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:829][956]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:829][956]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:873][957]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:873][957]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:873][957]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:906][958]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:906][958]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:906][958]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:945][959]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:946][959]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:946][959]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:998][960]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:998][960]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.18:998][960]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:017][961]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:017][961]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:017][961]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:065][962]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:065][962]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:065][962]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:083][963]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:084][963]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:084][963]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:116][964]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:117][964]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:117][964]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:175][965]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:176][965]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:176][965]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:207][966]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:207][966]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:207][966]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:227][967]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:227][967]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:227][967]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:271][968]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:271][968]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:271][968]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:303][969]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:304][969]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:304][969]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:343][970]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:344][970]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:344][970]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:404][971]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:405][971]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:405][971]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:423][972]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:424][972]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:424][972]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:456][973]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:456][973]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:457][973]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:489][974]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:489][974]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:490][974]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:523][975]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:524][975]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:524][975]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:556][976]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:557][976]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:557][976]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:590][977]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:590][977]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:590][977]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:623][978]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:624][978]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:624][978]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:657][979]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.19:657][979]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.trip_bp_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.03.10-18.01.42:180][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blade_BP.blade_BP
+[2023.03.10-18.01.42:181][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-18.02.42:944][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.10-18.02.42:946][379]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca' took 0.044
+[2023.03.10-18.02.42:948][379]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blade_BP] ([2] browsable assets)...
+[2023.03.10-18.02.42:948][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/blade_BP]
+[2023.03.10-18.02.42:955][379]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blade_BP_Auto0
+[2023.03.10-18.02.42:955][379]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/blade_BP_Auto04A652E6543A678B63495EC8B6794971A.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/blade_BP_Auto0.uasset'
+[2023.03.10-18.02.42:956][379]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.03.10-18.08.31:173][470]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.253 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.10-18.12.43:696][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.03.10-18.12.43:698][691]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca' took 0.062
+[2023.03.10-18.19.10:751][849]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.03.10-18.19.10:751][849]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=39372
+[2023.03.10-18.19.11:083][849]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cc6ded65-7413-4046-b026-c6a183f56ef1}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=174.51
+[2023.03.10-18.19.11:083][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.10-18.19.11:092][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.10-18.27.17:560][876]LogHttp: Warning: 00000BE354D1B400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B190934CC-4F19-F1CF-534E-77A6B32DF8C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b3fa77fa4a323f2ee45ee6a204626a2b%7C7126afbbec5246758ea5f85c7944e1b7%7C01e0d25b-e634-4df9-96a3-942cba921921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.10-18.27.17:561][876]LogHttp: Warning: 00000BE354D1B400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.03.10-18.27.17:561][876]LogHttp: Warning: 00000BE354D1B400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xbe30a0c0000 [can pipeline])
+[2023.03.10-18.27.17:561][876]LogHttp: Warning: 00000BE354D1B400: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2023.03.10-18.27.17:561][876]LogHttp: Warning: 00000BE354D1B400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.234.205.197) port 443 (#0))
+[2023.03.10-18.27.17:561][876]LogHttp: Warning: 00000BE354D1B400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.10-18.27.17:561][876]LogHttp: Warning: 00000BE354D1B400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.03.10-18.27.17:561][876]LogHttp: Warning: 00000BE354D1B400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.10-18.27.17:561][876]LogHttp: Warning: 00000BE354D1B400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.10-18.27.17:561][876]LogHttp: Warning: 00000BE354D1B400: libcurl info message cache 7 (Closing connection 0)
+[2023.03.10-18.27.17:562][876]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B190934CC-4F19-F1CF-534E-77A6B32DF8C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b3fa77fa4a323f2ee45ee6a204626a2b%7C7126afbbec5246758ea5f85c7944e1b7%7C01e0d25b-e634-4df9-96a3-942cba921921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.10-18.27.26:858][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.03.10-18.27.26:861][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca' took 0.048
+[2023.03.10-18.31.20:329][ 65]BlueprintLog: New page: Compile trip_bp
+[2023.03.10-18.31.20:333][ 65]LogBlueprint: Warning: [AssetLog] /Game/trip_bp.trip_bp (no disk path found): [Compiler] Could not find a variable named "Delayed" in 'trip_bp_C'.
+Make sure 'trip_bp_C' has been compiled for  Get Delayed
+[2023.03.10-18.31.20:335][ 65]LogBlueprint: Error: [AssetLog] /Game/trip_bp.trip_bp (no disk path found): [Compiler] The property associated with  Delayed  could not be found in '/Game/trip_bp.trip_bp_C'
+[2023.03.10-18.31.20:414][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.03.10-18.32.10:862][723]BlueprintLog: New page: Compile trip_bp
+[2023.03.10-18.32.10:926][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.03.10-18.32.17:861][218]BlueprintLog: New page: Compile trip_bp
+[2023.03.10-18.32.17:926][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.03.10-18.32.22:241][500]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.10-18.32.22:254][500]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.10-18.32.22:254][500]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.10-18.32.22:254][500]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.32.22:254][500]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.10-18.32.22:254][500]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.10-18.32.22:254][500]LogWorldPartition: Display: GetPartitionedActors took 148 us
+[2023.03.10-18.32.22:254][500]LogWorldPartition: Display: GenerateStreaming took 691 us
+[2023.03.10-18.32.22:255][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.10-18.32.22:255][500]PIE: New page: PIE session: ob_course_joint_ca (10 Mar 2023, 18:32:22)
+[2023.03.10-18.32.22:282][500]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.32.22:295][500]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.10-18.32.22:295][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012322s)
+[2023.03.10-18.32.22:295][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca.ob_course_joint_ca to /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca (0.012437s)
+[2023.03.10-18.32.22:296][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-18.32.22:297][500]LogAIModule: Creating AISystem for world ob_course_joint_ca
+[2023.03.10-18.32.22:297][500]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.10-18.32.22:298][500]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.10-18.32.22:300][500]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.03.10-18.32.22:300][500]LogPlayLevel: PIE: World Init took: (0.004604s)
+[2023.03.10-18.32.22:337][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.03.10-18.32.22:339][500]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.03.10-18.32.22:339][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.10-18.32.22:339][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.10-18.32.22:339][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.10-18.32.22:339][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.10-18.32.22:339][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.10-18.32.22:339][500]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.10-18.32.22:339][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.10-18.32.22:339][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.10-18.32.22:339][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.10-18.32.22:339][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.10-18.32.22:339][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.10-18.32.22:343][500]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.10-18.32.22:399][500]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.10-18.32.22:399][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.10-18.32.22:400][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.10-18.32.22:400][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.10-18.32.22:401][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.03.10-18.32.22:401][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.03.10-18.32.22:403][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.03.10-18.32.22:403][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.03.10-18.32.22:403][500]LogInit: FAudioDevice initialized.
+[2023.03.10-18.32.22:403][500]LogAudio: Display: Audio Device (ID: 23) registered with world 'ob_course_joint_ca'.
+[2023.03.10-18.32.22:421][500]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.10-18.32.22:424][500]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca up for play (max tick rate 0) at 2023.03.10-18.32.22
+[2023.03.10-18.32.22:425][500]LogWorld: Bringing up level for play took: 0.004280
+[2023.03.10-18.32.22:428][500]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.03.10-18.32.22:434][500]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=12690.000 Z=1382.013
+[2023.03.10-18.32.22:434][500]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.32.22:434][500]PIE: Server logged in
+[2023.03.10-18.32.22:435][500]PIE: Play in editor total start time 0.186 seconds.
+[2023.03.10-18.32.29:423][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.32.29:423][992]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.32.29:424][992]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-18.32.29:434][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.32.29:457][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.10-18.32.29:461][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.32.29:496][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.10-18.32.29:496][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.10-18.32.29:499][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.10-18.32.29:507][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.32.29:511][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.03.10-18.32.29:547][993]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.03.10-18.32.37:160][563]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.10-18.32.39:321][741]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.10-18.37.51:232][784]Cmd: DELETE
+[2023.03.10-18.37.51:232][784]Cmd: ACTOR DELETE
+[2023.03.10-18.37.51:237][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.37.51:279][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.03.10-18.37.51:281][784]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2023.03.10-18.37.52:829][915]Cmd: DELETE
+[2023.03.10-18.37.52:829][915]Cmd: ACTOR DELETE
+[2023.03.10-18.37.52:832][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.37.52:869][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.10-18.37.52:871][915]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.03.10-18.37.53:504][962]Cmd: DELETE
+[2023.03.10-18.37.53:504][962]Cmd: ACTOR DELETE
+[2023.03.10-18.37.53:506][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.37.53:543][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.10-18.37.53:546][962]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.03.10-18.37.54:191][  9]Cmd: DELETE
+[2023.03.10-18.37.54:191][  9]Cmd: ACTOR DELETE
+[2023.03.10-18.37.54:194][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.37.54:232][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.10-18.37.54:234][  9]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.03.10-18.37.54:908][ 61]Cmd: DELETE
+[2023.03.10-18.37.54:908][ 61]Cmd: ACTOR DELETE
+[2023.03.10-18.37.54:910][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.37.54:948][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.10-18.37.54:950][ 61]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.03.10-18.37.56:635][203]Cmd: DELETE
+[2023.03.10-18.37.56:635][203]Cmd: ACTOR DELETE
+[2023.03.10-18.37.56:637][203]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.37.56:680][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.03.10-18.37.56:682][203]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.03.10-18.37.58:160][321]Cmd: DELETE
+[2023.03.10-18.37.58:160][321]Cmd: ACTOR DELETE
+[2023.03.10-18.37.58:162][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.37.58:201][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.10-18.37.58:203][321]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.03.10-18.38.01:626][605]Cmd: DELETE
+[2023.03.10-18.38.01:626][605]Cmd: ACTOR DELETE
+[2023.03.10-18.38.01:628][605]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.01:670][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.10-18.38.01:672][605]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.03.10-18.38.02:405][660]Cmd: DELETE
+[2023.03.10-18.38.02:405][660]Cmd: ACTOR DELETE
+[2023.03.10-18.38.02:408][660]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.02:448][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.10-18.38.02:450][660]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.03.10-18.38.02:963][700]Cmd: DELETE
+[2023.03.10-18.38.02:963][700]Cmd: ACTOR DELETE
+[2023.03.10-18.38.02:965][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.03:004][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.10-18.38.03:007][700]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.03.10-18.38.03:700][753]Cmd: DELETE
+[2023.03.10-18.38.03:700][753]Cmd: ACTOR DELETE
+[2023.03.10-18.38.03:702][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.03:739][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.10-18.38.03:741][753]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.03.10-18.38.04:996][855]Cmd: DELETE
+[2023.03.10-18.38.04:996][855]Cmd: ACTOR DELETE
+[2023.03.10-18.38.04:999][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.05:038][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.10-18.38.05:040][855]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.03.10-18.38.06:223][952]Cmd: DELETE
+[2023.03.10-18.38.06:223][952]Cmd: ACTOR DELETE
+[2023.03.10-18.38.06:226][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.06:267][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.10-18.38.06:269][952]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.03.10-18.38.07:101][ 19]Cmd: DELETE
+[2023.03.10-18.38.07:101][ 19]Cmd: ACTOR DELETE
+[2023.03.10-18.38.07:104][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.07:144][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.10-18.38.07:146][ 19]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.03.10-18.38.07:693][ 59]Cmd: DELETE
+[2023.03.10-18.38.07:693][ 59]Cmd: ACTOR DELETE
+[2023.03.10-18.38.07:695][ 59]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.07:736][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.10-18.38.07:739][ 59]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.03.10-18.38.09:288][185]Cmd: DELETE
+[2023.03.10-18.38.09:288][185]Cmd: ACTOR DELETE
+[2023.03.10-18.38.09:290][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.09:328][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.10-18.38.09:330][185]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.03.10-18.38.10:398][274]Cmd: DELETE
+[2023.03.10-18.38.10:398][274]Cmd: ACTOR DELETE
+[2023.03.10-18.38.10:400][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.10:440][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.10-18.38.10:442][274]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.03.10-18.38.11:429][354]Cmd: DELETE
+[2023.03.10-18.38.11:429][354]Cmd: ACTOR DELETE
+[2023.03.10-18.38.11:431][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.11:471][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.10-18.38.11:473][354]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.03.10-18.38.13:903][564]Cmd: DELETE
+[2023.03.10-18.38.13:903][564]Cmd: ACTOR DELETE
+[2023.03.10-18.38.13:906][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.13:946][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.10-18.38.13:948][564]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.03.10-18.38.15:538][698]Cmd: DELETE
+[2023.03.10-18.38.15:538][698]Cmd: ACTOR DELETE
+[2023.03.10-18.38.15:541][698]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.15:578][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.10-18.38.15:580][698]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.03.10-18.38.17:218][837]Cmd: DELETE
+[2023.03.10-18.38.17:218][837]Cmd: ACTOR DELETE
+[2023.03.10-18.38.17:220][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.17:259][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.10-18.38.17:261][837]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.03.10-18.38.18:343][928]Cmd: DELETE
+[2023.03.10-18.38.18:343][928]Cmd: ACTOR DELETE
+[2023.03.10-18.38.18:345][928]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.18:386][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.03.10-18.38.18:389][928]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.03.10-18.38.20:007][ 67]Cmd: DELETE
+[2023.03.10-18.38.20:007][ 67]Cmd: ACTOR DELETE
+[2023.03.10-18.38.20:009][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.20:064][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.10-18.38.20:066][ 67]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.03.10-18.38.21:013][146]Cmd: DELETE
+[2023.03.10-18.38.21:013][146]Cmd: ACTOR DELETE
+[2023.03.10-18.38.21:015][146]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.21:057][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.03.10-18.38.21:060][146]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2023.03.10-18.38.21:942][215]Cmd: DELETE
+[2023.03.10-18.38.21:942][215]Cmd: ACTOR DELETE
+[2023.03.10-18.38.21:945][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.21:987][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.10-18.38.21:989][215]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.03.10-18.38.22:995][295]Cmd: DELETE
+[2023.03.10-18.38.22:995][295]Cmd: ACTOR DELETE
+[2023.03.10-18.38.22:997][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.23:036][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.10-18.38.23:038][295]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.03.10-18.38.23:725][348]Cmd: DELETE
+[2023.03.10-18.38.23:725][348]Cmd: ACTOR DELETE
+[2023.03.10-18.38.23:728][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.23:766][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.10-18.38.23:768][348]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.03.10-18.38.24:563][412]Cmd: DELETE
+[2023.03.10-18.38.24:563][412]Cmd: ACTOR DELETE
+[2023.03.10-18.38.24:565][412]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.24:604][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.10-18.38.24:607][412]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.03.10-18.38.26:004][531]Cmd: DELETE
+[2023.03.10-18.38.26:004][531]Cmd: ACTOR DELETE
+[2023.03.10-18.38.26:006][531]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.10-18.38.26:045][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.10-18.38.26:047][531]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.03.10-18.39.10:081][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.10-18.39.10:086][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/A/LI/WTU3GNQN17FTQ20XLPNGEZ_Auto1
+[2023.03.10-18.39.10:088][956]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/WTU3GNQN17FTQ20XLPNGEZ_Auto1D93FEC784069E314752FABB58EB2B047.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/A/LI/WTU3GNQN17FTQ20XLPNGEZ_Auto1.uasset'
+[2023.03.10-18.39.10:090][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca' took 0.043
+[2023.03.10-18.39.10:090][956]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2023.03.10-18.39.26:518][ 44]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/trip_bp.trip_bp_C
+[2023.03.10-18.39.26:518][ 44]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/trip_bp.trip_bp_C
+[2023.03.10-18.39.26:519][ 44]LogActorFactory: Actor Factory spawned Blueprint /Game/trip_bp.trip_bp as actor: trip_bp_C /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.trip_bp_C_1
+[2023.03.10-18.39.26:521][ 44]LogActorFactory: Actor Factory spawned Blueprint /Game/trip_bp.trip_bp as actor: trip_bp_C /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.trip_bp_C_1
+[2023.03.10-18.39.27:618][119]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/trip_bp.trip_bp_C
+[2023.03.10-18.39.27:618][119]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/trip_bp.trip_bp_C
+[2023.03.10-18.39.27:620][119]LogActorFactory: Actor Factory spawned Blueprint /Game/trip_bp.trip_bp as actor: trip_bp_C /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.trip_bp_C_UAID_84A9380F62651D6E01_1388905445
+[2023.03.10-18.39.27:621][119]LogActorFactory: Actor Factory spawned Blueprint /Game/trip_bp.trip_bp as actor: trip_bp_C /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.trip_bp_C_UAID_84A9380F62651D6E01_1388905445
+[2023.03.10-18.39.35:887][713]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.10-18.39.35:901][713]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.10-18.39.35:901][713]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.10-18.39.35:901][713]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.39.35:901][713]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.10-18.39.35:901][713]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.10-18.39.35:901][713]LogWorldPartition: Display: GetPartitionedActors took 57 us
+[2023.03.10-18.39.35:902][713]LogWorldPartition: Display: GenerateStreaming took 503 us
+[2023.03.10-18.39.35:907][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.10-18.39.35:907][713]PIE: New page: PIE session: ob_course_joint_ca (10 Mar 2023, 18:39:35)
+[2023.03.10-18.39.35:907][713]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.39.35:913][713]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.10-18.39.35:913][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006073s)
+[2023.03.10-18.39.35:913][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca.ob_course_joint_ca to /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca (0.006120s)
+[2023.03.10-18.39.35:914][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-18.39.35:914][713]LogAIModule: Creating AISystem for world ob_course_joint_ca
+[2023.03.10-18.39.35:915][713]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.10-18.39.35:915][713]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.10-18.39.35:918][713]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.03.10-18.39.35:918][713]LogPlayLevel: PIE: World Init took: (0.004657s)
+[2023.03.10-18.39.35:955][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.03.10-18.39.35:957][713]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.03.10-18.39.35:957][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.10-18.39.35:957][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.10-18.39.35:957][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.10-18.39.35:957][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.10-18.39.35:957][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.10-18.39.35:957][713]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.10-18.39.35:957][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.10-18.39.35:957][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.10-18.39.35:958][713]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.10-18.39.35:958][713]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.10-18.39.35:958][713]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.10-18.39.35:960][713]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.10-18.39.36:009][713]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.10-18.39.36:009][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.10-18.39.36:009][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.10-18.39.36:009][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.10-18.39.36:010][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.03.10-18.39.36:010][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.03.10-18.39.36:012][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.03.10-18.39.36:012][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.03.10-18.39.36:012][713]LogInit: FAudioDevice initialized.
+[2023.03.10-18.39.36:012][713]LogAudio: Display: Audio Device (ID: 24) registered with world 'ob_course_joint_ca'.
+[2023.03.10-18.39.36:027][713]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.10-18.39.36:029][713]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca up for play (max tick rate 0) at 2023.03.10-18.39.36
+[2023.03.10-18.39.36:029][713]LogWorld: Bringing up level for play took: 0.001922
+[2023.03.10-18.39.36:031][713]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.03.10-18.39.36:034][713]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=9560.000 Z=1382.013
+[2023.03.10-18.39.36:034][713]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.39.36:035][713]PIE: Server logged in
+[2023.03.10-18.39.36:036][713]PIE: Play in editor total start time 0.138 seconds.
+[2023.03.10-18.40.22:193][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.40.22:193][899]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.40.22:193][899]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-18.40.22:194][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.40.22:215][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.10-18.40.22:219][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.40.22:256][899]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.10-18.40.22:257][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.03.10-18.40.22:259][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.03.10-18.40.22:269][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.40.22:273][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.10-18.40.22:310][900]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.03.10-18.40.39:615][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trip_bp" FILE="../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/trip_bp.uasset" SILENT=true
+[2023.03.10-18.40.39:625][ 30]LogSavePackage: Moving output files for package: /Game/trip_bp
+[2023.03.10-18.40.39:625][ 30]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/trip_bp4A4F815A47419A6DDC4C909013CE6C05.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/trip_bp.uasset'
+[2023.03.10-18.40.40:565][ 30]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.03.10-18.40.40:565][ 30]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.03.10-18.40.40:584][ 30]AssetCheck: New page: Asset Save: trip_bp
+[2023.03.10-18.40.40:584][ 30]LogContentValidation: Display: Validating Blueprint /Game/trip_bp.trip_bp
+[2023.03.10-18.40.43:331][209]BlueprintLog: New page: Compile trip_bp
+[2023.03.10-18.40.43:405][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.03.10-18.40.46:813][437]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.10-18.40.46:827][437]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.10-18.40.46:827][437]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.10-18.40.46:827][437]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.40.46:827][437]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.10-18.40.46:827][437]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.10-18.40.46:827][437]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2023.03.10-18.40.46:828][437]LogWorldPartition: Display: GenerateStreaming took 760 us
+[2023.03.10-18.40.46:828][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.10-18.40.46:828][437]PIE: New page: PIE session: ob_course_joint_ca (10 Mar 2023, 18:40:46)
+[2023.03.10-18.40.46:829][437]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.40.46:835][437]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.10-18.40.46:835][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006405s)
+[2023.03.10-18.40.46:835][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca.ob_course_joint_ca to /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca (0.006469s)
+[2023.03.10-18.40.46:835][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-18.40.46:836][437]LogAIModule: Creating AISystem for world ob_course_joint_ca
+[2023.03.10-18.40.46:837][437]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.10-18.40.46:837][437]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.10-18.40.46:839][437]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.10-18.40.46:839][437]LogPlayLevel: PIE: World Init took: (0.003455s)
+[2023.03.10-18.40.46:893][437]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2023.03.10-18.40.46:894][437]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.03.10-18.40.46:894][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.10-18.40.46:894][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.10-18.40.46:894][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.10-18.40.46:894][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.10-18.40.46:894][437]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.10-18.40.46:894][437]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.10-18.40.46:894][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.10-18.40.46:894][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.10-18.40.46:895][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.10-18.40.46:895][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.10-18.40.46:895][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.10-18.40.46:898][437]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.10-18.40.46:982][437]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.10-18.40.46:983][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.10-18.40.46:983][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.10-18.40.46:983][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.10-18.40.46:986][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.03.10-18.40.46:986][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.03.10-18.40.46:988][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.03.10-18.40.46:988][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.03.10-18.40.46:988][437]LogInit: FAudioDevice initialized.
+[2023.03.10-18.40.46:988][437]LogAudio: Display: Audio Device (ID: 25) registered with world 'ob_course_joint_ca'.
+[2023.03.10-18.40.47:001][437]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.10-18.40.47:003][437]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca up for play (max tick rate 0) at 2023.03.10-18.40.47
+[2023.03.10-18.40.47:004][437]LogWorld: Bringing up level for play took: 0.002177
+[2023.03.10-18.40.47:006][437]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.03.10-18.40.47:009][437]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=9560.000 Z=1382.013
+[2023.03.10-18.40.47:009][437]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.40.47:009][437]PIE: Server logged in
+[2023.03.10-18.40.47:010][437]PIE: Play in editor total start time 0.188 seconds.
+[2023.03.10-18.41.15:023][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.41.15:023][351]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.41.15:024][351]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-18.41.15:024][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.41.15:044][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.10-18.41.15:048][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.41.15:083][351]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.10-18.41.15:083][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.03.10-18.41.15:084][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.03.10-18.41.15:092][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.41.15:095][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.03.10-18.41.15:135][352]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.03.10-18.41.28:005][194]BlueprintLog: New page: Compile trip_bp
+[2023.03.10-18.41.28:070][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.03.10-18.41.32:827][505]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.10-18.41.32:837][505]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.10-18.41.32:837][505]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.10-18.41.32:837][505]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.41.32:837][505]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.10-18.41.32:837][505]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.10-18.41.32:837][505]LogWorldPartition: Display: GetPartitionedActors took 53 us
+[2023.03.10-18.41.32:838][505]LogWorldPartition: Display: GenerateStreaming took 515 us
+[2023.03.10-18.41.32:838][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.10-18.41.32:838][505]PIE: New page: PIE session: ob_course_joint_ca (10 Mar 2023, 18:41:32)
+[2023.03.10-18.41.32:838][505]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.41.32:849][505]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.10-18.41.32:849][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010603s)
+[2023.03.10-18.41.32:849][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca.ob_course_joint_ca to /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca (0.010674s)
+[2023.03.10-18.41.32:849][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-18.41.32:850][505]LogAIModule: Creating AISystem for world ob_course_joint_ca
+[2023.03.10-18.41.32:850][505]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.10-18.41.32:851][505]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.10-18.41.32:852][505]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.10-18.41.32:852][505]LogPlayLevel: PIE: World Init took: (0.002681s)
+[2023.03.10-18.41.32:887][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.10-18.41.32:889][505]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.03.10-18.41.32:889][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.10-18.41.32:889][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.10-18.41.32:889][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.10-18.41.32:889][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.10-18.41.32:889][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.10-18.41.32:889][505]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.10-18.41.32:889][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.10-18.41.32:889][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.10-18.41.32:890][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.10-18.41.32:890][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.10-18.41.32:890][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.10-18.41.32:893][505]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.10-18.41.32:962][505]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.10-18.41.32:962][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.10-18.41.32:962][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.10-18.41.32:962][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.10-18.41.32:963][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.03.10-18.41.32:963][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.03.10-18.41.32:965][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.03.10-18.41.32:965][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.03.10-18.41.32:965][505]LogInit: FAudioDevice initialized.
+[2023.03.10-18.41.32:965][505]LogAudio: Display: Audio Device (ID: 26) registered with world 'ob_course_joint_ca'.
+[2023.03.10-18.41.32:977][505]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.10-18.41.32:979][505]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca up for play (max tick rate 0) at 2023.03.10-18.41.32
+[2023.03.10-18.41.32:979][505]LogWorld: Bringing up level for play took: 0.001813
+[2023.03.10-18.41.32:981][505]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.03.10-18.41.32:985][505]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=9560.000 Z=1382.013
+[2023.03.10-18.41.32:985][505]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.41.32:985][505]PIE: Server logged in
+[2023.03.10-18.41.32:986][505]PIE: Play in editor total start time 0.152 seconds.
+[2023.03.10-18.41.49:373][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.41.49:373][596]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.41.49:373][596]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-18.41.49:374][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.41.49:391][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.10-18.41.49:397][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.41.49:431][596]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.10-18.41.49:432][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.03.10-18.41.49:433][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.03.10-18.41.49:440][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.41.49:444][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.03.10-18.41.49:485][597]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.03.10-18.41.54:297][905]LogViewport: Scene viewport resized to 777x539, mode Windowed.
+[2023.03.10-18.42.22:709][447]BlueprintLog: New page: Compile trip_bp
+[2023.03.10-18.42.22:820][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.10-18.42.25:738][618]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.10-18.42.25:750][618]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.10-18.42.25:750][618]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.10-18.42.25:750][618]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.42.25:750][618]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.10-18.42.25:750][618]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.10-18.42.25:750][618]LogWorldPartition: Display: GetPartitionedActors took 43 us
+[2023.03.10-18.42.25:750][618]LogWorldPartition: Display: GenerateStreaming took 499 us
+[2023.03.10-18.42.25:750][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.10-18.42.25:751][618]PIE: New page: PIE session: ob_course_joint_ca (10 Mar 2023, 18:42:25)
+[2023.03.10-18.42.25:751][618]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.42.25:758][618]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.10-18.42.25:758][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007055s)
+[2023.03.10-18.42.25:758][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca.ob_course_joint_ca to /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca (0.007144s)
+[2023.03.10-18.42.25:758][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-18.42.25:759][618]LogAIModule: Creating AISystem for world ob_course_joint_ca
+[2023.03.10-18.42.25:759][618]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.10-18.42.25:760][618]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.10-18.42.25:761][618]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.10-18.42.25:761][618]LogPlayLevel: PIE: World Init took: (0.003135s)
+[2023.03.10-18.42.25:797][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.10-18.42.25:799][618]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.03.10-18.42.25:799][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.10-18.42.25:799][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.10-18.42.25:799][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.10-18.42.25:799][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.10-18.42.25:799][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.10-18.42.25:799][618]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.10-18.42.25:799][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.10-18.42.25:799][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.10-18.42.25:800][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.10-18.42.25:800][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.10-18.42.25:800][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.10-18.42.25:802][618]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.10-18.42.25:871][618]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.10-18.42.25:871][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.10-18.42.25:871][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.10-18.42.25:871][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.10-18.42.25:881][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.03.10-18.42.25:881][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.03.10-18.42.25:882][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.03.10-18.42.25:882][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.03.10-18.42.25:882][618]LogInit: FAudioDevice initialized.
+[2023.03.10-18.42.25:883][618]LogAudio: Display: Audio Device (ID: 27) registered with world 'ob_course_joint_ca'.
+[2023.03.10-18.42.25:896][618]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.10-18.42.25:899][618]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca.ob_course_joint_ca up for play (max tick rate 0) at 2023.03.10-18.42.25
+[2023.03.10-18.42.25:899][618]LogWorld: Bringing up level for play took: 0.002117
+[2023.03.10-18.42.25:901][618]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.03.10-18.42.25:904][618]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=9560.000 Z=1382.013
+[2023.03.10-18.42.25:904][618]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.10-18.42.25:905][618]PIE: Server logged in
+[2023.03.10-18.42.25:906][618]PIE: Play in editor total start time 0.16 seconds.
+[2023.03.10-18.43.06:193][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.43.06:193][606]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca
+[2023.03.10-18.43.06:193][606]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-18.43.06:194][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.43.06:213][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.10-18.43.06:218][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-18.43.06:257][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.10-18.43.06:257][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.03.10-18.43.06:259][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.03.10-18.43.06:265][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-18.43.06:268][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.03.10-18.43.06:310][607]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.03.10-18.44.41:800][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.03.10-18.44.41:800][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.03.10-18.44.41:801][240]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.StaticMeshActor_UAID_84A9380F62651D6E01_1703087446
+[2023.03.10-18.44.41:802][240]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ob_course_joint_ca.ob_course_joint_ca:PersistentLevel.StaticMeshActor_UAID_84A9380F62651D6E01_1703087446
+[2023.03.10-18.44.48:331][752]Cmd: TRANSACTION UNDO
+[2023.03.10-18.44.48:343][752]LogEditorTransaction: Undo Create Actor
+[2023.03.10-18.51.21:781][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.10-18.51.21:786][537]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/4/5J/OGOMMSW886V9L3F75FZVEV_Auto2
+[2023.03.10-18.51.21:786][537]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/OGOMMSW886V9L3F75FZVEV_Auto20E5F638A4B7FEA4DC76B6487B3326771.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/4/5J/OGOMMSW886V9L3F75FZVEV_Auto2.uasset'
+[2023.03.10-18.51.21:791][537]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/D/QM/HT8ZKBS18ETOXOKV1QFT6P_Auto2
+[2023.03.10-18.51.21:791][537]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/HT8ZKBS18ETOXOKV1QFT6P_Auto212F89DA74F4C73B6AB3C65BB0B12A3DA.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca/D/QM/HT8ZKBS18ETOXOKV1QFT6P_Auto2.uasset'
+[2023.03.10-18.51.21:792][537]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca' took 0.059
+[2023.03.10-18.51.21:792][537]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2023.03.10-18.51.21:792][537]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/trip_bp] ([2] browsable assets)...
+[2023.03.10-18.51.21:911][537]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/trip_bp.trip_bp]
+[2023.03.10-18.51.21:912][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/trip_bp]
+[2023.03.10-18.51.21:919][537]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trip_bp_Auto2
+[2023.03.10-18.51.21:920][537]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/trip_bp_Auto2D53CE6664DFABB3A9DB2B9BE1817F44D.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/trip_bp_Auto2.uasset'
+[2023.03.10-18.51.21:921][537]LogFileHelpers: Auto-saving content packages took 0.130
