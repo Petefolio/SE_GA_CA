@@ -1285,3 +1285,410 @@ Please see Output Log for details.
 [2023.04.04-21.04.38:441][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
 [2023.04.04-21.04.38:451][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2023.04.04-21.04.38:457][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.04-21.08.36:147][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.04-21.08.36:149][632]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca' took 0.011
+[2023.04.04-21.10.15:931][291]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Idle.fbx)
+[2023.04.04-21.10.15:939][291]LogFbx: Loading FBX Scene from ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Idle.fbx
+[2023.04.04-21.10.15:961][291]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.04-21.10.44:816][291]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(0) Hips
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(1) Spine
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(2) Spine1
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(3) Spine2
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(4) Neck
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(5) Head
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(19) RightShoulder
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(20) RightArm
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(21) RightForeArm
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(22) RightHand
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(23) RightHandThumb1
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(24) RightHandThumb2
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(25) RightHandThumb3
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(26) RightHandThumb4
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(27) RightHandIndex1
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(28) RightHandIndex2
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(29) RightHandIndex3
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(30) RightHandIndex4
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(31) LeftUpLeg
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(32) LeftLeg
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(33) LeftFoot
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(34) LeftToeBase
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(35) LeftToe_End
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(36) RightUpLeg
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(37) RightLeg
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(38) RightFoot
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(39) RightToeBase
+[2023.04.04-21.10.44:835][291]LogFbx: SortedLinks :(40) RightToe_End
+[2023.04.04-21.10.44:836][291]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.04-21.10.45:344][291]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Jump.fbx)
+[2023.04.04-21.10.45:351][291]LogFbx: Loading FBX Scene from ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Jump.fbx
+[2023.04.04-21.10.45:363][291]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(0) Hips
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(1) Spine
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(2) Spine1
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(3) Spine2
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(4) Neck
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(5) Head
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(19) RightShoulder
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(20) RightArm
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(21) RightForeArm
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(22) RightHand
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(23) RightHandThumb1
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(24) RightHandThumb2
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(25) RightHandThumb3
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(26) RightHandThumb4
+[2023.04.04-21.10.45:364][291]LogFbx: SortedLinks :(27) RightHandIndex1
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(28) RightHandIndex2
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(29) RightHandIndex3
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(30) RightHandIndex4
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(31) LeftUpLeg
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(32) LeftLeg
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(33) LeftFoot
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(34) LeftToeBase
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(35) LeftToe_End
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(36) RightUpLeg
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(37) RightLeg
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(38) RightFoot
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(39) RightToeBase
+[2023.04.04-21.10.45:365][291]LogFbx: SortedLinks :(40) RightToe_End
+[2023.04.04-21.10.45:365][291]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.04-21.10.45:447][291]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Jump.Neo_Jump
+[2023.04.04-21.10.45:539][291]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Running.fbx)
+[2023.04.04-21.10.45:545][291]LogFbx: Loading FBX Scene from ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Running.fbx
+[2023.04.04-21.10.45:559][291]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(0) Hips
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(1) Spine
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(2) Spine1
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(3) Spine2
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(4) Neck
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(5) Head
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(19) RightShoulder
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(20) RightArm
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(21) RightForeArm
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(22) RightHand
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(23) RightHandThumb1
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(24) RightHandThumb2
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(25) RightHandThumb3
+[2023.04.04-21.10.45:560][291]LogFbx: SortedLinks :(26) RightHandThumb4
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(27) RightHandIndex1
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(28) RightHandIndex2
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(29) RightHandIndex3
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(30) RightHandIndex4
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(31) LeftUpLeg
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(32) LeftLeg
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(33) LeftFoot
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(34) LeftToeBase
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(35) LeftToe_End
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(36) RightUpLeg
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(37) RightLeg
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(38) RightFoot
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(39) RightToeBase
+[2023.04.04-21.10.45:561][291]LogFbx: SortedLinks :(40) RightToe_End
+[2023.04.04-21.10.45:561][291]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.04-21.10.45:600][291]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Running.Neo_Running
+[2023.04.04-21.10.45:690][291]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Slide.fbx)
+[2023.04.04-21.10.45:699][291]LogFbx: Loading FBX Scene from ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Slide.fbx
+[2023.04.04-21.10.45:710][291]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(0) Hips
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(1) Spine
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(2) Spine1
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(3) Spine2
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(4) Neck
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(5) Head
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(19) RightShoulder
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(20) RightArm
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(21) RightForeArm
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(22) RightHand
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(23) RightHandThumb1
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(24) RightHandThumb2
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(25) RightHandThumb3
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(26) RightHandThumb4
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(27) RightHandIndex1
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(28) RightHandIndex2
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(29) RightHandIndex3
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(30) RightHandIndex4
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(31) LeftUpLeg
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(32) LeftLeg
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(33) LeftFoot
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(34) LeftToeBase
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(35) LeftToe_End
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(36) RightUpLeg
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(37) RightLeg
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(38) RightFoot
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(39) RightToeBase
+[2023.04.04-21.10.45:711][291]LogFbx: SortedLinks :(40) RightToe_End
+[2023.04.04-21.10.45:713][291]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.04-21.10.45:898][291]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Standing Melee Kick.fbx)
+[2023.04.04-21.10.45:908][291]LogFbx: Loading FBX Scene from ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Standing Melee Kick.fbx
+[2023.04.04-21.10.45:920][291]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(0) Hips
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(1) Spine
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(2) Spine1
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(3) Spine2
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(4) Neck
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(5) Head
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(19) RightShoulder
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(20) RightArm
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(21) RightForeArm
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(22) RightHand
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(23) RightHandThumb1
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(24) RightHandThumb2
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(25) RightHandThumb3
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(26) RightHandThumb4
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(27) RightHandIndex1
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(28) RightHandIndex2
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(29) RightHandIndex3
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(30) RightHandIndex4
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(31) LeftUpLeg
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(32) LeftLeg
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(33) LeftFoot
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(34) LeftToeBase
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(35) LeftToe_End
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(36) RightUpLeg
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(37) RightLeg
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(38) RightFoot
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(39) RightToeBase
+[2023.04.04-21.10.45:921][291]LogFbx: SortedLinks :(40) RightToe_End
+[2023.04.04-21.10.45:921][291]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.04-21.10.46:135][291]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Vault.fbx)
+[2023.04.04-21.10.46:145][291]LogFbx: Loading FBX Scene from ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Vault.fbx
+[2023.04.04-21.10.46:160][291]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(0) Hips
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(1) Spine
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(2) Spine1
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(3) Spine2
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(4) Neck
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(5) Head
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(19) RightShoulder
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(20) RightArm
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(21) RightForeArm
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(22) RightHand
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(23) RightHandThumb1
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(24) RightHandThumb2
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(25) RightHandThumb3
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(26) RightHandThumb4
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(27) RightHandIndex1
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(28) RightHandIndex2
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(29) RightHandIndex3
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(30) RightHandIndex4
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(31) LeftUpLeg
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(32) LeftLeg
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(33) LeftFoot
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(34) LeftToeBase
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(35) LeftToe_End
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(36) RightUpLeg
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(37) RightLeg
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(38) RightFoot
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(39) RightToeBase
+[2023.04.04-21.10.46:161][291]LogFbx: SortedLinks :(40) RightToe_End
+[2023.04.04-21.10.46:162][291]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.04-21.10.46:318][291]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Vaulting.fbx)
+[2023.04.04-21.10.46:327][291]LogFbx: Loading FBX Scene from ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Vaulting.fbx
+[2023.04.04-21.10.46:340][291]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(0) Hips
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(1) Spine
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(2) Spine1
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(3) Spine2
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(4) Neck
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(5) Head
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(19) RightShoulder
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(20) RightArm
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(21) RightForeArm
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(22) RightHand
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(23) RightHandThumb1
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(24) RightHandThumb2
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(25) RightHandThumb3
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(26) RightHandThumb4
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(27) RightHandIndex1
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(28) RightHandIndex2
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(29) RightHandIndex3
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(30) RightHandIndex4
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(31) LeftUpLeg
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(32) LeftLeg
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(33) LeftFoot
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(34) LeftToeBase
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(35) LeftToe_End
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(36) RightUpLeg
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(37) RightLeg
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(38) RightFoot
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(39) RightToeBase
+[2023.04.04-21.10.46:341][291]LogFbx: SortedLinks :(40) RightToe_End
+[2023.04.04-21.10.46:341][291]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.04-21.10.46:505][291]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Walking.fbx)
+[2023.04.04-21.10.46:514][291]LogFbx: Loading FBX Scene from ../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/ObstacleCourse2023/animations/Neo_Walking.fbx
+[2023.04.04-21.10.46:526][291]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(0) Hips
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(1) Spine
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(2) Spine1
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(3) Spine2
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(4) Neck
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(5) Head
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(19) RightShoulder
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(20) RightArm
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(21) RightForeArm
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(22) RightHand
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(23) RightHandThumb1
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(24) RightHandThumb2
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(25) RightHandThumb3
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(26) RightHandThumb4
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(27) RightHandIndex1
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(28) RightHandIndex2
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(29) RightHandIndex3
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(30) RightHandIndex4
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(31) LeftUpLeg
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(32) LeftLeg
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(33) LeftFoot
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(34) LeftToeBase
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(35) LeftToe_End
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(36) RightUpLeg
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(37) RightLeg
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(38) RightFoot
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(39) RightToeBase
+[2023.04.04-21.10.46:527][291]LogFbx: SortedLinks :(40) RightToe_End
+[2023.04.04-21.10.46:527][291]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.04-21.10.46:598][292]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Walking.Neo_Walking
+[2023.04.04-21.10.46:598][292]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Vaulting.Neo_Vaulting
+[2023.04.04-21.10.46:609][293]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Vault.Neo_Vault
+[2023.04.04-21.10.46:656][295]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Slide.Neo_Slide
+[2023.04.04-21.10.46:656][295]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Standing_Melee_Kick.Neo_Standing_Melee_Kick
+[2023.04.04-21.10.46:960][296]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.04-21.10.46:960][296]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.04-21.10.46:960][296]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.04-21.10.52:468][622]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Slide.Neo_Slide
+[2023.04.04-21.10.52:480][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.10.52:490][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.04-21.10.52:707][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.10.52:844][622]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.04-21.10.52:852][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.10.52:899][622]LogViewport: Scene viewport resized to 783x430, mode Windowed.
+[2023.04.04-21.10.52:935][622]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.04-21.10.58:475][910]LogSlate: Window 'Neo_Slide' being destroyed
+[2023.04.04-21.10.58:481][910]LogSlate: Window 'Neo_Slide' being destroyed
+[2023.04.04-21.10.58:493][910]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.10.58:493][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-21.10.58:501][910]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.10.58:501][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-21.10.58:563][910]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.10.58:563][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-21.11.01:069][ 57]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Idle.Neo_Idle
+[2023.04.04-21.11.01:070][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.11.01:088][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.04-21.11.01:288][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.11.01:381][ 57]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.04-21.11.01:390][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.11.01:415][ 57]LogViewport: Scene viewport resized to 783x430, mode Windowed.
+[2023.04.04-21.11.01:441][ 57]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.04-21.11.01:468][ 58]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.04-21.11.01:468][ 58]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.04-21.11.07:805][374]LogSlate: Window 'Neo_Idle' being destroyed
+[2023.04.04-21.11.07:813][374]LogSlate: Window 'Neo_Idle' being destroyed
+[2023.04.04-21.11.07:814][374]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.11.07:814][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-21.11.07:820][374]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.11.07:820][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-21.11.07:875][374]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.11.07:875][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
