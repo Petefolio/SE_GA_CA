@@ -1692,3 +1692,225 @@ Please see Output Log for details.
 [2023.04.04-21.11.07:820][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.04.04-21.11.07:875][374]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
 [2023.04.04-21.11.07:875][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-21.18.55:155][306]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-21.18.58:503][306]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.04-21.19.07:223][497]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.04.04-21.19.07:233][497]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.04.04-21.19.07:239][497]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.04.04-21.19.07:266][498]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.04.04-21.19.07:568][505]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.04-21.19.07:568][505]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.04-21.19.07:568][505]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.04-21.19.14:802][939]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> Neo_Blueprint
+[2023.04.04-21.19.14:928][939]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.04.04-21.19.54:205][896]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint
+[2023.04.04-21.19.54:218][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.19.54:230][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.19.54:240][896]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.04-21.19.55:852][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.19.55:993][896]LogSlate: Took 0.001127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.04-21.19.56:002][896]LogViewport: Scene viewport resized to 326x323, mode Windowed.
+[2023.04.04-21.25.14:355][ 88]BlueprintLog: New page: Compile Neo_Blueprint
+[2023.04.04-21.25.14:371][ 88]LogBlueprint: Warning: [AssetLog] /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint (no disk path found): [Compiler] Idle/Walk/Run to Jump  will never be taken, please connect something to  Can Enter Transition
+[2023.04.04-21.25.14:371][ 88]LogBlueprint: Warning: [AssetLog] /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint (no disk path found): [Compiler] Jump to Idle/Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2023.04.04-21.25.14:447][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.04.04-21.25.18:932][328]BlueprintLog: New page: Compile Neo_Blueprint
+[2023.04.04-21.25.18:935][328]LogBlueprint: Warning: [AssetLog] /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint (no disk path found): [Compiler] Idle/Walk/Run to Jump  will never be taken, please connect something to  Can Enter Transition
+[2023.04.04-21.25.18:935][328]LogBlueprint: Warning: [AssetLog] /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint (no disk path found): [Compiler] Jump to Idle/Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2023.04.04-21.25.18:984][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.04-21.28.17:864][728]BlueprintLog: New page: Compile Neo_Blueprint
+[2023.04.04-21.28.17:868][728]LogBlueprint: Warning: [AssetLog] /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint (no disk path found): [Compiler] Idle/Walk/Run to Jump  will never be taken, please connect something to  Can Enter Transition
+[2023.04.04-21.28.17:868][728]LogBlueprint: Warning: [AssetLog] /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint (no disk path found): [Compiler] Jump to Idle/Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2023.04.04-21.28.17:886][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.28.17:886][728]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.28.17:886][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.28.17:886][728]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.28.17:887][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.28.17:887][728]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.28.17:887][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.28.17:887][728]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.28.17:917][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.04.04-21.28.17:937][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.28.17:937][728]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.28.17:937][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.28.17:937][728]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.28.17:978][729]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.28.17:978][729]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.28.17:978][729]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.28.17:978][729]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_3
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.30.47:965][294]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.04.04-21.31.57:119][708]BlueprintLog: New page: Compile Neo_Blueprint
+[2023.04.04-21.31.57:139][708]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.31.57:139][708]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.31.57:139][708]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.31.57:139][708]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.31.57:139][708]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.31.57:139][708]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.31.57:139][708]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.31.57:139][708]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.31.57:168][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.04.04-21.31.57:186][708]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.31.57:186][708]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.31.57:186][708]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.31.57:186][708]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.31.57:227][709]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.31.57:227][709]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.31.57:227][709]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.31.57:227][709]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_4
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.32.54:439][272]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Idle.Neo_Idle
+[2023.04.04-21.32.54:440][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.32.54:458][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.04-21.32.54:625][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.32.54:747][272]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.04-21.32.54:755][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.32.54:782][272]LogViewport: Scene viewport resized to 783x430, mode Windowed.
+[2023.04.04-21.32.54:810][272]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.04-21.32.58:825][486]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.32.58:825][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-21.32.58:836][486]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.32.58:836][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-21.32.58:898][486]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.32.58:898][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-21.32.58:931][486]LogViewport: Scene viewport resized to 476x409, mode Windowed.
+[2023.04.04-21.33.08:666][618]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.809 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.04-21.33.35:795][928]BlueprintLog: New page: Compile Neo_Blueprint
+[2023.04.04-21.33.35:816][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.33.35:816][928]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.33.35:816][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.33.35:816][928]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.33.35:816][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.33.35:816][928]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.33.35:816][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.33.35:816][928]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.33.35:860][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.04-21.33.35:880][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.33.35:880][928]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.33.35:880][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.33.35:880][928]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.33.35:922][929]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0038
+[2023.04.04-21.33.35:922][929]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0066
+[2023.04.04-21.33.35:922][929]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:00C1
+[2023.04.04-21.33.35:922][929]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Neo_Blueprint_C /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Neo_Blueprint_C_5
+	Function /Game/Characters/Player/Animations/Neo_Blueprint.Neo_Blueprint_C:ExecuteUbergraph_Neo_Blueprint:0100
+[2023.04.04-21.33.54:411][880]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.04.04-21.33.54:423][880]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2023.04.04-21.33.54:430][880]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2023.04.04-21.33.54:453][881]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace1D).
+[2023.04.04-21.33.54:503][884]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> NewBlendSpace1D
+[2023.04.04-21.33.54:638][884]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2023.04.04-21.33.54:809][886]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.04-21.33.54:809][886]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.04-21.33.54:809][886]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.04-21.34.09:176][339]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> Neo_BS
+[2023.04.04-21.34.09:529][339]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.04-21.34.09:529][339]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.04-21.34.09:894][339]LogSavePackage: Moving output files for package: /Game/Characters/Player/Animations/Neo_BS
+[2023.04.04-21.34.09:894][339]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Neo_BS3E9639F54E09203280736893D7CC8E5C.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/Characters/Player/Animations/Neo_BS.uasset'
+[2023.04.04-21.34.10:527][339]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.04-21.34.10:527][339]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.04-21.34.10:849][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.04-21.34.10:880][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.04-21.34.10:915][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.04-21.34.10:924][339]AssetCheck: New page: Asset Save: Neo_BS
+[2023.04.04-21.34.10:924][339]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/Player/Animations/Neo_BS.Neo_BS
+[2023.04.04-21.34.13:621][496]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Player/Animations/Neo_BS.Neo_BS
+[2023.04.04-21.34.13:621][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.34.13:644][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.04-21.34.13:858][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.34.13:981][496]LogViewport: Scene viewport resized to 1141x534, mode Windowed.
+[2023.04.04-21.34.14:004][496]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
