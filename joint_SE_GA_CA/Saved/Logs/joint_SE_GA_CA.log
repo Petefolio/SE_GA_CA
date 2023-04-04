@@ -2330,3 +2330,9 @@ Please see Output Log for details.
 [2023.04.04-22.29.00:426][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
 [2023.04.04-22.29.00:426][270]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto6EBCC621C4C8BE16EF24BCAA440369741.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
 [2023.04.04-22.29.00:427][270]LogFileHelpers: Auto-saving content packages took 0.074
+[2023.04.04-22.36.26:225][580]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.04-22.36.26:311][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.04-22.36.27:267][623]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.04.04-22.36.27:268][623]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter10644E704D9396867A43DD927C15BBF5.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.04.04-22.36.27:287][623]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.04.04-22.36.27:287][623]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
