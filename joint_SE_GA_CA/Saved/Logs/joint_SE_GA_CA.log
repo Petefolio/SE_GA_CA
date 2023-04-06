@@ -2526,3 +2526,919 @@ RightHandThumb4
 [2023.04.06-15.43.32:954][481]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/1S03SAJKAFOKTF7ACHJSTF_Auto8DA5360A54FE8C28685EBF98B270BBC86.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_2/3/E6/1S03SAJKAFOKTF7ACHJSTF_Auto8.uasset'
 [2023.04.06-15.43.32:954][481]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_2' took 0.054
 [2023.04.06-15.43.32:954][481]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2023.04.06-15.43.53:144][831]LogViewport: Scene viewport resized to 1366x894, mode Windowed.
+[2023.04.06-15.44.05:925][425]Cmd: TRANSACTION UNDO
+[2023.04.06-15.44.05:925][425]LogEditorTransaction: Undo Rotate Elements
+[2023.04.06-15.44.06:116][425]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_78:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.06-15.44.06:119][425]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.06-15.44.13:808][844]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.04.06-15.44.15:130][905]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.06-15.44.25:991][416]BlueprintLog: New page: Compile BP_Enemy_AI
+[2023.04.06-15.44.26:122][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.04.06-15.44.26:194][416]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.06-15.44.26:295][417]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.06-15.44.26:713][431]LogSavePackage: Moving output files for package: /Game/Characters/Enemy/BP_Enemy_AI
+[2023.04.06-15.44.26:713][431]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_Enemy_AID6175CC94EA2205B590E0792AAD1DAD5.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/Characters/Enemy/BP_Enemy_AI.uasset'
+[2023.04.06-15.44.26:733][431]AssetCheck: New page: Asset Save: BP_Enemy_AI
+[2023.04.06-15.44.26:733][431]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy/BP_Enemy_AI.BP_Enemy_AI
+[2023.04.06-15.44.29:645][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.06-15.44.29:656][590]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.06-15.44.29:656][590]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.06-15.44.29:656][590]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-15.44.29:656][590]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.06-15.44.29:656][590]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.06-15.44.29:656][590]LogWorldPartition: Display: GetPartitionedActors took 89 us
+[2023.04.06-15.44.29:657][590]LogWorldPartition: Display: GenerateStreaming took 962 us
+[2023.04.06-15.44.29:657][590]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.06-15.44.29:659][590]LogPlayLevel: [PlayLevel] Compiling BP_Enemy before play...
+[2023.04.06-15.44.29:685][590]LogPlayLevel: [PlayLevel] Compiling Enemy_ABP before play...
+[2023.04.06-15.44.29:751][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.06-15.44.29:757][590]LogPlayLevel: PlayLevel: Blueprint regeneration took 99 ms (2 blueprints)
+[2023.04.06-15.44.29:757][590]PIE: New page: PIE session: ob_course_joint_ca_2 (6 Apr 2023, 17:44:29)
+[2023.04.06-15.44.29:757][590]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-15.44.29:767][590]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.06-15.44.29:767][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010192s)
+[2023.04.06-15.44.29:767][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_2.ob_course_joint_ca_2 to /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 (0.010236s)
+[2023.04.06-15.44.29:768][590]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-15.44.29:768][590]LogAIModule: Creating AISystem for world ob_course_joint_ca_2
+[2023.04.06-15.44.29:768][590]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.06-15.44.29:768][590]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.06-15.44.29:771][590]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.06-15.44.29:771][590]LogPlayLevel: PIE: World Init took: (0.003664s)
+[2023.04.06-15.44.29:808][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.04.06-15.44.29:809][590]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.06-15.44.29:809][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.06-15.44.29:809][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.06-15.44.29:809][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.06-15.44.29:809][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.06-15.44.29:809][590]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.06-15.44.29:809][590]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.06-15.44.29:809][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.06-15.44.29:809][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.06-15.44.29:810][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.06-15.44.29:810][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.06-15.44.29:810][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.06-15.44.29:814][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.06-15.44.29:864][590]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.06-15.44.29:865][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.06-15.44.29:865][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.06-15.44.29:865][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.06-15.44.29:867][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.04.06-15.44.29:867][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.04.06-15.44.29:868][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.04.06-15.44.29:868][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.04.06-15.44.29:868][590]LogInit: FAudioDevice initialized.
+[2023.04.06-15.44.29:868][590]LogAudio: Display: Audio Device (ID: 8) registered with world 'ob_course_joint_ca_2'.
+[2023.04.06-15.44.29:884][590]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.06-15.44.29:888][590]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 up for play (max tick rate 60) at 2023.04.06-16.44.29
+[2023.04.06-15.44.29:889][590]LogWorld: Bringing up level for play took: 0.004428
+[2023.04.06-15.44.29:892][590]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2023.04.06-15.44.29:894][590]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=6490.000 Z=1052.013
+[2023.04.06-15.44.29:894][590]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-15.44.29:895][590]PIE: Server logged in
+[2023.04.06-15.44.29:896][590]PIE: Play in editor total start time 0.243 seconds.
+[2023.04.06-15.45.15:135][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-15.45.15:135][252]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-15.45.15:136][252]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-15.45.15:136][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-15.45.15:152][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.06-15.45.15:158][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-15.45.15:192][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-15.45.15:192][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.06-15.45.15:195][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.06-15.45.15:206][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.04.06-15.45.15:322][253]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2023.04.06-15.45.15:358][253]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.06-15.48.48:429][981]LogViewport: Scene viewport resized to 907x582, mode Windowed.
+[2023.04.06-15.48.49:171][981]LogViewport: Scene viewport resized to 674x372, mode Windowed.
+[2023.04.06-15.48.50:442][986]LogViewport: Scene viewport resized to 674x373, mode Windowed.
+[2023.04.06-15.48.50:518][986]LogViewport: Scene viewport resized to 674x411, mode Windowed.
+[2023.04.06-15.48.50:574][986]LogViewport: Scene viewport resized to 674x454, mode Windowed.
+[2023.04.06-15.48.50:630][986]LogViewport: Scene viewport resized to 674x495, mode Windowed.
+[2023.04.06-15.48.50:686][986]LogViewport: Scene viewport resized to 674x523, mode Windowed.
+[2023.04.06-15.48.50:748][986]LogViewport: Scene viewport resized to 674x649, mode Windowed.
+[2023.04.06-15.48.50:810][986]LogViewport: Scene viewport resized to 674x859, mode Windowed.
+[2023.04.06-15.48.50:834][986]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.06-15.48.50:882][986]LogViewport: Scene viewport resized to 674x889, mode Windowed.
+[2023.04.06-15.48.51:227][986]LogViewport: Scene viewport resized to 674x888, mode Windowed.
+[2023.04.06-15.54.57:609][368]LogViewport: Scene viewport resized to 562x530, mode Windowed.
+[2023.04.06-15.54.58:639][405]LogViewport: Scene viewport resized to 234x406, mode Windowed.
+[2023.04.06-15.55.03:599][608]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Enemy/Enemy_ABP.Enemy_ABP
+[2023.04.06-15.55.03:600][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-15.55.03:626][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-15.55.03:636][608]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.06-15.55.04:176][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-15.55.04:411][608]LogViewport: Scene viewport resized to 234x406, mode Windowed.
+[2023.04.06-15.55.04:447][608]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.06-15.55.04:631][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.06-15.55.04:636][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_2/3/E6/1S03SAJKAFOKTF7ACHJSTF_Auto9
+[2023.04.06-15.55.04:636][609]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/1S03SAJKAFOKTF7ACHJSTF_Auto983F78CB44B3018804D5561A0BF06BE23.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_2/3/E6/1S03SAJKAFOKTF7ACHJSTF_Auto9.uasset'
+[2023.04.06-15.55.04:637][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_2' took 0.051
+[2023.04.06-15.55.04:637][609]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2023.04.06-15.55.04:637][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy/BP_Enemy_AI] ([2] browsable assets)...
+[2023.04.06-15.55.04:647][609]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Enemy/BP_Enemy_AI.BP_Enemy_AI]
+[2023.04.06-15.55.04:647][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy/BP_Enemy_AI]
+[2023.04.06-15.55.04:655][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy/BP_Enemy_AI_Auto9
+[2023.04.06-15.55.04:655][609]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_Enemy_AI_Auto9191C1ED04BEEB8B40C1FE792E82C4F3F.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/Characters/Enemy/BP_Enemy_AI_Auto9.uasset'
+[2023.04.06-15.55.04:656][609]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.04.06-15.55.17:395][188]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-15.55.17:395][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-15.55.17:404][188]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-15.55.17:404][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-15.55.17:479][188]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-15.55.17:479][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.01.28:545][431]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.899 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.06-16.05.05:099][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.04.06-16.05.05:106][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_2' took 0.055
+[2023.04.06-16.05.05:106][ 74]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Enemy/Enemy_AI_ABP] ([2] browsable assets)...
+[2023.04.06-16.05.05:146][ 74]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Enemy/Enemy_AI_ABP.Enemy_AI_ABP]
+[2023.04.06-16.05.05:146][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy/Enemy_AI_ABP]
+[2023.04.06-16.05.05:154][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy/Enemy_AI_ABP_Auto0
+[2023.04.06-16.05.05:154][ 74]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Enemy_AI_ABP_Auto0EA605CB7499CD7B06A8B58A30116C18D.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/Characters/Enemy/Enemy_AI_ABP_Auto0.uasset'
+[2023.04.06-16.05.05:155][ 74]LogFileHelpers: Auto-saving content packages took 0.049
+[2023.04.06-16.30.00:970][ 88]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Enemy/Enemy_Animations/Enemy_Cross_Punch.Enemy_Cross_Punch
+[2023.04.06-16.30.01:003][ 88]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.06-16.30.01:010][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.30.04:548][237]LogSlate: Window 'BP_Enemy_AI' being destroyed
+[2023.04.06-16.30.04:555][237]LogSlate: Window 'BP_Enemy_AI' being destroyed
+[2023.04.06-16.30.04:586][237]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.04:586][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.30.04:605][237]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.04:605][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.30.04:672][237]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.04:673][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.30.04:698][237]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.04:698][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.30.04:706][237]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.04:706][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.30.04:805][237]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.04:805][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.30.04:825][237]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.04:825][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.30.32:715][477]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\petel\Downloads\Cross Punch.fbx)
+[2023.04.06-16.30.32:724][477]LogFbx: Loading FBX Scene from C:\Users\petel\Downloads\Cross Punch.fbx
+[2023.04.06-16.30.32:739][477]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.30.38:152][477]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(0) Hips
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(1) Spine
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(2) Spine1
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(3) Spine2
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(4) Neck
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(5) Head
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(15) RightShoulder
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(16) RightArm
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(17) RightForeArm
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(18) RightHand
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(19) RightHandIndex1
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(20) RightHandIndex2
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(21) RightHandIndex3
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(22) RightHandIndex4
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(23) LeftUpLeg
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(24) LeftLeg
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(25) LeftFoot
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(26) LeftToeBase
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(27) LeftToe_End
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(28) RightUpLeg
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(29) RightLeg
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(30) RightFoot
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(31) RightToeBase
+[2023.04.06-16.30.38:178][477]LogFbx: SortedLinks :(32) RightToe_End
+[2023.04.06-16.30.38:178][477]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.06-16.30.38:253][477]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Enemy/Enemy_Animations/Cross_Punch.Cross_Punch
+[2023.04.06-16.30.38:253][477]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2023.04.06-16.30.38:732][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.06-16.30.38:732][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.06-16.30.38:732][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.06-16.30.43:810][793]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Enemy/Enemy_Animations/Cross_Punch.Cross_Punch
+[2023.04.06-16.30.43:811][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.30.43:828][793]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.06-16.30.44:057][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.30.44:207][793]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.06-16.30.44:219][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.30.44:250][793]LogViewport: Scene viewport resized to 777x424, mode Windowed.
+[2023.04.06-16.30.44:278][793]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.06-16.30.44:318][794]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.06-16.30.44:318][794]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.06-16.30.47:600][966]LogSlate: Window 'Cross_Punch' being destroyed
+[2023.04.06-16.30.47:606][966]LogSlate: Window 'Cross_Punch' being destroyed
+[2023.04.06-16.30.47:608][966]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.47:608][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.30.47:623][966]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.47:623][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.30.47:723][966]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.30.47:723][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.33.51:318][665]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.06-16.33.51:318][665]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.06-16.33.53:493][786]LogContentBrowser: Deferred new asset file creation: Cross_Punch_Montage
+[2023.04.06-16.33.53:504][786]LogContentBrowser: Creating deferred item: Cross_Punch_Montage
+[2023.04.06-16.33.53:518][787]LogContentBrowser: Renaming the item being created (Deferred Item: Cross_Punch_Montage).
+[2023.04.06-16.33.59:243][131]LogContentBrowser: Attempting asset rename: Cross_Punch_Montage -> Enemy_Punch_Montage
+[2023.04.06-16.33.59:350][131]LogContentBrowser: End creating deferred item Cross_Punch_Montage
+[2023.04.06-16.35.59:620][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemy/BP_Enemy_AI.BP_Enemy_AI
+[2023.04.06-16.35.59:621][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.36.00:080][634]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.06-16.36.00:080][634]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.06-16.36.28:637][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.06-16.36.28:643][929]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_2' took 0.049
+[2023.04.06-16.36.28:644][929]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy/BP_Enemy_AI] ([2] browsable assets)...
+[2023.04.06-16.36.28:751][929]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Enemy/BP_Enemy_AI.BP_Enemy_AI]
+[2023.04.06-16.36.28:751][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy/BP_Enemy_AI]
+[2023.04.06-16.36.28:759][929]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy/BP_Enemy_AI_Auto1
+[2023.04.06-16.36.28:759][929]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_Enemy_AI_Auto115A182544C42CD20A1B40AA47121D6EE.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/Characters/Enemy/BP_Enemy_AI_Auto1.uasset'
+[2023.04.06-16.36.28:761][929]LogFileHelpers: Auto-saving content packages took 0.117
+[2023.04.06-16.41.35:600][377]BlueprintLog: New page: Compile BP_Enemy_AI
+[2023.04.06-16.41.35:672][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.04.06-16.41.36:600][417]LogSavePackage: Moving output files for package: /Game/Characters/Enemy/BP_Enemy_AI
+[2023.04.06-16.41.36:602][417]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_Enemy_AI8EBCF1DD4FA932A03EB00D955136AC69.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/Characters/Enemy/BP_Enemy_AI.uasset'
+[2023.04.06-16.41.36:619][417]AssetCheck: New page: Asset Save: BP_Enemy_AI
+[2023.04.06-16.41.36:619][417]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy/BP_Enemy_AI.BP_Enemy_AI
+[2023.04.06-16.41.39:209][568]LogViewport: Scene viewport resized to 1366x894, mode Windowed.
+[2023.04.06-16.41.40:387][635]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.06-16.41.40:396][635]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.06-16.41.40:396][635]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.06-16.41.40:396][635]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-16.41.40:396][635]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.06-16.41.40:396][635]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.06-16.41.40:396][635]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.04.06-16.41.40:397][635]LogWorldPartition: Display: GenerateStreaming took 599 us
+[2023.04.06-16.41.40:397][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.06-16.41.40:398][635]PIE: New page: PIE session: ob_course_joint_ca_2 (6 Apr 2023, 18:41:40)
+[2023.04.06-16.41.40:398][635]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-16.41.40:408][635]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.06-16.41.40:408][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011193s)
+[2023.04.06-16.41.40:408][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_2.ob_course_joint_ca_2 to /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 (0.011240s)
+[2023.04.06-16.41.40:409][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.41.40:409][635]LogAIModule: Creating AISystem for world ob_course_joint_ca_2
+[2023.04.06-16.41.40:410][635]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.06-16.41.40:410][635]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.06-16.41.40:412][635]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.06-16.41.40:412][635]LogPlayLevel: PIE: World Init took: (0.003886s)
+[2023.04.06-16.41.40:444][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.06-16.41.40:449][635]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.06-16.41.40:449][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.06-16.41.40:449][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.06-16.41.40:449][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.06-16.41.40:449][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.06-16.41.40:449][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.06-16.41.40:449][635]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.06-16.41.40:449][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.06-16.41.40:449][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.06-16.41.40:450][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.06-16.41.40:450][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.06-16.41.40:450][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.06-16.41.40:452][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.06-16.41.40:493][635]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.06-16.41.40:493][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.06-16.41.40:493][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.06-16.41.40:493][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.06-16.41.40:493][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.04.06-16.41.40:495][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.04.06-16.41.40:496][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.04.06-16.41.40:496][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.04.06-16.41.40:496][635]LogInit: FAudioDevice initialized.
+[2023.04.06-16.41.40:496][635]LogAudio: Display: Audio Device (ID: 9) registered with world 'ob_course_joint_ca_2'.
+[2023.04.06-16.41.40:513][635]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.06-16.41.40:516][635]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 up for play (max tick rate 60) at 2023.04.06-17.41.40
+[2023.04.06-16.41.40:517][635]LogWorld: Bringing up level for play took: 0.003960
+[2023.04.06-16.41.40:519][635]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2023.04.06-16.41.40:521][635]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=6490.000 Z=1052.013
+[2023.04.06-16.41.40:521][635]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-16.41.40:522][635]PIE: Server logged in
+[2023.04.06-16.41.40:523][635]PIE: Play in editor total start time 0.13 seconds.
+[2023.04.06-16.41.58:250][686]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=0.69 Y=600.00 Z=0.00 Location: X=445.07 Y=15807.25 Z=1262.21 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:50.065 Actor:Obstacle_Blueprint_C_UAID_84A9380F6265186E01_2023062558 Component:Cone BoneName:None (0 other events since notify)
+[2023.04.06-16.42.16:656][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-16.42.16:656][788]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-16.42.16:656][788]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.42.16:656][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.42.16:678][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.06-16.42.16:683][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.42.16:713][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.06-16.42.16:713][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.06-16.42.16:715][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.06-16.42.16:722][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-16.42.16:725][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.06-16.42.16:816][789]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2023.04.06-16.43.04:816][349]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Enemy/Enemy_Animations/Enemy_Punch_Montage.Enemy_Punch_Montage
+[2023.04.06-16.43.04:820][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.43.04:836][349]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.06-16.43.05:063][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.43.05:234][349]LogViewport: Scene viewport resized to 777x424, mode Windowed.
+[2023.04.06-16.43.24:166][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.43.24:199][367]LogViewport: Scene viewport resized to 194x240, mode Windowed.
+[2023.04.06-16.43.32:575][797]Cmd: TRANSACTION UNDO
+[2023.04.06-16.43.32:575][797]LogEditorTransaction: Undo Change Bool Pin Value
+[2023.04.06-16.43.32:660][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.06-16.43.36:372][960]LogSlate: Window 'Enemy_Punch_Montage' being destroyed
+[2023.04.06-16.43.36:381][960]LogSlate: Window 'Enemy_Punch_Montage' being destroyed
+[2023.04.06-16.43.36:389][960]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.43.36:389][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.43.36:459][960]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.43.36:460][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.43.36:537][960]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.43.36:537][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.43.36:552][960]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.43.36:552][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.44.03:308][673]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.06-16.44.05:896][826]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.06-16.44.07:551][923]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.06-16.44.07:559][923]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.06-16.44.07:559][923]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.06-16.44.07:559][923]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-16.44.07:559][923]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.06-16.44.07:559][923]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.06-16.44.07:559][923]LogWorldPartition: Display: GetPartitionedActors took 59 us
+[2023.04.06-16.44.07:560][923]LogWorldPartition: Display: GenerateStreaming took 690 us
+[2023.04.06-16.44.07:560][923]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.06-16.44.07:561][923]LogPlayLevel: [PlayLevel] Compiling Enemy_AI_ABP before play...
+[2023.04.06-16.44.07:562][923]LogPlayLevel: [PlayLevel]   Compiling BP_Enemy_AI as a dependent...
+[2023.04.06-16.44.07:641][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.06-16.44.07:658][923]LogPlayLevel: PlayLevel: Blueprint regeneration took 99 ms (2 blueprints)
+[2023.04.06-16.44.07:658][923]PIE: New page: PIE session: ob_course_joint_ca_2 (6 Apr 2023, 18:44:07)
+[2023.04.06-16.44.07:686][923]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-16.44.07:696][923]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.06-16.44.07:696][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010562s)
+[2023.04.06-16.44.07:696][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_2.ob_course_joint_ca_2 to /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 (0.010650s)
+[2023.04.06-16.44.07:696][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.44.07:697][923]LogAIModule: Creating AISystem for world ob_course_joint_ca_2
+[2023.04.06-16.44.07:697][923]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.06-16.44.07:697][923]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.06-16.44.07:700][923]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.06-16.44.07:700][923]LogPlayLevel: PIE: World Init took: (0.003616s)
+[2023.04.06-16.44.07:722][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.06-16.44.07:723][923]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.06-16.44.07:723][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.06-16.44.07:723][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.06-16.44.07:723][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.06-16.44.07:723][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.06-16.44.07:723][923]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.06-16.44.07:723][923]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.06-16.44.07:723][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.06-16.44.07:723][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.06-16.44.07:723][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.06-16.44.07:723][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.06-16.44.07:723][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.06-16.44.07:726][923]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.06-16.44.07:768][923]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.06-16.44.07:769][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.06-16.44.07:769][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.06-16.44.07:769][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.06-16.44.07:770][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.04.06-16.44.07:770][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.04.06-16.44.07:771][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.04.06-16.44.07:771][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.04.06-16.44.07:771][923]LogInit: FAudioDevice initialized.
+[2023.04.06-16.44.07:771][923]LogAudio: Display: Audio Device (ID: 10) registered with world 'ob_course_joint_ca_2'.
+[2023.04.06-16.44.07:788][923]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.06-16.44.07:792][923]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 up for play (max tick rate 60) at 2023.04.06-17.44.07
+[2023.04.06-16.44.07:792][923]LogWorld: Bringing up level for play took: 0.004112
+[2023.04.06-16.44.07:795][923]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2023.04.06-16.44.07:796][923]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.06-16.44.07:796][923]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-16.44.07:797][923]PIE: Server logged in
+[2023.04.06-16.44.07:797][923]PIE: Play in editor total start time 0.241 seconds.
+[2023.04.06-16.44.35:226][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-16.44.35:226][550]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-16.44.35:227][550]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.44.35:227][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.44.35:242][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.06-16.44.35:247][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.44.35:272][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-16.44.35:272][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.06-16.44.35:275][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.06-16.44.35:285][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.06-16.44.35:338][551]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2023.04.06-16.47.33:126][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.04.06-16.47.33:132][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_2/1/R6/OPJXI227WR6R2VVO5DVSL7_Auto2
+[2023.04.06-16.47.33:132][165]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/OPJXI227WR6R2VVO5DVSL7_Auto28ADA9A674B4DF73F1AA0139FEBEADAF9.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_2/1/R6/OPJXI227WR6R2VVO5DVSL7_Auto2.uasset'
+[2023.04.06-16.47.33:135][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_2/3/E6/1S03SAJKAFOKTF7ACHJSTF_Auto2
+[2023.04.06-16.47.33:135][165]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/1S03SAJKAFOKTF7ACHJSTF_Auto25BEC68E94BDA2FC28FF14794182016E5.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_2/3/E6/1S03SAJKAFOKTF7ACHJSTF_Auto2.uasset'
+[2023.04.06-16.47.33:136][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_2' took 0.037
+[2023.04.06-16.47.33:137][165]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.04.06-16.47.33:137][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy/BP_Enemy_AI] ([2] browsable assets)...
+[2023.04.06-16.47.33:242][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Enemy/BP_Enemy_AI.BP_Enemy_AI]
+[2023.04.06-16.47.33:242][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy/BP_Enemy_AI]
+[2023.04.06-16.47.33:251][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy/BP_Enemy_AI_Auto2
+[2023.04.06-16.47.33:251][165]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_Enemy_AI_Auto2B76FE434470ABD7A2670BD84D27E9D56.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/Characters/Enemy/BP_Enemy_AI_Auto2.uasset'
+[2023.04.06-16.47.33:252][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy/Enemy_AI_ABP] ([2] browsable assets)...
+[2023.04.06-16.47.33:252][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy/Enemy_AI_ABP]
+[2023.04.06-16.47.33:260][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy/Enemy_AI_ABP_Auto2
+[2023.04.06-16.47.33:260][165]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Enemy_AI_ABP_Auto269371DA94140B26DE8317694AD62A2EC.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/Characters/Enemy/Enemy_AI_ABP_Auto2.uasset'
+[2023.04.06-16.47.33:261][165]LogFileHelpers: Auto-saving content packages took 0.125
+[2023.04.06-17.01.28:705][658]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.909 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.06-17.46.40:586][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemy/BP_Enemy_AI.BP_Enemy_AI
+[2023.04.06-17.46.40:587][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-17.46.41:261][791]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.06-17.46.41:261][791]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.06-17.47.42:307][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.06-17.47.42:313][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_2' took 0.043
+[2023.04.06-17.47.42:314][184]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy/BP_Enemy_AI] ([2] browsable assets)...
+[2023.04.06-17.47.42:327][184]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Enemy/BP_Enemy_AI.BP_Enemy_AI]
+[2023.04.06-17.47.42:327][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy/BP_Enemy_AI]
+[2023.04.06-17.47.42:339][184]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy/BP_Enemy_AI_Auto3
+[2023.04.06-17.47.42:339][184]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_Enemy_AI_Auto35325F715466DD5431C3D309A02D166FD.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/Characters/Enemy/BP_Enemy_AI_Auto3.uasset'
+[2023.04.06-17.47.42:340][184]LogFileHelpers: Auto-saving content packages took 0.027
+[2023.04.06-17.48.56:388][466]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.06-17.48.56:399][466]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.06-17.48.56:399][466]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.06-17.48.56:399][466]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-17.48.56:399][466]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.06-17.48.56:399][466]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.06-17.48.56:399][466]LogWorldPartition: Display: GetPartitionedActors took 45 us
+[2023.04.06-17.48.56:400][466]LogWorldPartition: Display: GenerateStreaming took 578 us
+[2023.04.06-17.48.56:401][466]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.06-17.48.56:402][466]LogPlayLevel: [PlayLevel] Compiling Enemy_AI_ABP before play...
+[2023.04.06-17.48.56:403][466]LogPlayLevel: [PlayLevel]   Compiling BP_Enemy_AI as a dependent...
+[2023.04.06-17.48.56:524][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.04.06-17.48.56:528][466]LogPlayLevel: PlayLevel: Blueprint regeneration took 128 ms (2 blueprints)
+[2023.04.06-17.48.56:528][466]PIE: New page: PIE session: ob_course_joint_ca_2 (6 Apr 2023, 19:48:56)
+[2023.04.06-17.48.56:528][466]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-17.48.56:542][466]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.06-17.48.56:542][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013796s)
+[2023.04.06-17.48.56:542][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_2.ob_course_joint_ca_2 to /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 (0.013844s)
+[2023.04.06-17.48.56:542][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-17.48.56:543][466]LogAIModule: Creating AISystem for world ob_course_joint_ca_2
+[2023.04.06-17.48.56:544][466]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.06-17.48.56:544][466]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.06-17.48.56:548][466]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2023.04.06-17.48.56:548][466]LogPlayLevel: PIE: World Init took: (0.005528s)
+[2023.04.06-17.48.56:583][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.06-17.48.56:584][466]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.06-17.48.56:584][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.06-17.48.56:584][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.06-17.48.56:584][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.06-17.48.56:584][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.06-17.48.56:584][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.06-17.48.56:584][466]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.06-17.48.56:584][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.06-17.48.56:584][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.06-17.48.56:586][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.06-17.48.56:586][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.06-17.48.56:586][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.06-17.48.56:588][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.06-17.48.56:648][466]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.06-17.48.56:648][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.06-17.48.56:648][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.06-17.48.56:648][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.06-17.48.56:649][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.04.06-17.48.56:649][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.04.06-17.48.56:651][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.04.06-17.48.56:651][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.04.06-17.48.56:651][466]LogInit: FAudioDevice initialized.
+[2023.04.06-17.48.56:651][466]LogAudio: Display: Audio Device (ID: 11) registered with world 'ob_course_joint_ca_2'.
+[2023.04.06-17.48.56:680][466]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.06-17.48.56:687][466]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 up for play (max tick rate 60) at 2023.04.06-18.48.56
+[2023.04.06-17.48.56:688][466]LogWorld: Bringing up level for play took: 0.007620
+[2023.04.06-17.48.56:692][466]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2023.04.06-17.48.56:695][466]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.06-17.48.56:696][466]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-17.48.56:696][466]PIE: Server logged in
+[2023.04.06-17.48.56:698][466]PIE: Play in editor total start time 0.3 seconds.
+[2023.04.06-17.48.59:558][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-17.48.59:558][487]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-17.48.59:558][487]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-17.48.59:559][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-17.48.59:692][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.06-17.48.59:702][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-17.48.59:746][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-17.48.59:746][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.06-17.48.59:749][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.06-17.48.59:767][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.06-17.48.59:892][488]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2023.04.06-17.49.08:389][552]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.06-17.49.08:401][552]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.06-17.49.08:401][552]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.06-17.49.08:401][552]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-17.49.08:401][552]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.06-17.49.08:401][552]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.06-17.49.08:401][552]LogWorldPartition: Display: GetPartitionedActors took 136 us
+[2023.04.06-17.49.08:402][552]LogWorldPartition: Display: GenerateStreaming took 819 us
+[2023.04.06-17.49.08:402][552]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.06-17.49.08:404][552]LogPlayLevel: [PlayLevel] Compiling Enemy_AI_ABP before play...
+[2023.04.06-17.49.08:404][552]LogPlayLevel: [PlayLevel]   Compiling BP_Enemy_AI as a dependent...
+[2023.04.06-17.49.08:527][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.06-17.49.08:533][552]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (2 blueprints)
+[2023.04.06-17.49.08:533][552]PIE: New page: PIE session: ob_course_joint_ca_2 (6 Apr 2023, 19:49:08)
+[2023.04.06-17.49.08:533][552]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-17.49.08:544][552]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.06-17.49.08:544][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010632s)
+[2023.04.06-17.49.08:544][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_2.ob_course_joint_ca_2 to /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 (0.010686s)
+[2023.04.06-17.49.08:544][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-17.49.08:545][552]LogAIModule: Creating AISystem for world ob_course_joint_ca_2
+[2023.04.06-17.49.08:545][552]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.06-17.49.08:545][552]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.06-17.49.08:547][552]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.06-17.49.08:548][552]LogPlayLevel: PIE: World Init took: (0.004283s)
+[2023.04.06-17.49.08:590][552]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2023.04.06-17.49.08:591][552]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.06-17.49.08:591][552]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.06-17.49.08:591][552]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.06-17.49.08:591][552]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.06-17.49.08:591][552]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.06-17.49.08:591][552]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.06-17.49.08:591][552]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.06-17.49.08:591][552]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.06-17.49.08:591][552]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.06-17.49.08:592][552]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.06-17.49.08:592][552]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.06-17.49.08:592][552]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.06-17.49.08:595][552]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.06-17.49.08:676][552]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.06-17.49.08:677][552]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.06-17.49.08:677][552]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.06-17.49.08:677][552]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.06-17.49.08:678][552]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.04.06-17.49.08:678][552]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.04.06-17.49.08:680][552]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.04.06-17.49.08:680][552]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.04.06-17.49.08:680][552]LogInit: FAudioDevice initialized.
+[2023.04.06-17.49.08:680][552]LogAudio: Display: Audio Device (ID: 12) registered with world 'ob_course_joint_ca_2'.
+[2023.04.06-17.49.08:706][552]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.06-17.49.08:712][552]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_2.ob_course_joint_ca_2 up for play (max tick rate 60) at 2023.04.06-18.49.08
+[2023.04.06-17.49.08:713][552]LogWorld: Bringing up level for play took: 0.006335
+[2023.04.06-17.49.08:716][552]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2023.04.06-17.49.08:720][552]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.06-17.49.08:720][552]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.06-17.49.08:721][552]PIE: Server logged in
+[2023.04.06-17.49.08:722][552]PIE: Play in editor total start time 0.323 seconds.
+[2023.04.06-17.49.13:527][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-17.49.13:527][598]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_2
+[2023.04.06-17.49.13:528][598]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-17.49.13:528][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-17.49.13:621][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.06-17.49.13:626][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-17.49.13:672][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-17.49.13:673][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.06-17.49.13:674][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.06-17.49.13:688][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.06-17.49.13:762][599]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2023.04.06-17.49.27:124][724]LogSlate: Window 'Save Level As' being destroyed
+[2023.04.06-17.49.27:350][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.06-17.49.27:410][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/D/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/D/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/4/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/F/': No such file or directory
+[2023.04.06-17.49.36:697][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/D/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/D/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/3/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/3/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/C/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/8/': No such file or directory
+[2023.04.06-17.49.36:698][724]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/6/': No such file or directory
+[2023.04.06-17.49.36:736][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/2/AL/G8CKVL13TJYMIOJUC2VL3T
+[2023.04.06-17.49.36:737][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/G8CKVL13TJYMIOJUC2VL3TAF3E54EF422E00DD572D1CB8B5DAD0AD.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/AL/G8CKVL13TJYMIOJUC2VL3T.uasset'
+[2023.04.06-17.49.36:778][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/A/OG/E5PZAH8JUEGH95N8IYUSXF
+[2023.04.06-17.49.36:778][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/E5PZAH8JUEGH95N8IYUSXFEAD7E7F8438062D2F3308BAC143FF43F.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/OG/E5PZAH8JUEGH95N8IYUSXF.uasset'
+[2023.04.06-17.49.36:782][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/5/R7/AH5TCLZE1MYNXD3BWFU9H7
+[2023.04.06-17.49.36:782][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/AH5TCLZE1MYNXD3BWFU9H7C38626CC49D3A7A528CCE182B8741382.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/R7/AH5TCLZE1MYNXD3BWFU9H7.uasset'
+[2023.04.06-17.49.36:787][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/7/O1/XTKFOHSGJPCJJJG93UDODZ
+[2023.04.06-17.49.36:787][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/XTKFOHSGJPCJJJG93UDODZ2B638F714D60014671B690BB94E4761A.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/O1/XTKFOHSGJPCJJJG93UDODZ.uasset'
+[2023.04.06-17.49.36:792][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/2U/CO1E9GD6GAY5YTVA40N314
+[2023.04.06-17.49.36:792][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/CO1E9GD6GAY5YTVA40N3145B8AB6E24BA785DC32D85888D5FFAEE2.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/2U/CO1E9GD6GAY5YTVA40N314.uasset'
+[2023.04.06-17.49.36:797][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/QK/N9F3DJ8NRY97TI914H9Z5R
+[2023.04.06-17.49.36:798][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/N9F3DJ8NRY97TI914H9Z5R0973659D40658D931E251EBE8C909B00.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/QK/N9F3DJ8NRY97TI914H9Z5R.uasset'
+[2023.04.06-17.49.36:802][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/7L/N0PNIDCT3PC8HT0FN33LIN
+[2023.04.06-17.49.36:802][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/N0PNIDCT3PC8HT0FN33LIN8EF33404493683040AB9DE81892207CE.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/7L/N0PNIDCT3PC8HT0FN33LIN.uasset'
+[2023.04.06-17.49.36:806][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/A/H7/T3OO6240KDN9QRG2I5GO71
+[2023.04.06-17.49.36:806][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/T3OO6240KDN9QRG2I5GO7180AE67FD4A82285C8EE26FB24515C414.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/H7/T3OO6240KDN9QRG2I5GO71.uasset'
+[2023.04.06-17.49.36:812][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/3/16/2M2SC1ZCSGSUZZAS08FQ08
+[2023.04.06-17.49.36:812][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/2M2SC1ZCSGSUZZAS08FQ08AA80185E46D1CF62E096089C461DC548.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/16/2M2SC1ZCSGSUZZAS08FQ08.uasset'
+[2023.04.06-17.49.36:816][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/1/D8/8K4KSQDGG6MVGWNP794OMK
+[2023.04.06-17.49.36:816][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/8K4KSQDGG6MVGWNP794OMK8C326EB14230BFEF4F3FC9BD107B4BB7.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/D8/8K4KSQDGG6MVGWNP794OMK.uasset'
+[2023.04.06-17.49.36:821][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/IC/3TYNX6Q3R34ARN6JLJHKK9
+[2023.04.06-17.49.36:822][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/3TYNX6Q3R34ARN6JLJHKK95FB39BB540F5F1F9728E958733EA9C10.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/IC/3TYNX6Q3R34ARN6JLJHKK9.uasset'
+[2023.04.06-17.49.36:826][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/EG/VTVXX5E1L8KTV5KWB0K9YG
+[2023.04.06-17.49.36:826][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/VTVXX5E1L8KTV5KWB0K9YG6E8083D04A85EDA4D426FEB62EAA42D1.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/EG/VTVXX5E1L8KTV5KWB0K9YG.uasset'
+[2023.04.06-17.49.36:830][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/LL/GJW5OLM90BJNWI7AJW2XKE
+[2023.04.06-17.49.36:831][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/GJW5OLM90BJNWI7AJW2XKE07461270401467B88929CEAE9EAC7ED9.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/LL/GJW5OLM90BJNWI7AJW2XKE.uasset'
+[2023.04.06-17.49.36:834][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/7/WE/3GB462QR5TX4KYUB3N7QPB
+[2023.04.06-17.49.36:834][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/3GB462QR5TX4KYUB3N7QPB52603E5A4DE13C19BDEFBE97A50AFE97.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/WE/3GB462QR5TX4KYUB3N7QPB.uasset'
+[2023.04.06-17.49.36:840][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/8D/8JR22F2ADJ1ZOCYZ055XPA
+[2023.04.06-17.49.36:840][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/8JR22F2ADJ1ZOCYZ055XPAE2344619435D0376EA44E5A126D7C438.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/8D/8JR22F2ADJ1ZOCYZ055XPA.uasset'
+[2023.04.06-17.49.36:845][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/D/ZK/GS6NT006VWKRUOC0JMV9BP
+[2023.04.06-17.49.36:845][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/GS6NT006VWKRUOC0JMV9BP09CD9E804AA1C1D089F4388AA637F323.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/D/ZK/GS6NT006VWKRUOC0JMV9BP.uasset'
+[2023.04.06-17.49.36:850][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/A/F7/OIVP8DCCZDGIBLQLLSEKS8
+[2023.04.06-17.49.36:850][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/OIVP8DCCZDGIBLQLLSEKS8E68E38DA49FDD327E61B5FB5BE02935A.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/F7/OIVP8DCCZDGIBLQLLSEKS8.uasset'
+[2023.04.06-17.49.36:856][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/0/C0/3Q9TJ745BEIUDENRX9JOP7
+[2023.04.06-17.49.36:856][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/3Q9TJ745BEIUDENRX9JOP7DCB3903849BB2F8E8FD88EB5B8ABBD22.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/C0/3Q9TJ745BEIUDENRX9JOP7.uasset'
+[2023.04.06-17.49.36:861][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/8J/Y78D0ZQF14215WULNE9ZWF
+[2023.04.06-17.49.36:861][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Y78D0ZQF14215WULNE9ZWFA54EE3B94604699A2F6A58B281A8B746.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/8J/Y78D0ZQF14215WULNE9ZWF.uasset'
+[2023.04.06-17.49.36:865][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/D/91/SNQGKPUK08M4MJH0L3EPE6
+[2023.04.06-17.49.36:865][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/SNQGKPUK08M4MJH0L3EPE6434E121241CB257A45DB959DEA55E687.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/D/91/SNQGKPUK08M4MJH0L3EPE6.uasset'
+[2023.04.06-17.49.36:869][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/WN/TRG3P3QPTAQXKF62ZVD6KR
+[2023.04.06-17.49.36:869][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/TRG3P3QPTAQXKF62ZVD6KR7FEC66C340589B45BC8D87B39EF7C3DD.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/WN/TRG3P3QPTAQXKF62ZVD6KR.uasset'
+[2023.04.06-17.49.36:874][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/C/TW/HZPX0LIKRYE3XGXD8A93D9
+[2023.04.06-17.49.36:874][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/HZPX0LIKRYE3XGXD8A93D9226C9EC8467EC0E12AC14EABDC47F0A9.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/TW/HZPX0LIKRYE3XGXD8A93D9.uasset'
+[2023.04.06-17.49.36:879][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/3/V4/02PUMTXMY42PQP6GAH5IQ2
+[2023.04.06-17.49.36:879][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/02PUMTXMY42PQP6GAH5IQ2A43613154635577A33E3E8BDDCDA35B3.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/V4/02PUMTXMY42PQP6GAH5IQ2.uasset'
+[2023.04.06-17.49.36:883][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/A/KL/89K06V5QKKLYKO29BI0UOX
+[2023.04.06-17.49.36:883][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/89K06V5QKKLYKO29BI0UOX38D0964F4B069716678934AC0DACA1AE.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/KL/89K06V5QKKLYKO29BI0UOX.uasset'
+[2023.04.06-17.49.36:887][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/KE/QDEJCLVLBJABQQ563UL45S
+[2023.04.06-17.49.36:887][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/QDEJCLVLBJABQQ563UL45S47C71CCC42B6A676193B50BF8DEA2ADB.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/KE/QDEJCLVLBJABQQ563UL45S.uasset'
+[2023.04.06-17.49.36:891][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/6N/W53Y844K1S5T8G7XA7MHA0
+[2023.04.06-17.49.36:891][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/W53Y844K1S5T8G7XA7MHA0E0662AC2461B5CC51912578044589EBD.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/6N/W53Y844K1S5T8G7XA7MHA0.uasset'
+[2023.04.06-17.49.36:896][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/2/PI/NV51FIFHI3L0ZLAPWENAP4
+[2023.04.06-17.49.36:896][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NV51FIFHI3L0ZLAPWENAP4141826E1472C9B84C643A49178BBC382.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/PI/NV51FIFHI3L0ZLAPWENAP4.uasset'
+[2023.04.06-17.49.36:900][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/SM/NFBJD9MC4LRUC9TA4FZWET
+[2023.04.06-17.49.36:900][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NFBJD9MC4LRUC9TA4FZWET12410CF34BF47D8EBCABF08EE04868AE.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/SM/NFBJD9MC4LRUC9TA4FZWET.uasset'
+[2023.04.06-17.49.36:903][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/I4/R2SUG1BEG1503R7Q6JWMPK
+[2023.04.06-17.49.36:904][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/R2SUG1BEG1503R7Q6JWMPKAA9C2F464994AC2622DDB7B8D817F011.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/I4/R2SUG1BEG1503R7Q6JWMPK.uasset'
+[2023.04.06-17.49.36:908][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/F2/L7HW0LXEP1G7JLYF4Z9CC5
+[2023.04.06-17.49.36:908][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/L7HW0LXEP1G7JLYF4Z9CC52D9C543443587D8E7460359DE59555CC.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/F2/L7HW0LXEP1G7JLYF4Z9CC5.uasset'
+[2023.04.06-17.49.36:911][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/83/O62HLHTE18RH5PXYW8T2ZH
+[2023.04.06-17.49.36:912][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/O62HLHTE18RH5PXYW8T2ZH026D7D21428CFBC54E6EFF90BF869EC4.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/83/O62HLHTE18RH5PXYW8T2ZH.uasset'
+[2023.04.06-17.49.36:915][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/FI/QQOU1VX9X2E5F1OIW8M2N5
+[2023.04.06-17.49.36:916][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/QQOU1VX9X2E5F1OIW8M2N5849BC89146A9AB2D9FC8129A211A4548.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/FI/QQOU1VX9X2E5F1OIW8M2N5.uasset'
+[2023.04.06-17.49.36:919][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/5/YS/3MBGUNMOIZQOZVKGV4CCTJ
+[2023.04.06-17.49.36:919][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/3MBGUNMOIZQOZVKGV4CCTJDB32D15743A69D5EA1F5EF8572EBA3C1.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/YS/3MBGUNMOIZQOZVKGV4CCTJ.uasset'
+[2023.04.06-17.49.36:922][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/5/9P/XXE9Z7MGAYGMPUYD1FCQJL
+[2023.04.06-17.49.36:922][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/XXE9Z7MGAYGMPUYD1FCQJLD30A0412421920D4310333AD67293C37.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/9P/XXE9Z7MGAYGMPUYD1FCQJL.uasset'
+[2023.04.06-17.49.36:926][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/JE/VMCTEXG50EIQ6OJW754H3J
+[2023.04.06-17.49.36:927][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/VMCTEXG50EIQ6OJW754H3J8B919FC94D61DFD8033204877D83F841.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/JE/VMCTEXG50EIQ6OJW754H3J.uasset'
+[2023.04.06-17.49.36:930][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/2/CZ/VNMMRXIZJVYIAT10ST5X36
+[2023.04.06-17.49.36:930][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/VNMMRXIZJVYIAT10ST5X360E352E8C4FF3D94008E725AC7AED9554.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/CZ/VNMMRXIZJVYIAT10ST5X36.uasset'
+[2023.04.06-17.49.36:942][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/1/ZE/6TH1QSVAX2K6GZBXB2DZA8
+[2023.04.06-17.49.36:942][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/6TH1QSVAX2K6GZBXB2DZA8660349D64C5DAD0300B172BC79DE25F0.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/ZE/6TH1QSVAX2K6GZBXB2DZA8.uasset'
+[2023.04.06-17.49.36:946][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/C/52/3IINUC5EW7QNWPYRGNX4CK
+[2023.04.06-17.49.36:947][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/3IINUC5EW7QNWPYRGNX4CK26102C7A462555134575189F257A5903.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/52/3IINUC5EW7QNWPYRGNX4CK.uasset'
+[2023.04.06-17.49.36:950][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/A/BC/YGV2PWJPB0D6ZIK182EIDM
+[2023.04.06-17.49.36:950][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/YGV2PWJPB0D6ZIK182EIDM9A6290E04286D54FBCD9908BC790D5F1.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/BC/YGV2PWJPB0D6ZIK182EIDM.uasset'
+[2023.04.06-17.49.36:955][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/3/3G/0XZ33YDECTMKMX1036XWGK
+[2023.04.06-17.49.36:956][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/0XZ33YDECTMKMX1036XWGK1AAC8FB34D6AD37DD7AE7591C86C19AC.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/3G/0XZ33YDECTMKMX1036XWGK.uasset'
+[2023.04.06-17.49.36:958][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/4/GU/WULZDF1BW1JVML04K4X3BH
+[2023.04.06-17.49.36:958][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/WULZDF1BW1JVML04K4X3BH4B9CEB5B4592091D6C86AF98973618C4.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/4/GU/WULZDF1BW1JVML04K4X3BH.uasset'
+[2023.04.06-17.49.36:963][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/C/L7/4AT77QU9MXPO1EH2UOD49M
+[2023.04.06-17.49.36:963][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/4AT77QU9MXPO1EH2UOD49M491C2F4641044E9E4D5D25A88D7F596D.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/L7/4AT77QU9MXPO1EH2UOD49M.uasset'
+[2023.04.06-17.49.36:967][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/3F/VBKUE9PK9LCXG0P452QSLB
+[2023.04.06-17.49.36:967][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/VBKUE9PK9LCXG0P452QSLBD93E481A4731A342EC856AAB913B13DE.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/3F/VBKUE9PK9LCXG0P452QSLB.uasset'
+[2023.04.06-17.49.36:970][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/74/BUS9JTTVM2FPJVVOTQ5HX0
+[2023.04.06-17.49.36:970][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BUS9JTTVM2FPJVVOTQ5HX0E99DDD1541449CAD0A9637831207B677.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/74/BUS9JTTVM2FPJVVOTQ5HX0.uasset'
+[2023.04.06-17.49.36:975][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/YB/I38ZSW585ZZQXVQ4O6PVOJ
+[2023.04.06-17.49.36:975][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/I38ZSW585ZZQXVQ4O6PVOJFF2130274425282CFAFB99BA8A75CE7E.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/YB/I38ZSW585ZZQXVQ4O6PVOJ.uasset'
+[2023.04.06-17.49.36:980][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/0/G0/SJLH7UIQ383TZKEDU3CFA2
+[2023.04.06-17.49.36:980][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/SJLH7UIQ383TZKEDU3CFA23B3683084872AD06E08DC692F8C62141.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/G0/SJLH7UIQ383TZKEDU3CFA2.uasset'
+[2023.04.06-17.49.36:983][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/C/J3/2BI6O1BCERY0DNJJQTYWNL
+[2023.04.06-17.49.36:983][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/2BI6O1BCERY0DNJJQTYWNLD2E4D87F4E3A03C6D9B27784B3283976.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/J3/2BI6O1BCERY0DNJJQTYWNL.uasset'
+[2023.04.06-17.49.36:987][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/C/0Y/NHQ8NHRS65AGEO8LSMBYTX
+[2023.04.06-17.49.36:987][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NHQ8NHRS65AGEO8LSMBYTXF5BB802548C1AD957CCD5790DD3E2161.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/0Y/NHQ8NHRS65AGEO8LSMBYTX.uasset'
+[2023.04.06-17.49.36:991][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/0/XM/CVDE2RUOUSPY9DG1OJWIP7
+[2023.04.06-17.49.36:991][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/CVDE2RUOUSPY9DG1OJWIP79B0D89ED44A775170B677A80A18D3E55.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/XM/CVDE2RUOUSPY9DG1OJWIP7.uasset'
+[2023.04.06-17.49.36:996][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/S0/F4IFFUZBPI7OUTBZJUNSMD
+[2023.04.06-17.49.36:996][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/F4IFFUZBPI7OUTBZJUNSMDAB54697045EEF4B4C35E97BC8443C78E.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/S0/F4IFFUZBPI7OUTBZJUNSMD.uasset'
+[2023.04.06-17.49.37:001][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/QM/WSNXKHU9PI9DAO4OT6RTDQ
+[2023.04.06-17.49.37:001][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/WSNXKHU9PI9DAO4OT6RTDQ4C5082B0487D25F5E7F21D9FD8432E3C.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/QM/WSNXKHU9PI9DAO4OT6RTDQ.uasset'
+[2023.04.06-17.49.37:004][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/0/K2/EQNIHCPYZDIIYPP8CI8L39
+[2023.04.06-17.49.37:004][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/EQNIHCPYZDIIYPP8CI8L391DF8EBEE49D45A3A39196899CBDEB0E9.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/K2/EQNIHCPYZDIIYPP8CI8L39.uasset'
+[2023.04.06-17.49.37:007][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/A/1S/34GRT5WZB02O9WQNK0KXJY
+[2023.04.06-17.49.37:007][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/34GRT5WZB02O9WQNK0KXJY7C5E479445B38A56423B069791E38B95.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/1S/34GRT5WZB02O9WQNK0KXJY.uasset'
+[2023.04.06-17.49.37:011][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/7/NP/ZI6QJ1ARW8HELSK35CGFFQ
+[2023.04.06-17.49.37:012][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/ZI6QJ1ARW8HELSK35CGFFQ28648FE249E3313E8A33DABAD17F6B1C.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/NP/ZI6QJ1ARW8HELSK35CGFFQ.uasset'
+[2023.04.06-17.49.37:015][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/C/16/LWVLGSBFH1NRKQ9Z66X5R1
+[2023.04.06-17.49.37:015][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/LWVLGSBFH1NRKQ9Z66X5R161F5FAEC4D41EA96269434BF8CFB0052.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/C/16/LWVLGSBFH1NRKQ9Z66X5R1.uasset'
+[2023.04.06-17.49.37:018][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/5/FG/W4ZPZ28M8CHGZ5W15MQ2C2
+[2023.04.06-17.49.37:018][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/W4ZPZ28M8CHGZ5W15MQ2C25205B8434CAAB95B05CBDF8DDD0F7E8F.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/FG/W4ZPZ28M8CHGZ5W15MQ2C2.uasset'
+[2023.04.06-17.49.37:021][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/ZT/FLO97TUSN3JPTRW5U7ZS8J
+[2023.04.06-17.49.37:021][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/FLO97TUSN3JPTRW5U7ZS8J3AC77419470654FFBDB3818D98ABE7D0.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/ZT/FLO97TUSN3JPTRW5U7ZS8J.uasset'
+[2023.04.06-17.49.37:026][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/F/1E/X8CO3H4PG9HBDNG3MTLCD6
+[2023.04.06-17.49.37:026][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/X8CO3H4PG9HBDNG3MTLCD6AE7109904B500B9BC7455DA8BD3CE549.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/F/1E/X8CO3H4PG9HBDNG3MTLCD6.uasset'
+[2023.04.06-17.49.37:030][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/6/V1/0O81JHDLD7181PEOQNTKU8
+[2023.04.06-17.49.37:030][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/0O81JHDLD7181PEOQNTKU8D4C2528C4EF15331ACEC2BB34ECBF0BB.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/V1/0O81JHDLD7181PEOQNTKU8.uasset'
+[2023.04.06-17.49.37:033][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/2/IX/NN78AEGOSBRJU5JUEFPNCW
+[2023.04.06-17.49.37:033][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NN78AEGOSBRJU5JUEFPNCW657ACF4546C7D1961C7CF6A26435FDA3.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/IX/NN78AEGOSBRJU5JUEFPNCW.uasset'
+[2023.04.06-17.49.37:037][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/3/4N/405MLWTHC01FJ9IATT4ELB
+[2023.04.06-17.49.37:037][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/405MLWTHC01FJ9IATT4ELB2994FAB0426696E28E312282F594574D.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/4N/405MLWTHC01FJ9IATT4ELB.uasset'
+[2023.04.06-17.49.37:041][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/D1/OCKFEAZNTMA2YBXK66CTHQ
+[2023.04.06-17.49.37:041][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/OCKFEAZNTMA2YBXK66CTHQ917251CE4AAC347CFFFA7483ECFF6012.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/D1/OCKFEAZNTMA2YBXK66CTHQ.uasset'
+[2023.04.06-17.49.37:044][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/5/ZP/8JZ5UB9EG2OWP3DFHK3FVL
+[2023.04.06-17.49.37:044][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/8JZ5UB9EG2OWP3DFHK3FVL51DD130449E79C033F546A864CC52F18.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/ZP/8JZ5UB9EG2OWP3DFHK3FVL.uasset'
+[2023.04.06-17.49.37:047][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/6/24/4X1O8YMJI0CIB55007YXMU
+[2023.04.06-17.49.37:047][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/4X1O8YMJI0CIB55007YXMUD686496F4BB3068CDCB08E82BFEA2651.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/24/4X1O8YMJI0CIB55007YXMU.uasset'
+[2023.04.06-17.49.37:050][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/SS/4U3ULKVFN1OQ3T3BNH39FC
+[2023.04.06-17.49.37:050][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/4U3ULKVFN1OQ3T3BNH39FC985AC65B4745676FBFF81F9F3EFE58C2.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/SS/4U3ULKVFN1OQ3T3BNH39FC.uasset'
+[2023.04.06-17.49.37:053][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/5G/SE6ZNLA503G57LVLHQEGHA
+[2023.04.06-17.49.37:053][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/SE6ZNLA503G57LVLHQEGHA0D7D1A6C4AA658177BF2CCB9C2F92AA7.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/5G/SE6ZNLA503G57LVLHQEGHA.uasset'
+[2023.04.06-17.49.37:057][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/0/KN/XWQDBINSAZ497JF2T1V4VF
+[2023.04.06-17.49.37:057][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/XWQDBINSAZ497JF2T1V4VF96EB4567410BC39BACDE2CA12BEA9566.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/KN/XWQDBINSAZ497JF2T1V4VF.uasset'
+[2023.04.06-17.49.37:061][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/7/01/XRKJMNKZNFDFG6Y90O7KHZ
+[2023.04.06-17.49.37:061][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/XRKJMNKZNFDFG6Y90O7KHZ1D8E408D47072DA78AAE769BCECE55C4.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/01/XRKJMNKZNFDFG6Y90O7KHZ.uasset'
+[2023.04.06-17.49.37:064][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/3/CO/0KPASK4LTPIB40ATFM0F2Q
+[2023.04.06-17.49.37:064][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/0KPASK4LTPIB40ATFM0F2Q7E871BCC4444024B8FEC8EACBAC427FE.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/CO/0KPASK4LTPIB40ATFM0F2Q.uasset'
+[2023.04.06-17.49.37:067][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/1/VI/UXDWA3K8N9XWE5K5HRZRZG
+[2023.04.06-17.49.37:068][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/UXDWA3K8N9XWE5K5HRZRZGF25A761F413D5C959B81BBBDF6E72F1E.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/VI/UXDWA3K8N9XWE5K5HRZRZG.uasset'
+[2023.04.06-17.49.37:071][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/1W/CBQSNCH54YEVG6E5D7ONDP
+[2023.04.06-17.49.37:071][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/CBQSNCH54YEVG6E5D7ONDP4E6A3CD24D9F8D21BDD880BDC3D1E162.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/1W/CBQSNCH54YEVG6E5D7ONDP.uasset'
+[2023.04.06-17.49.37:076][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/0/3B/87MELQM6A4GG2BNDW3NPU6
+[2023.04.06-17.49.37:076][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/87MELQM6A4GG2BNDW3NPU6F12AC4434501D0FF692000BBC2A6BBE8.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/3B/87MELQM6A4GG2BNDW3NPU6.uasset'
+[2023.04.06-17.49.37:080][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/9A/FFX0WVWQXZTFHEQSBCZSOI
+[2023.04.06-17.49.37:080][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/FFX0WVWQXZTFHEQSBCZSOID83B5E1C4B3C46BEB7339D85C5F1404F.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/9A/FFX0WVWQXZTFHEQSBCZSOI.uasset'
+[2023.04.06-17.49.37:083][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/7/RL/TIG4F3BHPLDJ5S4E89CJ86
+[2023.04.06-17.49.37:083][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/TIG4F3BHPLDJ5S4E89CJ86AD9A16B449ABD7203B9C03A6F4092336.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/RL/TIG4F3BHPLDJ5S4E89CJ86.uasset'
+[2023.04.06-17.49.37:087][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/7/O1/ZB2641268S4B3ES8NKE1RL
+[2023.04.06-17.49.37:087][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/ZB2641268S4B3ES8NKE1RLD9A04B904C5B228D5224CB863C03F0BF.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/O1/ZB2641268S4B3ES8NKE1RL.uasset'
+[2023.04.06-17.49.37:090][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/Y8/XV4XYRP2GBVMC3VN87WHNJ
+[2023.04.06-17.49.37:090][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/XV4XYRP2GBVMC3VN87WHNJ47D680C249634547A6BFC398D4DF6C32.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/Y8/XV4XYRP2GBVMC3VN87WHNJ.uasset'
+[2023.04.06-17.49.37:094][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/8U/KHBGHNG109V1L4BR2PP37U
+[2023.04.06-17.49.37:094][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/KHBGHNG109V1L4BR2PP37UAEADFCFA4E2F793D44696B8F9E731713.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/8U/KHBGHNG109V1L4BR2PP37U.uasset'
+[2023.04.06-17.49.37:097][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/SQ/VYCK9MMAW3LE9K22HHA9IZ
+[2023.04.06-17.49.37:097][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/VYCK9MMAW3LE9K22HHA9IZ5ED851514FB4FC25E27B9187DEC15073.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/SQ/VYCK9MMAW3LE9K22HHA9IZ.uasset'
+[2023.04.06-17.49.37:100][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/5/2R/IW3BP8UULRHAO5A6V0MU55
+[2023.04.06-17.49.37:100][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/IW3BP8UULRHAO5A6V0MU55592FEC064BF35577A378888516D52235.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/2R/IW3BP8UULRHAO5A6V0MU55.uasset'
+[2023.04.06-17.49.37:104][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/H9/5EDI8WAXA70Q9EXAPTKTZR
+[2023.04.06-17.49.37:104][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/5EDI8WAXA70Q9EXAPTKTZR8057A96449928A3B0F59F099D15D42E2.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/H9/5EDI8WAXA70Q9EXAPTKTZR.uasset'
+[2023.04.06-17.49.37:107][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/A/YH/FHARXWBYFZCQE8F3DENWQB
+[2023.04.06-17.49.37:107][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/FHARXWBYFZCQE8F3DENWQBB7A5A71647ED3A77226E6580D8BF79FC.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/YH/FHARXWBYFZCQE8F3DENWQB.uasset'
+[2023.04.06-17.49.37:110][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/2/JD/ALZ9A1SKFRTZAYCER96VBA
+[2023.04.06-17.49.37:110][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/ALZ9A1SKFRTZAYCER96VBA8747F8DA490A083B0BFC2480879E65BE.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/JD/ALZ9A1SKFRTZAYCER96VBA.uasset'
+[2023.04.06-17.49.37:114][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/SU/E00RMEUL4ZZY2DIHIA8BZV
+[2023.04.06-17.49.37:114][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/E00RMEUL4ZZY2DIHIA8BZV4D0812D34CE404BAED6BF1B124C3BBB8.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/SU/E00RMEUL4ZZY2DIHIA8BZV.uasset'
+[2023.04.06-17.49.37:117][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/1/XA/7LYW643TUNAGQ9JADO4B85
+[2023.04.06-17.49.37:117][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/7LYW643TUNAGQ9JADO4B852060F5454C9643046491E6BB009A7B0D.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/XA/7LYW643TUNAGQ9JADO4B85.uasset'
+[2023.04.06-17.49.37:121][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/1/A2/NDM4BD7SGYRUKOENE2WQ07
+[2023.04.06-17.49.37:121][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NDM4BD7SGYRUKOENE2WQ074B1EC4EF43786D2B9F2F35A28E5E73E7.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/A2/NDM4BD7SGYRUKOENE2WQ07.uasset'
+[2023.04.06-17.49.37:124][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/AK/TFLQOBMWJDRR1TFN1BQV2V
+[2023.04.06-17.49.37:124][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/TFLQOBMWJDRR1TFN1BQV2VE2BFE968498989319258568CA547924A.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/AK/TFLQOBMWJDRR1TFN1BQV2V.uasset'
+[2023.04.06-17.49.37:129][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/3/CA/JR646AVTDAJRBS7IOJYFPF
+[2023.04.06-17.49.37:129][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/JR646AVTDAJRBS7IOJYFPF8B1EFCEF44133516A627EF85AE0B6675.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/CA/JR646AVTDAJRBS7IOJYFPF.uasset'
+[2023.04.06-17.49.37:138][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/0/YE/ZOTYQ6RTSW582K3CL08UDE
+[2023.04.06-17.49.37:138][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/ZOTYQ6RTSW582K3CL08UDEC4F5D1EF494D01AA13061BA83530BBC0.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/YE/ZOTYQ6RTSW582K3CL08UDE.uasset'
+[2023.04.06-17.49.37:141][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/XZ/7D32E7PEXGBNU6GATE99Q8
+[2023.04.06-17.49.37:142][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/7D32E7PEXGBNU6GATE99Q8C3C08D884CE74169DB510AA2D2BF588E.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/XZ/7D32E7PEXGBNU6GATE99Q8.uasset'
+[2023.04.06-17.49.37:144][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/BH/IRP82P9MCQLTCXLI1HCZ4Q
+[2023.04.06-17.49.37:145][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/IRP82P9MCQLTCXLI1HCZ4Q2A4BB65A4F6057194A3025A81778E0ED.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/BH/IRP82P9MCQLTCXLI1HCZ4Q.uasset'
+[2023.04.06-17.49.37:148][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/RY/NODT0H01G3WGBLVA3NMQZ8
+[2023.04.06-17.49.37:148][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NODT0H01G3WGBLVA3NMQZ8D2FED79D42BC204FB1F39B9EB9CB9809.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/RY/NODT0H01G3WGBLVA3NMQZ8.uasset'
+[2023.04.06-17.49.37:152][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/2/2S/CQQXEJAI2I2UUSFM05S1P8
+[2023.04.06-17.49.37:152][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/CQQXEJAI2I2UUSFM05S1P860A8A20649DF83C853B35DBE1852F710.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/2S/CQQXEJAI2I2UUSFM05S1P8.uasset'
+[2023.04.06-17.49.37:155][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/D/XP/PWHRY0TRKECBHKNOUBAZEJ
+[2023.04.06-17.49.37:155][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/PWHRY0TRKECBHKNOUBAZEJ58C3FB48423AC87ACB75BB895655617C.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/D/XP/PWHRY0TRKECBHKNOUBAZEJ.uasset'
+[2023.04.06-17.49.37:159][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/2/J7/E4YDK30NXMQEE61TCT0TPW
+[2023.04.06-17.49.37:159][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/E4YDK30NXMQEE61TCT0TPW67E31FF84F2A9249AF90CAB9DDFBD57B.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/2/J7/E4YDK30NXMQEE61TCT0TPW.uasset'
+[2023.04.06-17.49.37:163][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/6/9T/FG292CQVJVOJL29H5O2L1N
+[2023.04.06-17.49.37:163][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/FG292CQVJVOJL29H5O2L1N7CA9559047E252A87333E8898313D991.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/9T/FG292CQVJVOJL29H5O2L1N.uasset'
+[2023.04.06-17.49.37:168][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/30/ZFJ4IEPFBT0ITZ1W6N4P1A
+[2023.04.06-17.49.37:168][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/ZFJ4IEPFBT0ITZ1W6N4P1A9FAE4CCB4927BAF32DB24EA007A08AAF.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/30/ZFJ4IEPFBT0ITZ1W6N4P1A.uasset'
+[2023.04.06-17.49.37:171][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/SI/081KVJZ6BEEJ183WV06T2Z
+[2023.04.06-17.49.37:171][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/081KVJZ6BEEJ183WV06T2Z4CAA49974D55F226FD336BAF22F08DE9.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/SI/081KVJZ6BEEJ183WV06T2Z.uasset'
+[2023.04.06-17.49.37:175][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/5/63/FGT5KJL24NJ6RAI10P715Q
+[2023.04.06-17.49.37:175][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/FGT5KJL24NJ6RAI10P715Q55748CA24133F76621B46E91A157C1E6.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/63/FGT5KJL24NJ6RAI10P715Q.uasset'
+[2023.04.06-17.49.37:177][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/A/YR/3908JZYEUCZLL4U7404XBH
+[2023.04.06-17.49.37:178][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/3908JZYEUCZLL4U7404XBH512525534F70B7736116A1A0113EBE03.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/YR/3908JZYEUCZLL4U7404XBH.uasset'
+[2023.04.06-17.49.37:181][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/8/MO/2W3SRZM1MPSH9AO5TX1SHW
+[2023.04.06-17.49.37:181][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/2W3SRZM1MPSH9AO5TX1SHW03F3EA1446971853D44F2CBFD3A96275.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/MO/2W3SRZM1MPSH9AO5TX1SHW.uasset'
+[2023.04.06-17.49.37:186][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/VT/33612WTSJC0O6F4GFX6AEJ
+[2023.04.06-17.49.37:186][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/33612WTSJC0O6F4GFX6AEJ53FE6C6F46664F7BF8B9CEBDE2B0716E.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/VT/33612WTSJC0O6F4GFX6AEJ.uasset'
+[2023.04.06-17.49.37:190][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/7/VN/N8ZQE1VULSXH0KDYT1XJ8Z
+[2023.04.06-17.49.37:190][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/N8ZQE1VULSXH0KDYT1XJ8Z70221A084C0BBA27042523929DBEB9F0.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/VN/N8ZQE1VULSXH0KDYT1XJ8Z.uasset'
+[2023.04.06-17.49.37:193][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/9/K4/BF3CSMQCRI3S8JRHH24D3P
+[2023.04.06-17.49.37:193][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BF3CSMQCRI3S8JRHH24D3PF4B86B29499760EDCFFA5EB129618C6E.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/9/K4/BF3CSMQCRI3S8JRHH24D3P.uasset'
+[2023.04.06-17.49.37:197][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/B/AF/BJIUNDBT5AVL0TZ3CIOVE1
+[2023.04.06-17.49.37:197][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BJIUNDBT5AVL0TZ3CIOVE1598A92F34B58687B29F503893334EFD8.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/AF/BJIUNDBT5AVL0TZ3CIOVE1.uasset'
+[2023.04.06-17.49.37:202][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/0/46/NFDNIUY0XH9OHU3TVK921Y
+[2023.04.06-17.49.37:202][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NFDNIUY0XH9OHU3TVK921Y99CAF8684BD5351FB33713BEDFFFA4F2.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/46/NFDNIUY0XH9OHU3TVK921Y.uasset'
+[2023.04.06-17.49.37:206][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/6/VT/BTGX35B9YX3R61F57EEX3M
+[2023.04.06-17.49.37:206][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BTGX35B9YX3R61F57EEX3MA10356C64AF9C28049CD9A901525D343.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/VT/BTGX35B9YX3R61F57EEX3M.uasset'
+[2023.04.06-17.49.37:209][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/PF/CANOG2KTEHQG199FFZ46XC
+[2023.04.06-17.49.37:209][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/CANOG2KTEHQG199FFZ46XC262C92F84E456E759E5750A72E77DB07.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/PF/CANOG2KTEHQG199FFZ46XC.uasset'
+[2023.04.06-17.49.37:214][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/1/Y0/ZGVHG0MEN6JWQ2JECNW8WX
+[2023.04.06-17.49.37:214][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/ZGVHG0MEN6JWQ2JECNW8WX0EB13B254189387DE73684A62B5B6B99.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/Y0/ZGVHG0MEN6JWQ2JECNW8WX.uasset'
+[2023.04.06-17.49.37:218][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/3/HT/D3SVIJT5QHJ3AMQER62LXG
+[2023.04.06-17.49.37:218][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/D3SVIJT5QHJ3AMQER62LXG1B1ED8E44E10E6CD681D9A9585F1CAB0.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/3/HT/D3SVIJT5QHJ3AMQER62LXG.uasset'
+[2023.04.06-17.49.37:221][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/D/54/OVXTBY54LXW0HZBJQMZH2I
+[2023.04.06-17.49.37:222][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/OVXTBY54LXW0HZBJQMZH2I3EA220B14FFEFA160CFE16B3D28A913C.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/D/54/OVXTBY54LXW0HZBJQMZH2I.uasset'
+[2023.04.06-17.49.37:226][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/6/RG/GL2XP8DYS5VG0ZQC291E79
+[2023.04.06-17.49.37:226][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/GL2XP8DYS5VG0ZQC291E79D26752CA4A1F7C410ABDE3B74E819D8A.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/6/RG/GL2XP8DYS5VG0ZQC291E79.uasset'
+[2023.04.06-17.49.37:230][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/5/DE/AKIESFV8CRH17NXQO6105F
+[2023.04.06-17.49.37:230][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/AKIESFV8CRH17NXQO6105F7316FF944C4FCADEFEC6879DC1F5C920.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/5/DE/AKIESFV8CRH17NXQO6105F.uasset'
+[2023.04.06-17.49.37:233][724]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ob_course_joint_ca_3/3/T2/R2K8JX04G7Y5IFJO4ZTG3G
+[2023.04.06-17.49.37:233][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/R2K8JX04G7Y5IFJO4ZTG3G522522A34A180AAF264856B50C747B71.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/3/T2/R2K8JX04G7Y5IFJO4ZTG3G.uasset'
+[2023.04.06-17.49.37:236][724]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ob_course_joint_ca_3/8/07/SQCTVXTFQ9Q1FMKDF4SBGK
+[2023.04.06-17.49.37:236][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/SQCTVXTFQ9Q1FMKDF4SBGK8B40F0DB44135327151DB5893DEFA126.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/8/07/SQCTVXTFQ9Q1FMKDF4SBGK.uasset'
+[2023.04.06-17.49.37:241][724]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ob_course_joint_ca_3/3/0J/FN88NHERJLL8497TYPVWO7
+[2023.04.06-17.49.37:241][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/FN88NHERJLL8497TYPVWO790EFDCE24C752D4EB8C43E9A4A0E3174.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/3/0J/FN88NHERJLL8497TYPVWO7.uasset'
+[2023.04.06-17.49.37:245][724]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ob_course_joint_ca_3/C/RW/L31UOVGJN8NL1FFL9AEXFD
+[2023.04.06-17.49.37:245][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/L31UOVGJN8NL1FFL9AEXFD751B29EB4A05A99AFE08C58DAD31F5C1.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/C/RW/L31UOVGJN8NL1FFL9AEXFD.uasset'
+[2023.04.06-17.49.37:249][724]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ob_course_joint_ca_3/8/AN/XHRPD8PW9LGY5ZN50NFFFP
+[2023.04.06-17.49.37:249][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/XHRPD8PW9LGY5ZN50NFFFP67A87A51446C572C2CD349A787D580C2.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/8/AN/XHRPD8PW9LGY5ZN50NFFFP.uasset'
+[2023.04.06-17.49.37:253][724]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ob_course_joint_ca_3/6/G6/8G2JWKWGKNIU44P2VC3BH6
+[2023.04.06-17.49.37:253][724]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/8G2JWKWGKNIU44P2VC3BH6751EF1F14AFAA27E60A567B68996C537.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalObjects__/ob_course_joint_ca_3/6/G6/8G2JWKWGKNIU44P2VC3BH6.uasset'
+[2023.04.06-17.49.49:101][724]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.06-17.49.49:101][724]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.06-17.49.49:101][724]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.06-17.49.49:101][724]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.06-17.49.49:101][724]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.06-17.49.49:101][724]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
