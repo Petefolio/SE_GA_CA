@@ -1223,3 +1223,576 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.11-15.47.11:443][943]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/406UA8SXW3XI520GCKCHXE_Auto249A8DCF248E71EA13376C6814F74906C.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_3/4/2B/406UA8SXW3XI520GCKCHXE_Auto2.uasset'
 [2023.04.11-15.47.11:445][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.041
 [2023.04.11-15.47.11:445][943]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2023.04.11-15.53.22:096][  9]LogViewport: Scene viewport resized to 1141x534, mode Windowed.
+[2023.04.11-15.57.12:092][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.04.11-15.57.12:095][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.039
+[2023.04.11-15.57.12:095][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.11-15.57.12:095][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.11-15.57.12:132][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2023.04.11-15.57.12:133][393]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto35CCADE724B486825E0BAB09F202775D4.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2023.04.11-15.57.12:136][393]LogFileHelpers: Auto-saving content packages took 0.040
+[2023.04.11-16.26.30:289][635]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.372 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.11-16.50.58:758][505]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Vault.Neo_Vault
+[2023.04.11-16.50.58:867][505]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.11-16.50.58:875][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-16.50.58:900][505]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-16.50.58:900][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-16.51.06:261][841]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-16.51.06:261][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-16.51.06:288][841]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-16.51.06:288][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-16.51.06:387][841]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-16.51.06:388][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-16.51.15:663][368]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.11-16.51.15:663][368]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.11-16.51.16:702][423]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.11-16.51.16:702][423]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.11-16.51.17:433][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.11-16.51.18:725][461]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.11-16.51.18:820][461]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Player/Animations/Motions/Neo_Vault.Neo_Vault
+	Asset Type: AnimSequence
+[2023.04.11-16.51.19:303][461]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.04.11-16.51.19:554][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.04.11-16.51.19:597][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.11-16.51.19:634][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.11-16.51.20:550][461]SourceControl: Error: Updated 0 paths from the index
+[2023.04.11-16.51.20:693][461]SourceControl: rm 'joint_SE_GA_CA/Content/Characters/Player/Animations/Motions/Neo_Vault.uasset'
+[2023.04.11-16.51.39:151][603]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\petel\Downloads\Running Forward Flip.fbx)
+[2023.04.11-16.51.39:162][603]LogFbx: Loading FBX Scene from C:\Users\petel\Downloads\Running Forward Flip.fbx
+[2023.04.11-16.51.39:175][603]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.11-16.51.43:946][603]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(0) Hips
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(1) Spine
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(2) Spine1
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(3) Spine2
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(4) Neck
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(5) Head
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(19) RightShoulder
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(20) RightArm
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(21) RightForeArm
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(22) RightHand
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(23) RightHandThumb1
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(24) RightHandThumb2
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(25) RightHandThumb3
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(26) RightHandThumb4
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(27) RightHandIndex1
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(28) RightHandIndex2
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(29) RightHandIndex3
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(30) RightHandIndex4
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(31) LeftUpLeg
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(32) LeftLeg
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(33) LeftFoot
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(34) LeftToeBase
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(35) LeftToe_End
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(36) RightUpLeg
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(37) RightLeg
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(38) RightFoot
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(39) RightToeBase
+[2023.04.11-16.51.43:965][603]LogFbx: SortedLinks :(40) RightToe_End
+[2023.04.11-16.51.43:966][603]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.11-16.51.44:036][603]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Motions/Running_Forward_Flip.Running_Forward_Flip
+[2023.04.11-16.51.44:398][613]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.11-16.51.44:398][613]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.11-16.51.44:398][613]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.11-16.58.26:907][438]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.11-16.58.27:007][438]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.04.11-16.58.27:784][439]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.11-16.58.34:430][827]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.11-17.03.03:460][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.04.11-17.03.03:464][687]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.100
+[2023.04.11-17.03.03:464][687]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.11-17.03.03:598][687]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.04.11-17.03.03:598][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.11-17.03.03:650][687]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2023.04.11-17.03.03:652][687]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto40BDB55FE47B1364194FEF296E7CF58C1.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2023.04.11-17.03.03:654][687]LogFileHelpers: Auto-saving content packages took 0.190
+[2023.04.11-17.13.03:922][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.11-17.13.03:927][ 21]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.078
+[2023.04.11-17.13.03:927][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.11-17.13.03:954][ 21]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.04.11-17.13.03:954][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.11-17.13.03:998][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2023.04.11-17.13.04:001][ 21]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto54C8E351645C0E9A6C55EA2A483B23670.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2023.04.11-17.13.04:002][ 21]LogFileHelpers: Auto-saving content packages took 0.076
+[2023.04.11-17.26.29:796][ 54]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.884 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.11-17.43.02:143][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.11-17.43.02:149][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.046
+[2023.04.11-17.43.02:149][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.11-17.43.02:252][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.04.11-17.43.02:252][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.11-17.43.02:296][398]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2023.04.11-17.43.02:297][398]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto67E0CB4F944A2C9B048CABCA057BBD014.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2023.04.11-17.43.02:300][398]LogFileHelpers: Auto-saving content packages took 0.151
+[2023.04.11-17.53.50:104][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.11-17.53.50:109][220]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.050
+[2023.04.11-17.53.50:109][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.11-17.53.50:219][220]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.04.11-17.53.50:219][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.11-17.53.50:263][220]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2023.04.11-17.53.50:265][220]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto770275BD84CAFB8FEFD53C8A45874A9E2.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2023.04.11-17.53.50:266][220]LogFileHelpers: Auto-saving content packages took 0.157
+[2023.04.11-18.04.00:271][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.04.11-18.04.00:275][662]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.054
+[2023.04.11-18.04.00:275][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.11-18.04.00:377][662]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.04.11-18.04.00:377][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.11-18.04.00:432][662]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2023.04.11-18.04.00:434][662]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto83265EE7043B2D331E3E993A65DE15235.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2023.04.11-18.04.00:436][662]LogFileHelpers: Auto-saving content packages took 0.162
+[2023.04.11-18.15.32:805][256]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Player/Animations/Motions/Roll_Montage.Roll_Montage
+[2023.04.11-18.15.32:806][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.15.32:839][256]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.11-18.15.33:093][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.15.33:304][256]LogViewport: Scene viewport resized to 562x530, mode Windowed.
+[2023.04.11-18.15.44:247][834]LogSlate: Window 'Roll_Montage' being destroyed
+[2023.04.11-18.15.44:251][834]LogSlate: Window 'Roll_Montage' being destroyed
+[2023.04.11-18.15.44:260][834]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.15.44:260][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.15.44:462][834]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.15.44:463][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.15.44:477][834]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.15.44:477][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.15.44:634][834]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.15.44:635][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.15.44:665][834]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.15.44:666][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.15.44:752][834]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.15.44:752][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.15.52:037][204]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Player/Animations/Motions/Neo_Vaulting.Neo_Vaulting
+[2023.04.11-18.15.52:040][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.15.52:049][204]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.11-18.15.52:287][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.15.52:469][204]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.11-18.15.52:479][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.15.52:516][204]LogViewport: Scene viewport resized to 669x316, mode Windowed.
+[2023.04.11-18.15.52:547][204]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.11-18.15.52:579][205]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.11-18.15.52:579][205]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.11-18.16.27:287][321]LogViewport: Scene viewport resized to 907x582, mode Windowed.
+[2023.04.11-18.16.33:067][388]LogEditorFactories: Performing atomic reimport of [C:/Users/petel/Downloads/Running Forward Flip.fbx]
+[2023.04.11-18.16.33:073][388]LogFbx: Loading FBX Scene from C:/Users/petel/Downloads/Running Forward Flip.fbx
+[2023.04.11-18.16.33:087][388]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.11-18.16.33:087][388]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.11-18.16.33:089][388]LogScript: Warning: Script Msg: /Game/Characters/Player/Animations/Motions/Running_Forward_Flip : New play length is same as existing one: 1.1 seconds
+[2023.04.11-18.16.33:234][388]LogEditorFactories: -- imported successfully
+[2023.04.11-18.16.37:993][527]LogViewport: Scene viewport resized to 1366x894, mode Windowed.
+[2023.04.11-18.16.48:729][143]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Player/Animations/Motions/Running_Forward_Flip.Running_Forward_Flip
+[2023.04.11-18.16.48:753][143]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.11-18.16.48:760][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.16.48:786][143]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.16.48:786][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.16.56:853][554]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Player/Animations/Motions/Sprinting_Forward_Roll.Sprinting_Forward_Roll
+[2023.04.11-18.16.56:877][554]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.11-18.16.56:883][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.16.56:905][554]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.16.56:905][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.17.23:837][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.04.11-18.17.23:845][758]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.092
+[2023.04.11-18.17.23:846][758]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.11-18.17.23:892][758]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.04.11-18.17.23:892][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.11-18.17.23:964][758]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9
+[2023.04.11-18.17.23:966][758]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto9CE78E6F842722A01B055038320033B44.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9.uasset'
+[2023.04.11-18.17.23:967][758]LogFileHelpers: Auto-saving content packages took 0.122
+[2023.04.11-18.18.12:330][478]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Player/Animations/Motions/Running_Forward_Flip.Running_Forward_Flip
+[2023.04.11-18.18.12:355][478]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.11-18.18.12:361][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.18.12:384][478]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.18.12:384][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.18.14:569][579]LogSlate: Window 'Running_Forward_Flip' being destroyed
+[2023.04.11-18.18.14:575][579]LogSlate: Window 'Running_Forward_Flip' being destroyed
+[2023.04.11-18.18.14:575][579]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.18.14:576][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.18.14:592][579]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.18.14:592][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.18.14:686][579]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.18.14:686][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.18.17:796][744]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.11-18.18.17:796][744]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.11-18.18.21:800][968]LogContentBrowser: Deferred new asset file creation: Running_Forward_Flip_Montage
+[2023.04.11-18.18.21:815][968]LogContentBrowser: Creating deferred item: Running_Forward_Flip_Montage
+[2023.04.11-18.18.21:828][969]LogContentBrowser: Renaming the item being created (Deferred Item: Running_Forward_Flip_Montage).
+[2023.04.11-18.18.23:272][ 56]LogContentBrowser: Attempting asset rename: Running_Forward_Flip_Montage -> Running_Forward_Flip_Montage
+[2023.04.11-18.18.23:365][ 56]LogContentBrowser: End creating deferred item Running_Forward_Flip_Montage
+[2023.04.11-18.18.25:200][162]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Player/Animations/Motions/Running_Forward_Flip_Montage.Running_Forward_Flip_Montage
+[2023.04.11-18.18.25:201][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.18.25:226][162]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.11-18.18.25:456][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.18.25:624][162]LogViewport: Scene viewport resized to 669x316, mode Windowed.
+[2023.04.11-18.18.25:769][165]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.11-18.18.25:769][165]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.11-18.18.25:939][174]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.11-18.18.25:939][174]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.11-18.18.30:772][399]LogSlate: Window 'Running_Forward_Flip_Montage' being destroyed
+[2023.04.11-18.18.30:780][399]LogSlate: Window 'Running_Forward_Flip_Montage' being destroyed
+[2023.04.11-18.18.30:780][399]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.18.30:780][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.18.30:879][399]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.18.30:879][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.19.40:152][161]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.11-18.19.40:152][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.19.40:766][161]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.11-18.19.40:766][161]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.11-18.26.30:281][370]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.526 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.11-18.27.24:331][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.04.11-18.27.24:336][201]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.108
+[2023.04.11-18.27.24:337][201]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.11-18.27.24:440][201]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.04.11-18.27.24:440][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.11-18.27.24:505][201]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0
+[2023.04.11-18.27.24:507][201]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto058CCC8364DDDE8C10F909198D64CA602.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0.uasset'
+[2023.04.11-18.27.24:510][201]LogFileHelpers: Auto-saving content packages took 0.173
+[2023.04.11-18.32.26:485][866]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.11-18.32.26:495][866]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.11-18.32.26:495][866]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.11-18.32.26:495][866]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.32.26:495][866]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.11-18.32.26:495][866]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.11-18.32.26:496][866]LogWorldPartition: Display: GetPartitionedActors took 69 us
+[2023.04.11-18.32.26:496][866]LogWorldPartition: Display: GenerateStreaming took 714 us
+[2023.04.11-18.32.26:496][866]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.11-18.32.26:502][866]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2023.04.11-18.32.26:716][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.04.11-18.32.26:720][866]LogPlayLevel: PlayLevel: Blueprint regeneration took 223 ms (1 blueprints)
+[2023.04.11-18.32.26:720][866]PIE: New page: PIE session: ob_course_joint_ca_3 (11 Apr 2023, 20:32:26)
+[2023.04.11-18.32.26:721][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.32.26:734][866]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.11-18.32.26:734][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012517s)
+[2023.04.11-18.32.26:734][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_3.ob_course_joint_ca_3 to /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 (0.012594s)
+[2023.04.11-18.32.26:734][866]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.32.26:734][866]LogAIModule: Creating AISystem for world ob_course_joint_ca_3
+[2023.04.11-18.32.26:735][866]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.11-18.32.26:735][866]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.11-18.32.26:737][866]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.11-18.32.26:737][866]LogPlayLevel: PIE: World Init took: (0.004244s)
+[2023.04.11-18.32.26:766][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.04.11-18.32.26:768][866]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.11-18.32.26:768][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.11-18.32.26:768][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.11-18.32.26:768][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.11-18.32.26:768][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.11-18.32.26:768][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.11-18.32.26:768][866]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.11-18.32.26:768][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.11-18.32.26:768][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.11-18.32.26:769][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.11-18.32.26:769][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.11-18.32.26:769][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.11-18.32.26:771][866]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.11-18.32.26:808][866]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.11-18.32.26:808][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.11-18.32.26:808][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.11-18.32.26:808][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.11-18.32.26:810][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.04.11-18.32.26:810][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.04.11-18.32.26:811][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.04.11-18.32.26:811][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.04.11-18.32.26:811][866]LogInit: FAudioDevice initialized.
+[2023.04.11-18.32.26:811][866]LogAudio: Display: Audio Device (ID: 7) registered with world 'ob_course_joint_ca_3'.
+[2023.04.11-18.32.26:827][866]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.11-18.32.26:833][866]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 up for play (max tick rate 60) at 2023.04.11-19.32.26
+[2023.04.11-18.32.26:833][866]LogWorld: Bringing up level for play took: 0.005520
+[2023.04.11-18.32.26:836][866]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.04.11-18.32.26:837][866]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.11-18.32.26:837][866]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.32.26:839][866]PIE: Server logged in
+[2023.04.11-18.32.26:839][866]PIE: Play in editor total start time 0.347 seconds.
+[2023.04.11-18.32.49:789][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.32.49:789][211]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.32.49:790][211]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.32.49:791][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.32.49:803][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.11-18.32.49:808][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.32.49:844][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.32.49:845][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.11-18.32.49:846][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.11-18.32.49:859][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.11-18.32.49:994][212]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.04.11-18.32.55:566][511]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.11-18.32.55:566][511]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.11-18.32.55:567][511]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F62652F7801_1290431152
+[2023.04.11-18.32.55:568][511]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F62652F7801_1290431152
+[2023.04.11-18.33.13:096][484]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.11-18.33.13:107][484]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.11-18.33.13:107][484]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.11-18.33.13:107][484]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.33.13:107][484]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.11-18.33.13:107][484]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.11-18.33.13:107][484]LogWorldPartition: Display: GetPartitionedActors took 65 us
+[2023.04.11-18.33.13:108][484]LogWorldPartition: Display: GenerateStreaming took 758 us
+[2023.04.11-18.33.13:108][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-18.33.13:108][484]PIE: New page: PIE session: ob_course_joint_ca_3 (11 Apr 2023, 20:33:13)
+[2023.04.11-18.33.13:108][484]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.33.13:123][484]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.11-18.33.13:123][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014400s)
+[2023.04.11-18.33.13:123][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_3.ob_course_joint_ca_3 to /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 (0.014462s)
+[2023.04.11-18.33.13:124][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.33.13:124][484]LogAIModule: Creating AISystem for world ob_course_joint_ca_3
+[2023.04.11-18.33.13:125][484]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.11-18.33.13:125][484]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.11-18.33.13:127][484]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.11-18.33.13:127][484]LogPlayLevel: PIE: World Init took: (0.004205s)
+[2023.04.11-18.33.13:160][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.11-18.33.13:165][484]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.11-18.33.13:165][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.11-18.33.13:165][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.11-18.33.13:165][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.11-18.33.13:165][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.11-18.33.13:165][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.11-18.33.13:165][484]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.11-18.33.13:165][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.11-18.33.13:165][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.11-18.33.13:166][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.11-18.33.13:166][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.11-18.33.13:166][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.11-18.33.13:169][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.11-18.33.13:214][484]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.11-18.33.13:214][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.11-18.33.13:215][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.11-18.33.13:215][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.11-18.33.13:215][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.04.11-18.33.13:215][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.04.11-18.33.13:217][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.04.11-18.33.13:217][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.04.11-18.33.13:217][484]LogInit: FAudioDevice initialized.
+[2023.04.11-18.33.13:217][484]LogAudio: Display: Audio Device (ID: 8) registered with world 'ob_course_joint_ca_3'.
+[2023.04.11-18.33.13:232][484]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.11-18.33.13:237][484]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 up for play (max tick rate 60) at 2023.04.11-19.33.13
+[2023.04.11-18.33.13:239][484]LogWorld: Bringing up level for play took: 0.005442
+[2023.04.11-18.33.13:241][484]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.04.11-18.33.13:243][484]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.11-18.33.13:243][484]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.33.13:245][484]PIE: Server logged in
+[2023.04.11-18.33.13:246][484]PIE: Play in editor total start time 0.141 seconds.
+[2023.04.11-18.33.32:690][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.33.32:690][509]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.33.32:691][509]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.33.32:692][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.33.32:722][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.11-18.33.32:727][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.33.32:774][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.11-18.33.32:774][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.11-18.33.32:776][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.11-18.33.32:784][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.33.32:790][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.11-18.33.32:918][510]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.04.11-18.34.18:492][174]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.11-18.34.18:618][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.11-18.34.22:447][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.11-18.34.22:457][331]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.11-18.34.22:457][331]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.11-18.34.22:457][331]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.34.22:457][331]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.11-18.34.22:457][331]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.11-18.34.22:457][331]LogWorldPartition: Display: GetPartitionedActors took 79 us
+[2023.04.11-18.34.22:458][331]LogWorldPartition: Display: GenerateStreaming took 934 us
+[2023.04.11-18.34.22:458][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-18.34.22:458][331]PIE: New page: PIE session: ob_course_joint_ca_3 (11 Apr 2023, 20:34:22)
+[2023.04.11-18.34.22:459][331]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.34.22:474][331]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.11-18.34.22:474][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015193s)
+[2023.04.11-18.34.22:474][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_3.ob_course_joint_ca_3 to /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 (0.015264s)
+[2023.04.11-18.34.22:475][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.34.22:475][331]LogAIModule: Creating AISystem for world ob_course_joint_ca_3
+[2023.04.11-18.34.22:476][331]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.11-18.34.22:476][331]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.11-18.34.22:479][331]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2023.04.11-18.34.22:479][331]LogPlayLevel: PIE: World Init took: (0.004817s)
+[2023.04.11-18.34.22:511][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.11-18.34.22:517][331]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.11-18.34.22:517][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.11-18.34.22:517][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.11-18.34.22:517][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.11-18.34.22:517][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.11-18.34.22:517][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.11-18.34.22:517][331]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.11-18.34.22:517][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.11-18.34.22:517][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.11-18.34.22:517][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.11-18.34.22:517][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.11-18.34.22:517][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.11-18.34.22:520][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.11-18.34.22:566][331]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.11-18.34.22:566][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.11-18.34.22:566][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.11-18.34.22:566][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.11-18.34.22:567][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.04.11-18.34.22:567][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.04.11-18.34.22:569][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.04.11-18.34.22:569][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.04.11-18.34.22:569][331]LogInit: FAudioDevice initialized.
+[2023.04.11-18.34.22:569][331]LogAudio: Display: Audio Device (ID: 9) registered with world 'ob_course_joint_ca_3'.
+[2023.04.11-18.34.22:583][331]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.11-18.34.22:588][331]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 up for play (max tick rate 60) at 2023.04.11-19.34.22
+[2023.04.11-18.34.22:589][331]LogWorld: Bringing up level for play took: 0.006391
+[2023.04.11-18.34.22:591][331]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.04.11-18.34.22:594][331]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.11-18.34.22:594][331]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.34.22:596][331]PIE: Server logged in
+[2023.04.11-18.34.22:597][331]PIE: Play in editor total start time 0.142 seconds.
+[2023.04.11-18.34.38:120][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.34.38:120][103]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.34.38:120][103]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.34.38:121][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.34.38:142][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.11-18.34.38:147][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.34.38:188][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.11-18.34.38:189][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.11-18.34.38:191][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.11-18.34.38:198][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.34.38:203][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.04.11-18.34.38:306][104]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.04.11-18.34.44:855][325]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.11-18.34.44:866][325]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.11-18.34.44:866][325]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.11-18.34.44:866][325]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.34.44:866][325]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.11-18.34.44:866][325]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.11-18.34.44:866][325]LogWorldPartition: Display: GetPartitionedActors took 63 us
+[2023.04.11-18.34.44:867][325]LogWorldPartition: Display: GenerateStreaming took 714 us
+[2023.04.11-18.34.44:867][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-18.34.44:867][325]PIE: New page: PIE session: ob_course_joint_ca_3 (11 Apr 2023, 20:34:44)
+[2023.04.11-18.34.44:867][325]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.34.44:880][325]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.11-18.34.44:880][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013314s)
+[2023.04.11-18.34.44:881][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_3.ob_course_joint_ca_3 to /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 (0.013372s)
+[2023.04.11-18.34.44:881][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.34.44:881][325]LogAIModule: Creating AISystem for world ob_course_joint_ca_3
+[2023.04.11-18.34.44:881][325]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.11-18.34.44:881][325]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.11-18.34.44:884][325]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2023.04.11-18.34.44:885][325]LogPlayLevel: PIE: World Init took: (0.004558s)
+[2023.04.11-18.34.44:921][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.11-18.34.44:924][325]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.11-18.34.44:924][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.11-18.34.44:924][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.11-18.34.44:924][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.11-18.34.44:924][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.11-18.34.44:924][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.11-18.34.44:924][325]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.11-18.34.44:924][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.11-18.34.44:924][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.11-18.34.44:925][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.11-18.34.44:925][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.11-18.34.44:925][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.11-18.34.44:928][325]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.11-18.34.44:988][325]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.11-18.34.44:988][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.11-18.34.44:988][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.11-18.34.44:988][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.11-18.34.44:989][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.04.11-18.34.44:989][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.04.11-18.34.44:991][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.04.11-18.34.44:991][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.04.11-18.34.44:991][325]LogInit: FAudioDevice initialized.
+[2023.04.11-18.34.44:991][325]LogAudio: Display: Audio Device (ID: 10) registered with world 'ob_course_joint_ca_3'.
+[2023.04.11-18.34.45:006][325]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.11-18.34.45:012][325]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 up for play (max tick rate 60) at 2023.04.11-19.34.45
+[2023.04.11-18.34.45:013][325]LogWorld: Bringing up level for play took: 0.006979
+[2023.04.11-18.34.45:016][325]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.04.11-18.34.45:019][325]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.11-18.34.45:019][325]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.34.45:021][325]PIE: Server logged in
+[2023.04.11-18.34.45:021][325]PIE: Play in editor total start time 0.158 seconds.
+[2023.04.11-18.34.59:780][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.34.59:780][898]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.34.59:780][898]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.34.59:781][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.34.59:790][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.11-18.34.59:795][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.34.59:826][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.34.59:826][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.11-18.34.59:828][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.11-18.34.59:840][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.11-18.34.59:910][899]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.04.11-18.38.38:048][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.11-18.38.38:059][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_3/2/05/WPZATKMSQUOVZDB64U95N6_Auto1
+[2023.04.11-18.38.38:059][692]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/WPZATKMSQUOVZDB64U95N6_Auto148A6E8914DEDE7C4DA01F38459CF0BC6.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_3/2/05/WPZATKMSQUOVZDB64U95N6_Auto1.uasset'
+[2023.04.11-18.38.38:060][692]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.041
+[2023.04.11-18.38.38:060][692]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2023.04.11-18.38.38:061][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.11-18.38.38:087][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.04.11-18.38.38:087][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.11-18.38.38:133][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2023.04.11-18.38.38:134][692]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/BP_ThirdPersonCharacter_Auto17C0120F84276AD6B92F56DA11CBB9C00.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2023.04.11-18.38.38:136][692]LogFileHelpers: Auto-saving content packages took 0.076
+[2023.04.11-18.40.28:007][150]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.11-18.40.28:114][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.04.11-18.40.31:671][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.11-18.40.31:683][287]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.11-18.40.31:683][287]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.11-18.40.31:683][287]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.40.31:683][287]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.11-18.40.31:683][287]LogWorldPartition: Display: ValidateSingleActorReferer took 5 us
+[2023.04.11-18.40.31:683][287]LogWorldPartition: Display: GetPartitionedActors took 77 us
+[2023.04.11-18.40.31:684][287]LogWorldPartition: Display: GenerateStreaming took 779 us
+[2023.04.11-18.40.31:684][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-18.40.31:684][287]PIE: New page: PIE session: ob_course_joint_ca_3 (11 Apr 2023, 20:40:31)
+[2023.04.11-18.40.31:684][287]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.40.31:699][287]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.11-18.40.31:699][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014535s)
+[2023.04.11-18.40.31:699][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_3.ob_course_joint_ca_3 to /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 (0.014601s)
+[2023.04.11-18.40.31:699][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-18.40.31:700][287]LogAIModule: Creating AISystem for world ob_course_joint_ca_3
+[2023.04.11-18.40.31:700][287]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.11-18.40.31:700][287]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.11-18.40.31:704][287]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2023.04.11-18.40.31:704][287]LogPlayLevel: PIE: World Init took: (0.004617s)
+[2023.04.11-18.40.31:736][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.11-18.40.31:744][287]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.11-18.40.31:744][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.11-18.40.31:744][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.11-18.40.31:744][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.11-18.40.31:744][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.11-18.40.31:744][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.11-18.40.31:744][287]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.11-18.40.31:744][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.11-18.40.31:744][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.11-18.40.31:745][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.11-18.40.31:745][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.11-18.40.31:745][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.11-18.40.31:747][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.11-18.40.31:794][287]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.11-18.40.31:794][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.11-18.40.31:794][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.11-18.40.31:794][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.11-18.40.31:795][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.04.11-18.40.31:795][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.04.11-18.40.31:798][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.04.11-18.40.31:798][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.04.11-18.40.31:798][287]LogInit: FAudioDevice initialized.
+[2023.04.11-18.40.31:798][287]LogAudio: Display: Audio Device (ID: 11) registered with world 'ob_course_joint_ca_3'.
+[2023.04.11-18.40.31:812][287]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.11-18.40.31:819][287]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 up for play (max tick rate 60) at 2023.04.11-19.40.31
+[2023.04.11-18.40.31:819][287]LogWorld: Bringing up level for play took: 0.006560
+[2023.04.11-18.40.31:822][287]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.04.11-18.40.31:824][287]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.11-18.40.31:824][287]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.11-18.40.31:825][287]PIE: Server logged in
+[2023.04.11-18.40.31:826][287]PIE: Play in editor total start time 0.147 seconds.
+[2023.04.11-18.41.07:100][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.41.07:100][789]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.11-18.41.07:100][789]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-18.41.07:101][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.41.07:133][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.11-18.41.07:139][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-18.41.07:175][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.11-18.41.07:175][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.11-18.41.07:177][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.11-18.41.07:185][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-18.41.07:190][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.11-18.41.07:329][790]LogPlayLevel: Display: Destroying online subsystem :Context_48
