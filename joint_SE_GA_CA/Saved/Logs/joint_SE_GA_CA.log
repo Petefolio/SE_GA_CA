@@ -3610,3 +3610,1182 @@ Make sure 'HealthPickUp_BP_C' has been compiled for  Get Health
 [2023.04.14-15.31.23:507][ 21]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.14-15.31.23:508][ 21]LogContentValidation: Display: Validating Blueprint /Game/HealthPickUp/HealthPickUp_BP.HealthPickUp_BP
 [2023.04.14-15.31.23:508][ 21]LogContentValidation: Display: Validating HealthPickUp_BP_C /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.HealthPickUp_BP_C_UAID_84A9380F6265147901_1824688455
+[2023.04.14-15.32.38:092][444]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.226 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-16.32.38:034][179]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.225 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-17.01.54:821][419]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.04.14-17.01.54:821][419]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=35368
+[2023.04.14-17.01.55:158][419]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{05e6e3e7-457f-4834-b761-99a4015d690b}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=247.58
+[2023.04.14-17.01.55:159][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.14-17.01.55:162][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.14-17.32.38:995][921]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.962 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-18.32.38:048][656]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.100 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-18.40.27:144][ 57]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2023.04.14-18.40.27:144][ 57]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=35368
+[2023.04.14-18.40.27:498][ 57]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b7012d33-b3ca-40a0-90e7-833f790822e9}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=301.86
+[2023.04.14-18.40.27:498][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.14-18.40.27:507][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.14-18.47.33:053][327]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.04.14-18.47.33:053][327]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=35368
+[2023.04.14-18.47.33:389][327]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{05e6e3e7-457f-4834-b761-99a4015d690b}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=82.23
+[2023.04.14-18.47.33:389][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.14-18.47.33:392][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.14-19.32.38:155][393]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.053 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-20.32.37:946][129]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.152 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-21.32.37:976][874]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.073 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-22.02.12:098][160]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.04.14-22.05.57:017][160]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.04.14-22.05.59:741][160]LogViewport: Scene viewport resized to 1366x942, mode Windowed.
+[2023.04.14-22.06.00:988][161]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=35368
+[2023.04.14-22.06.00:991][161]LogHttp: Warning: 000008D0E0B01900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D041F23-4547-CCD5-5A8B-BBB5CDC7458E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b3fa77fa4a323f2ee45ee6a204626a2b%7C7126afbbec5246758ea5f85c7944e1b7%7C01e0d25b-e634-4df9-96a3-942cba921921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.14-22.06.00:992][161]LogHttp: Warning: 000008D0E0B01900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.04.14-22.06.00:992][161]LogHttp: Warning: 000008D0E0B01900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x8d03b0d0840 [can pipeline])
+[2023.04.14-22.06.00:992][161]LogHttp: Warning: 000008D0E0B01900: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2023.04.14-22.06.00:992][161]LogHttp: Warning: 000008D0E0B01900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.22.242) port 443 (#1))
+[2023.04.14-22.06.00:992][161]LogHttp: Warning: 000008D0E0B01900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.04.14-22.06.00:992][161]LogHttp: Warning: 000008D0E0B01900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.04.14-22.06.00:992][161]LogHttp: Warning: 000008D0E0B01900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.04.14-22.06.00:992][161]LogHttp: Warning: 000008D0E0B01900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.04.14-22.06.00:992][161]LogHttp: Warning: 000008D0E0B01900: libcurl info message cache 7 (Closing connection 1)
+[2023.04.14-22.06.00:999][161]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D041F23-4547-CCD5-5A8B-BBB5CDC7458E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b3fa77fa4a323f2ee45ee6a204626a2b%7C7126afbbec5246758ea5f85c7944e1b7%7C01e0d25b-e634-4df9-96a3-942cba921921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.14-22.06.01:357][162]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{05e6e3e7-457f-4834-b761-99a4015d690b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=148.32
+[2023.04.14-22.06.01:357][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.14-22.06.01:372][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.14-22.06.05:761][174]LogViewport: Scene viewport resized to 1366x894, mode Windowed.
+[2023.04.14-22.36.16:276][583]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.447 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-23.14.22:910][416]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2023.04.14-23.14.22:910][416]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=35368
+[2023.04.14-23.14.23:243][416]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b7012d33-b3ca-40a0-90e7-833f790822e9}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=98.81
+[2023.04.14-23.14.23:243][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.14-23.14.23:254][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.14-23.26.15:343][544]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.04.14-23.26.15:343][544]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=35368
+[2023.04.14-23.26.15:674][544]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{05e6e3e7-457f-4834-b761-99a4015d690b}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=178.54
+[2023.04.14-23.26.15:674][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.14-23.26.15:683][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.14-23.36.16:216][339]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.279 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.15-00.36.16:346][ 73]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.268 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.15-01.30.34:823][746]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.15-01.30.34:839][746]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.15-01.30.34:856][747]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.15-01.30.37:521][980]LogContentBrowser: Attempting asset rename: NewFolder -> Obstacles
+[2023.04.15-01.30.37:525][980]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.15-01.30.44:066][320]LogAssetTools: Warning: Failed to import 'C:\Users\petel\OneDrive - Dundalk Institute of Technology\Desktop\ObstacleCourse2023\sphere_model.blend'. Unknown extension 'blend'.
+[2023.04.15-01.31.23:898][468]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\petel\OneDrive - Dundalk Institute of Technology\Desktop\ObstacleCourse2023\spinner.fbx)
+[2023.04.15-01.31.23:945][468]LogFbx: Loading FBX Scene from C:\Users\petel\OneDrive - Dundalk Institute of Technology\Desktop\ObstacleCourse2023\spinner.fbx
+[2023.04.15-01.31.23:960][468]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.15-01.31.29:039][468]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.15-01.31.29:217][468]LogTexture: Display: Building textures: /Game/Blueprints/Obstacles/redmet_tex.redmet_tex (BGRA8, 1000X699 X1X1) (Required Memory Estimate: 13.332367 MB), EncodeSpeed: Fast
+[2023.04.15-01.31.29:217][468]LogTexture: Display: Building textures: /Game/Blueprints/Obstacles/NormalMap__9_.NormalMap__9_ (BGRA8, 1000X699 X1X1) (Required Memory Estimate: 13.332367 MB), EncodeSpeed: Fast
+[2023.04.15-01.31.29:245][468]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 50DC48810DE3815DA26EA28747F87FE5B2075459), compiling. 
+[2023.04.15-01.31.29:314][468]LogFbx: Display: Triangulating static mesh Cube
+[2023.04.15-01.31.29:353][468]LogStaticMesh: Display: Building static mesh spinner_Cube...
+[2023.04.15-01.31.29:365][468]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/Obstacles/spinner_Cube.spinner_Cube
+[2023.04.15-01.31.29:401][468]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.04.15-01.31.29:404][468]LogStaticMesh: Display: Building static mesh spinner_Cube_001...
+[2023.04.15-01.31.29:409][468]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Obstacles/spinner_Cube_001.spinner_Cube_001
+[2023.04.15-01.31.29:411][468]LogStaticMesh: Warning: spinner_Cube_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.04.15-01.31.29:411][468]LogStaticMesh: Warning: spinner_Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.15-01.31.29:433][468]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.04.15-01.31.29:438][468]LogStaticMesh: Display: Building static mesh spinner_Cube_002...
+[2023.04.15-01.31.29:446][468]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Obstacles/spinner_Cube_002.spinner_Cube_002
+[2023.04.15-01.31.29:470][468]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.04.15-01.31.29:475][468]LogStaticMesh: Display: Building static mesh spinner_Cube_004...
+[2023.04.15-01.31.29:481][468]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Obstacles/spinner_Cube_004.spinner_Cube_004
+[2023.04.15-01.31.29:518][468]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.15-01.31.29:518][468]FBXImport: Warning: spinner_Cube_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.04.15-01.31.29:518][468]FBXImport: Warning: spinner_Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.15-01.31.33:081][604]LogShaderCompilers: Display: ================================================
+[2023.04.15-01.31.33:081][604]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.15-01.31.33:081][604]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 4 distinct outputs (80.00%)
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Jobs assigned 8, completed 5 (62.50%)
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Average time worker was idle: 45689.33 s
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.12 s
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Job execution time: average 1.42 s, max 2.06 s
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Job life time (pending + execution): average 1.47 s, max 2.18
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.68 s
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Average processing rate: 1.36 jobs/sec
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Effective parallelization: 1.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2023.04.15-01.31.33:082][604]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.43 sec)
+[2023.04.15-01.31.33:083][604]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.15-01.31.33:083][604]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.06% of total time (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.04.15-01.31.33:083][604]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.80% of total time (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2023.04.15-01.31.33:083][604]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.11% of total time (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2023.04.15-01.31.33:083][604]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 23.03% of total time (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.43 sec)
+[2023.04.15-01.31.33:083][604]LogShaderCompilers: Display: ================================================
+[2023.04.15-01.31.34:627][689]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-01.31.34:649][689]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-01.31.38:981][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Obstacles/spinner_Cube.spinner_Cube
+[2023.04.15-01.31.38:981][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Obstacles/spinner_Cube.spinner_Cube
+[2023.04.15-01.31.38:983][  7]LogActorFactory: Actor Factory spawned StaticMesh /Game/Blueprints/Obstacles/spinner_Cube.spinner_Cube as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_17
+[2023.04.15-01.31.40:654][134]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Obstacles/spinner_Cube.spinner_Cube
+[2023.04.15-01.31.40:654][134]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Obstacles/spinner_Cube.spinner_Cube
+[2023.04.15-01.31.40:664][134]LogActorFactory: Actor Factory spawned StaticMesh /Game/Blueprints/Obstacles/spinner_Cube.spinner_Cube as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F6265387901_1073935792
+[2023.04.15-01.31.44:404][415]Cmd: DELETE
+[2023.04.15-01.31.44:404][415]Cmd: ACTOR DELETE
+[2023.04.15-01.31.44:428][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.15-01.31.45:012][415]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2023.04.15-01.31.45:037][415]LogEditorActor: Deleted 1 Actors (0.632 secs)
+[2023.04.15-01.32.00:780][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.15-01.32.02:322][266]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.15-01.32.02:404][266]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Blueprints/Obstacles/Material.Material
+	Asset Type: Material
+	Asset Name: /Game/Blueprints/Obstacles/NormalMap__9_.NormalMap__9_
+	Asset Type: Texture2D
+	Asset Name: /Game/Blueprints/Obstacles/redmet_tex.redmet_tex
+	Asset Type: Texture2D
+	Asset Name: /Game/Blueprints/Obstacles/spinner_Cube.spinner_Cube
+	Asset Type: StaticMesh
+	Asset Name: /Game/Blueprints/Obstacles/spinner_Cube_001.spinner_Cube_001
+	Asset Type: StaticMesh
+	Asset Name: /Game/Blueprints/Obstacles/spinner_Cube_002.spinner_Cube_002
+	Asset Type: StaticMesh
+	Asset Name: /Game/Blueprints/Obstacles/spinner_Cube_004.spinner_Cube_004
+	Asset Type: StaticMesh
+[2023.04.15-01.32.03:506][266]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 4CA29B7A14E1C57AE1B4C7E29F13A14C28628FC2), compiling. 
+[2023.04.15-01.32.03:508][266]LogMaterial: Warning: [AssetLog] /Game/Blueprints/Obstacles/Material.Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.15-01.32.03:509][266]LogMaterial: Warning: Material: Requesting an invalid TextureIndex! (1 / 0)
+[2023.04.15-01.32.03:513][266]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 4CA29B7A14E1C57AE1B4C7E29F13A14C28628FC2), compiling. 
+[2023.04.15-01.32.03:513][266]LogMaterial: Warning: [AssetLog] /Game/Blueprints/Obstacles/Material.Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.15-01.32.04:059][266]LogWorldPartition: Warning: Actor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F6265387901_1073935792 is unreachable without properly detaching object /Game/__ExternalActors__/ob_course_joint_ca_3/C/9D/TVDMZV2A0W3YHXOQIA5EIE.PackageMetaData in its package
+[2023.04.15-01.32.04:064][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.04.15-01.32.04:146][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.15-01.32.04:229][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.15-01.32.04:333][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.04.15-01.36.16:358][103]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.503 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.15-01.36.54:569][389]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\petel\OneDrive - Dundalk Institute of Technology\Desktop\ObstacleCourse2023\models\sphere_model.fbx)
+[2023.04.15-01.36.54:579][389]LogFbx: Loading FBX Scene from C:\Users\petel\OneDrive - Dundalk Institute of Technology\Desktop\ObstacleCourse2023\models\sphere_model.fbx
+[2023.04.15-01.36.54:591][389]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.15-01.36.57:241][389]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.15-01.36.57:330][389]LogMaterial: Display: Missing cached shadermap for White in PCD3D_SM5, Default, SM5 (DDC key hash: A95C99297DBBA5E421723B1BA868207D5DF1351C), compiling. 
+[2023.04.15-01.36.57:356][389]LogMaterial: Display: Missing cached shadermap for Emission in PCD3D_SM5, Default, SM5 (DDC key hash: 4AF1BEAFD068E384F1BC56A54B5DE195D0FA0984), compiling. 
+[2023.04.15-01.36.57:363][389]LogFbx: Display: Triangulating static mesh Sphere
+[2023.04.15-01.36.57:872][389]LogStaticMesh: Display: Building static mesh sphere_model...
+[2023.04.15-01.36.58:492][389]LogStaticMesh: Built static mesh [0.62s] /Game/Blueprints/Obstacles/sphere_model.sphere_model
+[2023.04.15-01.36.58:656][389]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.15-01.36.58:745][389]LogStaticMesh: Display: Building static mesh sphere_model...
+[2023.04.15-01.36.58:745][389]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Blueprints/Obstacles/sphere_model) ...
+[2023.04.15-01.36.59:446][389]LogStaticMesh: Built static mesh [0.64s] /Game/Blueprints/Obstacles/sphere_model.sphere_model
+[2023.04.15-01.37.00:879][431]LogShaderCompilers: Display: ================================================
+[2023.04.15-01.37.00:879][431]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.15-01.37.00:879][431]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.04.15-01.37.00:879][431]LogShaderCompilers: Display: Tracking 9 distinct input hashes that result in 7 distinct outputs (77.78%)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Shaders Compiled: 8
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Jobs assigned 16, completed 9 (56.25%)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Average time worker was idle: 23007.73 s
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.14 s
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Job execution time: average 1.84 s, max 2.78 s
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Job life time (pending + execution): average 1.89 s, max 2.79
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.54 s
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Average processing rate: 1.62 jobs/sec
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Effective parallelization: 1.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.04 sec, max 1.06 sec, min 1.01 sec)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.03 sec, max 1.04 sec, min 1.02 sec)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.96 sec, max 1.05 sec, min 0.87 sec)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.57 sec, max 0.84 sec, min 0.43 sec)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.71% of total time (compiled    2 times, average 1.04 sec, max 1.06 sec, min 1.01 sec)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.54% of total time (compiled    2 times, average 1.03 sec, max 1.04 sec, min 1.02 sec)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.72% of total time (compiled    2 times, average 0.96 sec, max 1.05 sec, min 0.87 sec)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 22.03% of total time (compiled    3 times, average 0.57 sec, max 0.84 sec, min 0.43 sec)
+[2023.04.15-01.37.00:880][431]LogShaderCompilers: Display: ================================================
+[2023.04.15-01.37.02:052][475]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-01.37.02:073][475]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-01.37.17:942][382]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Obstacles/sphere_model.sphere_model
+[2023.04.15-01.37.17:942][382]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Obstacles/sphere_model.sphere_model
+[2023.04.15-01.37.17:942][382]LogActorFactory: Actor Factory spawned StaticMesh /Game/Blueprints/Obstacles/sphere_model.sphere_model as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_26
+[2023.04.15-01.37.19:097][450]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Obstacles/sphere_model.sphere_model
+[2023.04.15-01.37.19:097][450]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Blueprints/Obstacles/sphere_model.sphere_model
+[2023.04.15-01.37.19:098][450]LogActorFactory: Actor Factory spawned StaticMesh /Game/Blueprints/Obstacles/sphere_model.sphere_model as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F6265387901_1412379793
+[2023.04.15-01.37.25:966][848]Cmd: DELETE
+[2023.04.15-01.37.25:966][848]Cmd: ACTOR DELETE
+[2023.04.15-01.37.25:969][848]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.15-01.37.26:058][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.15-01.37.26:061][848]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2023.04.15-01.37.35:946][122]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Obstacles/sphere_model.sphere_model
+[2023.04.15-01.37.36:033][122]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-01.37.37:725][122]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_4/A/5Y/': Invalid argument
+[2023.04.15-01.37.37:756][122]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.04.15-01.42.29:492][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.04.15-01.42.29:496][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.088
+[2023.04.15-01.42.29:497][ 28]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Obstacles/sphere_model] ([1] browsable assets)...
+[2023.04.15-01.42.29:528][ 28]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/Obstacles/sphere_model.sphere_model]
+[2023.04.15-01.42.29:528][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Obstacles/sphere_model]
+[2023.04.15-01.42.29:569][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Obstacles/sphere_model_Auto8
+[2023.04.15-01.42.29:569][ 28]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/sphere_model_Auto89ABC547244A8B54ACED1F58C92B345F2.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/Blueprints/Obstacles/sphere_model_Auto8.uasset'
+[2023.04.15-01.42.29:570][ 28]LogFileHelpers: Auto-saving content packages took 0.074
+[2023.04.15-01.52.29:982][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.15-01.52.29:986][817]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.107
+[2023.04.15-01.53.04:323][203]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.15-01.53.04:323][203]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.15-01.53.04:941][226]LogUObjectHash: Compacting FUObjectHashTables data took  12.12ms
+[2023.04.15-01.53.06:583][226]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.15-01.53.06:778][226]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-01.53.06:778][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-01.53.06:826][226]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Blueprints/Obstacles/White.White
+	Asset Type: Material
+	Asset Name: /Game/Blueprints/Obstacles/Emission.Emission
+	Asset Type: Material
+	Asset Name: /Game/Blueprints/Obstacles/sphere_model.sphere_model
+	Asset Type: StaticMesh
+[2023.04.15-01.53.07:185][226]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Blueprints/Obstacles/sphere_model) ...
+[2023.04.15-01.53.07:236][226]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Blueprints/Obstacles/sphere_model) ...
+[2023.04.15-01.53.07:591][226]LogWorldPartition: Warning: Actor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F6265387901_1412379793 is unreachable without properly detaching object /Game/__ExternalActors__/ob_course_joint_ca_3/A/55/DCYPAJ4HUH6I8T6ZUXBJZQ.PackageMetaData in its package
+[2023.04.15-01.53.07:601][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.04.15-01.53.07:685][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.04.15-01.53.07:758][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.04.15-01.53.07:843][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.15-01.55.36:712][802]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.15-01.55.36:713][802]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.15-01.55.44:345][236]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_4/A/5Y/': Invalid argument
+[2023.04.15-01.55.44:345][236]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/Maps/Entry.umap: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/Maps/Entry.umap' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-01.55.45:245][283]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-01.55.52:126][681]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.15-01.55.52:126][681]LogEditorClassViewer: Warning: Class /Game/mainmenumap.PLACEHOLDER-CLASS__Main_Menu_WIdget_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.15-01.57.41:388][394]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2023.04.15-01.57.41:504][394]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2023.04.15-01.57.41:612][394]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2023.04.15-01.57.41:614][394]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-MP9RH125
+[2023.04.15-01.57.41:614][394]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/joint_SE_GA_CA.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Intermediate/TurnkeyReport_1.log" -log="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Intermediate/TurnkeyLog_1.log" -project="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/joint_SE_GA_CA.uproject"  -Device=Win64@LAPTOP-MP9RH125'
+[2023.04.15-01.57.41:618][394]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/joint_SE_GA_CA.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Intermediate/TurnkeyReport_1.log" -log="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Intermediate/TurnkeyLog_1.log" -project="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/joint_SE_GA_CA.uproject"  -Device=Win64@LAPTOP-MP9RH125" -nocompile ]
+[2023.04.15-01.57.42:566][395]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.04.15-01.57.44:502][460]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-MP9RH125
+[2023.04.15-01.58.09:783][928]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-MP9RH125
+[2023.04.15-01.58.11:096][997]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/joint_SE_GA_CA.uproject" Turnkey -command=VerifySdk -UpdateIfNeeded -platform=Win64 -noturnkeyvariables -device=LAPTOP-MP9RH125 -utf8output -WaitForUATMutex  -EditorIO -EditorIOPort=58583  -project="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/joint_SE_GA_CA.uproject"" -nocompile ]
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): Running AutomationTool...
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): You must install or update .NET to run this application.
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): App: C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\DotNET\AutomationTool\AutomationTool.dll
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): Architecture: x64
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): Framework: 'Microsoft.WindowsDesktop.App', version '3.1.0' (x64)
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): .NET location: C:\Program Files\dotnet\
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): The following frameworks were found:
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows):   6.0.12 at [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): Learn about framework resolution:
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): https://aka.ms/dotnet/app-launch-failed
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): To install missing framework, download:
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=3.1.0&arch=x64&rid=win10-x64
+[2023.04.15-01.58.11:705][997]UATHelper: Verifying SDK and Device (Windows): BUILD FAILED
+[2023.04.15-01.58.20:220][499]LogSlate: Window 'SDK Verification' being destroyed
+[2023.04.15-01.58.22:786][649]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-MP9RH125
+[2023.04.15-01.58.23:568][692]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/joint_SE_GA_CA.uproject" Turnkey -command=VerifySdk -UpdateIfNeeded -platform=Win64 -noturnkeyvariables -device=LAPTOP-MP9RH125 -utf8output -WaitForUATMutex  -EditorIO -EditorIOPort=58583  -project="C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/joint_SE_GA_CA.uproject"" -nocompile ]
+[2023.04.15-01.58.23:675][694]UATHelper: Verifying SDK and Device (Windows): Running AutomationTool...
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): You must install or update .NET to run this application.
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): App: C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\DotNET\AutomationTool\AutomationTool.dll
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): Architecture: x64
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): Framework: 'Microsoft.WindowsDesktop.App', version '3.1.0' (x64)
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): .NET location: C:\Program Files\dotnet\
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): The following frameworks were found:
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows):   6.0.12 at [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): Learn about framework resolution:
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): https://aka.ms/dotnet/app-launch-failed
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): To install missing framework, download:
+[2023.04.15-01.58.23:770][696]UATHelper: Verifying SDK and Device (Windows): https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=3.1.0&arch=x64&rid=win10-x64
+[2023.04.15-01.58.23:827][697]UATHelper: Verifying SDK and Device (Windows): BUILD FAILED
+[2023.04.15-01.58.25:623][795]LogSlate: Window 'SDK Verification' being destroyed
+[2023.04.15-01.58.26:358][838]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-MP9RH125
+[2023.04.15-02.10.46:278][664]LogSlate: Window 'SDK Not Setup' being destroyed
+[2023.04.15-02.11.29:896][445]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2023.04.15-02.11.29:896][445]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=35368
+[2023.04.15-02.11.34:893][445]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.04.15-03.03.34:836][445]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-3119565ms], ThreadID=35368
+[2023.04.15-03.03.36:085][445]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{05e6e3e7-457f-4834-b761-99a4015d690b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=3125475.50
+[2023.04.15-03.03.36:086][445]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.15-03.03.36:111][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.15-03.03.36:793][446]LogHttp: Warning: 000008D0DE6E9100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D041F23-4547-CCD5-5A8B-BBB5CDC7458E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b3fa77fa4a323f2ee45ee6a204626a2b%7C7126afbbec5246758ea5f85c7944e1b7%7C01e0d25b-e634-4df9-96a3-942cba921921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.15-03.03.36:794][446]LogHttp: Warning: 000008D0DE6E9100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.04.15-03.03.36:794][446]LogHttp: Warning: 000008D0DE6E9100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x8d03b0d0480 [can pipeline])
+[2023.04.15-03.03.36:794][446]LogHttp: Warning: 000008D0DE6E9100: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2023.04.15-03.03.36:794][446]LogHttp: Warning: 000008D0DE6E9100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.232.209.32) port 443 (#4))
+[2023.04.15-03.03.36:794][446]LogHttp: Warning: 000008D0DE6E9100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.04.15-03.03.36:794][446]LogHttp: Warning: 000008D0DE6E9100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.04.15-03.03.36:794][446]LogHttp: Warning: 000008D0DE6E9100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.04.15-03.03.36:794][446]LogHttp: Warning: 000008D0DE6E9100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.04.15-03.03.36:794][446]LogHttp: Warning: 000008D0DE6E9100: libcurl info message cache 7 (Closing connection 4)
+[2023.04.15-03.03.36:795][446]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D041F23-4547-CCD5-5A8B-BBB5CDC7458E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b3fa77fa4a323f2ee45ee6a204626a2b%7C7126afbbec5246758ea5f85c7944e1b7%7C01e0d25b-e634-4df9-96a3-942cba921921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.15-03.03.36:812][447]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=35368
+[2023.04.15-03.03.37:140][447]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{05e6e3e7-457f-4834-b761-99a4015d690b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=169.79
+[2023.04.15-03.03.37:141][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.15-03.03.37:149][448]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.15-03.28.16:404][868]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.907 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.15-04.28.15:581][617]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.931 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.15-05.28.15:514][369]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.086 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.15-06.28.15:482][119]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.060 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.15-07.28.15:493][862]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.042 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.15-08.28.15:940][613]LogDerivedDataCache: C:/Users/petel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.281 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.15-08.42.59:218][790]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-MP9RH125
+[2023.04.15-08.43.10:742][915]LogSlate: Window 'SDK Not Setup' being destroyed
+[2023.04.15-08.53.03:155][ 86]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_4/A/5Y/': Invalid argument
+[2023.04.15-08.53.07:532][325]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.15-08.53.07:545][325]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.15-08.53.07:555][326]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.15-08.53.09:935][469]LogContentBrowser: Attempting asset rename: NewFolder -> HDR
+[2023.04.15-08.53.09:948][469]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.15-08.53.49:121][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\petel\Downloads\space_scape.hdr)
+[2023.04.15-08.53.49:214][863]LogTexture: Display: Building textures: /Game/HDR/space_scape.space_scape (RGBA16F, 1500X1000 X1X1) (Required Memory Estimate: 28.610229 MB), EncodeSpeed: Fast
+[2023.04.15-08.53.49:217][863]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2023.04.15-08.54.25:867][305]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2023.04.15-08.54.25:873][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.718
+[2023.04.15-08.54.25:877][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HDR/space_scape] ([1] browsable assets)...
+[2023.04.15-08.54.25:884][305]OBJ SavePackage:     Rendered thumbnail for [TextureCube /Game/HDR/space_scape.space_scape]
+[2023.04.15-08.54.25:884][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/HDR/space_scape]
+[2023.04.15-08.54.25:904][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HDR/space_scape_Auto9
+[2023.04.15-08.54.25:904][305]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/space_scape_Auto91DCF84404F9115B17A6EDEA0316F99C6.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/HDR/space_scape_Auto9.uasset'
+[2023.04.15-08.54.25:906][305]LogFileHelpers: Auto-saving content packages took 0.031
+[2023.04.15-08.54.26:894][354]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/HDR/space_scape.space_scape
+[2023.04.15-08.54.26:976][354]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.04.15-08.54.28:543][354]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_4/A/5Y/': Invalid argument
+[2023.04.15-08.54.28:552][354]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.04.15-08.54.41:328][ 16]LogTexture: Display: Building textures: /Game/HDR/space_scape.space_scape (RGBA16F, 1500X1000 X1X1) (Required Memory Estimate: 28.610229 MB), EncodeSpeed: Fast
+[2023.04.15-08.55.31:556][836]LogSavePackage: Moving output files for package: /Game/HDR/space_scape
+[2023.04.15-08.55.31:556][836]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/space_scape8BDD21C6438FF6C638E2799D507DE3EF.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/space_scape.uasset'
+[2023.04.15-08.55.32:260][836]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.15-08.55.32:260][836]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.15-08.55.32:284][836]AssetCheck: New page: Asset Save: space_scape
+[2023.04.15-08.55.32:284][836]LogContentValidation: Display: Validating TextureCube /Game/HDR/space_scape.space_scape
+[2023.04.15-08.56.22:154][703]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.04.15-08.56.22:164][703]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.04.15-08.56.22:173][704]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.04.15-08.56.26:602][970]LogContentBrowser: Attempting asset rename: NewMaterial -> Space_Skybox
+[2023.04.15-08.56.26:731][970]LogContentBrowser: End creating deferred item NewMaterial
+[2023.04.15-08.56.51:711][310]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/HDR/Space_Skybox.Space_Skybox
+[2023.04.15-08.56.51:748][310]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 38A287ECCB2EF843EE8A44F414C871499974ADAC), compiling. 
+[2023.04.15-08.56.51:833][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-08.56.52:011][310]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: AEE10C3E613D87AFC61144901BC7B05E9CB3A84A), compiling. 
+[2023.04.15-08.56.52:754][310]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-08.56.52:755][310]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.15-08.56.52:755][310]MaterialEditorStats: Shader Count: 0
+[2023.04.15-08.56.52:758][310]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_4/A/5Y/': Invalid argument
+[2023.04.15-08.56.52:767][310]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.04.15-08.56.53:504][311]SourceControl: Error: warning: could not open directory 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_4/A/5Y/': Invalid argument
+[2023.04.15-08.56.54:401][342]LogShaderCompilers: Display: ================================================
+[2023.04.15-08.56.54:402][342]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.15-08.56.54:402][342]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2023.04.15-08.56.54:402][342]LogShaderCompilers: Display: Tracking 17 distinct input hashes that result in 8 distinct outputs (47.06%)
+[2023.04.15-08.56.54:403][342]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.15-08.56.54:403][342]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.15-08.56.54:403][342]LogShaderCompilers: Display: Shaders Compiled: 20
+[2023.04.15-08.56.54:403][342]LogShaderCompilers: Display: Jobs assigned 20, completed 17 (85.00%)
+[2023.04.15-08.56.54:403][342]LogShaderCompilers: Display: Average time worker was idle: 24135.55 s
+[2023.04.15-08.56.54:403][342]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.14 s
+[2023.04.15-08.56.54:403][342]LogShaderCompilers: Display: Job execution time: average 1.93 s, max 2.78 s
+[2023.04.15-08.56.54:403][342]LogShaderCompilers: Display: Job life time (pending + execution): average 2.00 s, max 2.79
+[2023.04.15-08.56.54:403][342]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.35 s
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display: Average processing rate: 2.04 jobs/sec
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display: Effective parallelization: 2.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.47 sec, max 1.96 sec, min 1.01 sec)
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 1.44 sec, max 1.91 sec, min 1.02 sec)
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.39 sec, max 1.87 sec, min 0.87 sec)
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    5 times, average 0.59 sec, max 0.84 sec, min 0.43 sec)
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.10% of total time (compiled    4 times, average 1.47 sec, max 1.96 sec, min 1.01 sec)
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display:                                                 FLumenCardVS - 28.60% of total time (compiled    4 times, average 1.44 sec, max 1.91 sec, min 1.02 sec)
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.57% of total time (compiled    4 times, average 1.39 sec, max 1.87 sec, min 0.87 sec)
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.73% of total time (compiled    5 times, average 0.59 sec, max 0.84 sec, min 0.43 sec)
+[2023.04.15-08.56.54:404][342]LogShaderCompilers: Display: ================================================
+[2023.04.15-08.56.55:100][375]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.15-08.56.55:100][375]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.15-08.56.55:100][375]MaterialEditorStats: Shader Count: 4
+[2023.04.15-08.57.00:267][557]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 97D1581E6C2A179F062A52EF5A9DF9D12CC58631), compiling. 
+[2023.04.15-08.57.00:282][557]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-08.57.00:282][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.15-08.57.00:282][557]MaterialEditorStats: Shader Count: 0
+[2023.04.15-08.57.00:328][559]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.15-08.57.00:328][559]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.15-08.57.00:328][559]MaterialEditorStats: Shader Count: 4
+[2023.04.15-08.57.03:745][759]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: AE492B8D2C54AD3E1CA61FC6789472BBCED92C30), compiling. 
+[2023.04.15-08.57.03:758][759]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 68E0F2F606359E6D77AA308AE7B633F0A05DF8A0), compiling. 
+[2023.04.15-08.57.03:764][759]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 7CCE145098FA1F2F0B93ECA2A132E57C29B4223F), compiling. 
+[2023.04.15-08.57.03:773][759]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-08.57.03:773][759]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.15-08.57.03:773][759]MaterialEditorStats: Shader Count: 0
+[2023.04.15-08.57.14:402][128]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: CF8A09AAE8DC012F8ECEFAB83E58566E2D732956), compiling. 
+[2023.04.15-08.57.15:752][204]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: B82E32FC4B9FF30972384DF712E131666649CD61), compiling. 
+[2023.04.15-08.57.15:764][204]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 3B4DC8C501EBEBA6E28DF3AA48A070E325AB1133), compiling. 
+[2023.04.15-08.57.15:770][204]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 368215D6AF9039A9A54933A313CC143B5A108788), compiling. 
+[2023.04.15-08.57.15:842][206]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.15-08.57.15:842][206]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.15-08.57.15:842][206]MaterialEditorStats: Shader Count: 4
+[2023.04.15-08.57.17:909][328]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 259226383100D5FFCE5D9A9E6B5EB0B2A4164FA3), compiling. 
+[2023.04.15-08.57.17:925][328]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-08.57.17:925][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.15-08.57.17:925][328]MaterialEditorStats: Shader Count: 0
+[2023.04.15-08.57.17:973][330]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.15-08.57.17:973][330]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.15-08.57.17:973][330]MaterialEditorStats: Shader Count: 4
+[2023.04.15-08.57.21:307][525]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 442177F34E4C93A8BF0AAD5CFE1E7CD15F123DB4), compiling. 
+[2023.04.15-08.57.21:318][525]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 3116416BA3BA1F48782B684285B93217A41171FB), compiling. 
+[2023.04.15-08.57.21:323][525]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 339C952301C3426F92F0D1EE61D17AF97FCBC6AD), compiling. 
+[2023.04.15-08.57.21:334][525]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-08.57.21:334][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.15-08.57.21:334][525]MaterialEditorStats: Shader Count: 0
+[2023.04.15-08.57.48:743][608]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 472D8BF97E4E4967E19BA7E274B490D0E4707F6C), compiling. 
+[2023.04.15-08.57.48:747][608]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DE24493A45887AAE203944B0339E9F7F1E71ADA6), compiling. 
+[2023.04.15-08.57.48:752][608]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 03ED533AD5FF536322BC488360255E1625F596BB), compiling. 
+[2023.04.15-08.57.48:752][608]LogMaterial: Warning: [AssetLog] /Engine/Transient.Space_Skybox (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameterCube) ParamCube> Cube sample needs UV input
+
+[2023.04.15-08.57.48:753][608]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AB077761D6986130C28ECA3F31328BAF4069A86), compiling. 
+[2023.04.15-08.57.48:762][608]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameterCube) ParamCube> Cube sample needs UV input
+[2023.04.15-08.58.13:952][197]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-08.58.13:952][197]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineResources: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineResources' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-08.58.21:880][657]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: EA7943DB6464F57C6F9EBCC14DB351E10522B383), compiling. 
+[2023.04.15-08.58.21:880][657]LogMaterial: Warning: [AssetLog] /Engine/Transient.Space_Skybox (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameterCube) ParamCube> Cube sample needs UV input
+
+[2023.04.15-08.58.21:881][657]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 23FCA69FDD9A9EA6E4E7FD888F0CB1F1968833DA), compiling. 
+[2023.04.15-08.58.21:886][657]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 4DBA874D42A879D9F6960BDEC1B36C7321D4B31E), compiling. 
+[2023.04.15-08.58.21:886][657]LogMaterial: Warning: [AssetLog] /Engine/Transient.Space_Skybox (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameterCube) ParamCube> Cube sample needs UV input
+
+[2023.04.15-08.58.56:766][767]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 09148E431A03A47CD19DCE35B1A483D5585B30CA), compiling. 
+[2023.04.15-08.58.56:767][767]LogMaterial: Warning: [AssetLog] /Engine/Transient.Space_Skybox (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameterCube) ParamCube> Cube sample needs UV input
+
+[2023.04.15-08.58.56:768][767]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8012CB958C1C55AB6BBA3E6D4EBCA6126F2B219C), compiling. 
+[2023.04.15-08.58.56:771][767]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: AF594AA5887137331C1089ACCF0282E651D591B1), compiling. 
+[2023.04.15-08.58.56:771][767]LogMaterial: Warning: [AssetLog] /Engine/Transient.Space_Skybox (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameterCube) ParamCube> Cube sample needs UV input
+
+[2023.04.15-08.59.13:986][455]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: E5603C5BB25EADDE8FB2E581D297CC4513C86199), compiling. 
+[2023.04.15-08.59.13:987][455]LogMaterial: Warning: [AssetLog] /Engine/Transient.Space_Skybox (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameterCube) ParamCube> Cube sample needs UV input
+
+[2023.04.15-08.59.13:990][455]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 2A0AFF1D571D7C2F5CE86178C6BF9C0F1C75C54E), compiling. 
+[2023.04.15-08.59.13:993][455]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 62951C56E6CD468BADE59A1A62D78AAF8B34F737), compiling. 
+[2023.04.15-08.59.14:002][455]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-08.59.14:002][455]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-08.59.14:002][455]MaterialEditorStats: Shader Count: 0
+[2023.04.15-08.59.15:010][490]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-08.59.15:010][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-08.59.15:010][490]MaterialEditorStats: Shader Count: 1
+[2023.04.15-08.59.38:824][184]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 8D25478026A4722AE558F0D7F25B2C6F525DC9DF), compiling. 
+[2023.04.15-08.59.38:826][184]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 808CD4DA6105AE46FDC1D4265791A2829A42876E), compiling. 
+[2023.04.15-08.59.38:831][184]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-08.59.38:831][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-08.59.38:831][184]MaterialEditorStats: Shader Count: 0
+[2023.04.15-08.59.38:872][186]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-08.59.38:872][186]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-08.59.38:872][186]MaterialEditorStats: Shader Count: 4
+[2023.04.15-08.59.40:312][257]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: F7D8BBF92726DAD31BF2538931922C7BCE302600), compiling. 
+[2023.04.15-08.59.40:314][257]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D12A74295689E439789765B373A3F6EAF41401C), compiling. 
+[2023.04.15-08.59.40:319][257]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-08.59.40:319][257]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-08.59.40:319][257]MaterialEditorStats: Shader Count: 0
+[2023.04.15-08.59.41:178][292]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-08.59.41:178][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-08.59.41:178][292]MaterialEditorStats: Shader Count: 1
+[2023.04.15-08.59.48:825][566]LogMaterialEditor: Saving and Compiling material Space_Skybox
+[2023.04.15-08.59.52:539][566]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 3D3D7A4492C47D632337D23944CADED73EC56326), compiling. 
+[2023.04.15-08.59.52:554][566]LogMaterial: Display: Missing cached shadermap for Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: CD78458A8B9E5B875C3A6AE241EDBA4D318DCAE5), compiling. 
+[2023.04.15-08.59.52:866][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.04.15-08.59.54:121][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.04.15-08.59.54:392][566]LogSavePackage: Moving output files for package: /Game/HDR/Space_Skybox
+[2023.04.15-08.59.54:392][566]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Space_Skybox3EB2944C404FD6F63BBE70A90CBDD9B1.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/Space_Skybox.uasset'
+[2023.04.15-08.59.55:157][566]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.15-08.59.55:157][566]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.15-08.59.55:183][566]AssetCheck: New page: Asset Save: Space_Skybox
+[2023.04.15-08.59.55:183][566]LogContentValidation: Display: Validating Material /Game/HDR/Space_Skybox.Space_Skybox
+[2023.04.15-08.59.55:196][566]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2023.04.15-08.59.55:196][566]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.04.15-08.59.55:196][566]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-08.59.55:196][566]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-08.59.55:196][566]MaterialEditorStats: Shader Count: 6
+[2023.04.15-09.01.29:396][983]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorShapes/Materials/M_ShapeMaster.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorShapes/Materials/M_ShapeMaster.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-09.01.29:396][983]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorShellMaterials/M_ShellMaster.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorShellMaterials/M_ShellMaster.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-09.01.29:396][983]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineDebugMaterials: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineDebugMaterials' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-09.01.29:396][983]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineSky/M_SimpleSkyDome.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineSky/M_SimpleSkyDome.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-09.01.29:396][983]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-09.01.31:756][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials' is outside repository at 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA'
+[2023.04.15-09.01.59:335][673]Cmd: DELETE
+[2023.04.15-09.01.59:336][673]Cmd: ACTOR DELETE
+[2023.04.15-09.01.59:357][673]LogEditorActor: Deleted Actor: VolumetricCloud
+[2023.04.15-09.01.59:433][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.15-09.01.59:444][673]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2023.04.15-09.02.15:716][638]Cmd: DELETE
+[2023.04.15-09.02.15:716][638]Cmd: ACTOR DELETE
+[2023.04.15-09.02.15:718][638]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2023.04.15-09.02.15:788][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.15-09.02.15:791][638]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2023.04.15-09.02.27:795][357]Cmd: TRANSACTION UNDO
+[2023.04.15-09.02.27:803][357]LogEditorTransaction: Undo Delete Elements
+[2023.04.15-09.02.27:859][357]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 409FD0F18545AB88320E4ED7E23B93F21DE91802), compiling. 
+[2023.04.15-09.02.27:896][357]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.02.27:896][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.02.27:896][357]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: ================================================
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: Total job queries 117, among them cache hits 67 (57.26%)
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 17 distinct outputs (44.74%)
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: Shaders Compiled: 28
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100.00%)
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: Average time worker was idle: 11445.48 s
+[2023.04.15-09.02.27:947][358]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.14 s
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display: Job execution time: average 1.59 s, max 2.78 s
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display: Job life time (pending + execution): average 1.65 s, max 2.79
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.62 s
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display: Average processing rate: 2.43 jobs/sec
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display: Effective parallelization: 2.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 1.29 sec, max 1.91 sec, min 0.98 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 1.27 sec, max 1.96 sec, min 0.82 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 1.17 sec, max 1.87 sec, min 0.67 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.53% of total time (compiled   10 times, average 1.27 sec, max 1.96 sec, min 0.82 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.86% of total time (compiled   10 times, average 1.17 sec, max 1.87 sec, min 0.67 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.47% of total time (compiled    8 times, average 1.29 sec, max 1.91 sec, min 0.98 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.90% of total time (compiled    8 times, average 0.55 sec, max 0.84 sec, min 0.41 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display:                                             FDebugViewModeVS - 1.72% of total time (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2023.04.15-09.02.27:949][358]LogShaderCompilers: Display: ================================================
+[2023.04.15-09.02.27:997][359]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.02.27:997][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.02.27:997][359]MaterialEditorStats: Shader Count: 2
+[2023.04.15-09.02.35:563][800]Cmd: DELETE
+[2023.04.15-09.02.35:563][800]Cmd: ACTOR DELETE
+[2023.04.15-09.02.35:565][800]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2023.04.15-09.02.35:636][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.15-09.02.35:641][800]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2023.04.15-09.02.38:103][948]Cmd: TRANSACTION UNDO
+[2023.04.15-09.02.38:103][948]LogEditorTransaction: Undo Delete Elements
+[2023.04.15-09.02.38:140][948]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: B52A72EC02A40091DB710271E54A7391673845F4), compiling. 
+[2023.04.15-09.02.38:163][948]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.02.38:163][948]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.02.38:163][948]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.02.38:285][951]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.02.38:285][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.02.38:285][951]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.02.40:671][ 83]Cmd: DELETE
+[2023.04.15-09.02.40:671][ 83]Cmd: ACTOR DELETE
+[2023.04.15-09.02.40:673][ 83]LogEditorActor: Deleted Actor: SkyLight
+[2023.04.15-09.02.40:756][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.15-09.02.40:761][ 83]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2023.04.15-09.02.44:457][304]Cmd: DELETE
+[2023.04.15-09.02.44:457][304]Cmd: ACTOR DELETE
+[2023.04.15-09.02.44:460][304]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2023.04.15-09.02.44:532][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.15-09.02.44:536][304]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2023.04.15-09.03.15:443][ 71]Cmd: DELETE
+[2023.04.15-09.03.15:444][ 71]Cmd: ACTOR DELETE
+[2023.04.15-09.03.15:446][ 71]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2023.04.15-09.03.15:545][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.15-09.03.15:549][ 71]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2023.04.15-09.03.21:098][402]Cmd: TRANSACTION UNDO
+[2023.04.15-09.03.21:098][402]LogEditorTransaction: Undo Delete Elements
+[2023.04.15-09.03.21:128][402]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: E3EACB2D0514D338715109E2671DF8410DD94B8D), compiling. 
+[2023.04.15-09.03.21:148][402]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.03.21:148][402]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.21:148][402]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.03.21:284][405]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.03.21:284][405]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.21:284][405]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.03.27:309][754]Cmd: TRANSACTION UNDO
+[2023.04.15-09.03.27:309][754]LogEditorTransaction: Undo Clicking on Actors
+[2023.04.15-09.03.27:325][754]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: DA5297308F8BB89222127008B06E0BC69C16472A), compiling. 
+[2023.04.15-09.03.27:341][754]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.03.27:353][754]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.27:353][754]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.03.27:485][757]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.03.27:485][757]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.27:485][757]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.03.27:828][767]Cmd: TRANSACTION UNDO
+[2023.04.15-09.03.27:828][767]LogEditorTransaction: Undo Clicking on Elements
+[2023.04.15-09.03.27:834][767]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 4275D91D0B03902C2080763295A7006848803870), compiling. 
+[2023.04.15-09.03.27:839][767]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.03.27:839][767]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.27:839][767]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.03.27:907][769]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.03.27:907][769]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.27:907][769]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.03.28:322][794]Cmd: TRANSACTION UNDO
+[2023.04.15-09.03.28:322][794]LogEditorTransaction: Undo Delete Elements
+[2023.04.15-09.03.28:358][794]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: E99612E04C76DC158FA60F00EC29858C0396E859), compiling. 
+[2023.04.15-09.03.28:364][794]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.03.28:364][794]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.28:364][794]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.03.28:442][797]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.03.28:442][797]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.28:442][797]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.03.31:643][986]Cmd: TRANSACTION UNDO
+[2023.04.15-09.03.31:643][986]LogEditorTransaction: Undo Clicking on Actors
+[2023.04.15-09.03.31:650][986]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 265FE5EAC6F8B12BE0690507736C1ADF5FE6C197), compiling. 
+[2023.04.15-09.03.31:668][986]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.03.31:668][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.31:668][986]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.03.31:762][989]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.03.31:762][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.31:762][989]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.03.32:868][ 44]Cmd: TRANSACTION UNDO
+[2023.04.15-09.03.32:868][ 44]LogEditorTransaction: Undo Delete Elements
+[2023.04.15-09.03.32:911][ 44]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: BD60CD2DEAA87943EAA1952B9B3B6B95342118A4), compiling. 
+[2023.04.15-09.03.32:919][ 44]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.03.32:919][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.32:919][ 44]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.03.32:999][ 47]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.03.32:999][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.32:999][ 47]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.03.33:884][ 98]Cmd: TRANSACTION UNDO
+[2023.04.15-09.03.33:884][ 98]LogEditorTransaction: Undo Clicking on Actors
+[2023.04.15-09.03.33:897][ 98]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 76973B39B22AA57AA9642E203D3C80B566F2D5C0), compiling. 
+[2023.04.15-09.03.33:903][ 98]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.03.33:903][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.33:903][ 98]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.03.33:978][101]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.03.33:978][101]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.03.33:978][101]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.03.41:484][548]Cmd: DELETE
+[2023.04.15-09.03.41:484][548]Cmd: ACTOR DELETE
+[2023.04.15-09.03.41:486][548]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2023.04.15-09.03.41:559][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.15-09.03.41:565][548]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2023.04.15-09.03.49:660][ 33]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.15-09.03.49:697][ 33]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.15-09.03.49:698][ 33]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.15-09.03.49:698][ 33]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.15-09.03.49:698][ 33]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.15-09.03.49:698][ 33]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.15-09.03.49:698][ 33]LogWorldPartition: Display: GetPartitionedActors took 62 us
+[2023.04.15-09.03.49:699][ 33]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.04.15-09.03.49:705][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-09.03.49:705][ 33]PIE: New page: PIE session: ob_course_joint_ca_3 (15 Apr 2023, 11:03:49)
+[2023.04.15-09.03.49:712][ 33]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.15-09.03.49:769][ 33]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.15-09.03.49:770][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056880s)
+[2023.04.15-09.03.49:770][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_3.ob_course_joint_ca_3 to /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 (0.057311s)
+[2023.04.15-09.03.49:774][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.03.49:777][ 33]LogAIModule: Creating AISystem for world ob_course_joint_ca_3
+[2023.04.15-09.03.49:783][ 33]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.15-09.03.49:783][ 33]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.15-09.03.49:786][ 33]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.15-09.03.49:786][ 33]LogPlayLevel: PIE: World Init took: (0.016448s)
+[2023.04.15-09.03.49:858][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.15-09.03.49:862][ 33]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.04.15-09.03.49:863][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-09.03.49:863][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-09.03.49:863][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-09.03.49:863][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-09.03.49:863][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-09.03.49:863][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.15-09.03.49:863][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-09.03.49:863][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-09.03.49:865][ 33]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-09.03.49:865][ 33]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-09.03.49:865][ 33]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-09.03.49:868][ 33]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.15-09.03.49:909][ 33]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.15-09.03.49:912][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-09.03.49:912][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-09.03.49:912][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-09.03.49:915][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.04.15-09.03.49:915][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.04.15-09.03.49:918][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.04.15-09.03.49:918][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.04.15-09.03.49:918][ 33]LogInit: FAudioDevice initialized.
+[2023.04.15-09.03.49:918][ 33]LogAudio: Display: Audio Device (ID: 31) registered with world 'ob_course_joint_ca_3'.
+[2023.04.15-09.03.49:941][ 33]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.15-09.03.49:969][ 33]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 up for play (max tick rate 60) at 2023.04.15-10.03.49
+[2023.04.15-09.03.49:982][ 33]LogWorld: Bringing up level for play took: 0.039498
+[2023.04.15-09.03.49:991][ 33]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2023.04.15-09.03.50:008][ 33]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.15-09.03.50:008][ 33]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.15-09.03.50:026][ 33]PIE: Server logged in
+[2023.04.15-09.03.50:026][ 33]PIE: Play in editor total start time 0.337 seconds.
+[2023.04.15-09.04.02:154][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.04.02:154][704]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.15-09.04.02:157][704]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-09.04.02:161][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.04.02:182][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-09.04.02:191][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.04.02:267][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.04.02:269][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.04.15-09.04.02:273][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.04.15-09.04.02:288][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.15-09.04.02:358][705]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.04.15-09.04.11:875][206]Cmd: DELETE
+[2023.04.15-09.04.11:875][206]Cmd: ACTOR DELETE
+[2023.04.15-09.04.11:877][206]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2023.04.15-09.04.11:950][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.15-09.04.11:954][206]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2023.04.15-09.04.14:277][345]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.15-09.04.14:287][345]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.15-09.04.14:287][345]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.15-09.04.14:287][345]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.15-09.04.14:287][345]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.15-09.04.14:287][345]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.15-09.04.14:287][345]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2023.04.15-09.04.14:287][345]LogWorldPartition: Display: GenerateStreaming took 588 us
+[2023.04.15-09.04.14:287][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-09.04.14:287][345]PIE: New page: PIE session: ob_course_joint_ca_3 (15 Apr 2023, 11:04:14)
+[2023.04.15-09.04.14:301][345]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.15-09.04.14:313][345]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.15-09.04.14:313][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012069s)
+[2023.04.15-09.04.14:313][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_3.ob_course_joint_ca_3 to /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 (0.012147s)
+[2023.04.15-09.04.14:313][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.04.14:314][345]LogAIModule: Creating AISystem for world ob_course_joint_ca_3
+[2023.04.15-09.04.14:314][345]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.15-09.04.14:314][345]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.15-09.04.14:317][345]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.15-09.04.14:317][345]LogPlayLevel: PIE: World Init took: (0.003750s)
+[2023.04.15-09.04.14:391][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.04.15-09.04.14:393][345]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.04.15-09.04.14:393][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-09.04.14:393][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-09.04.14:393][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-09.04.14:393][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-09.04.14:393][345]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-09.04.14:393][345]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.15-09.04.14:393][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-09.04.14:393][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-09.04.14:394][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-09.04.14:394][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-09.04.14:394][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-09.04.14:396][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.15-09.04.14:441][345]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.15-09.04.14:441][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-09.04.14:441][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-09.04.14:441][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-09.04.14:442][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.04.15-09.04.14:442][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.04.15-09.04.14:444][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.04.15-09.04.14:444][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.04.15-09.04.14:444][345]LogInit: FAudioDevice initialized.
+[2023.04.15-09.04.14:444][345]LogAudio: Display: Audio Device (ID: 32) registered with world 'ob_course_joint_ca_3'.
+[2023.04.15-09.04.14:455][345]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.15-09.04.14:461][345]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 up for play (max tick rate 60) at 2023.04.15-10.04.14
+[2023.04.15-09.04.14:461][345]LogWorld: Bringing up level for play took: 0.005416
+[2023.04.15-09.04.14:464][345]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.04.15-09.04.14:466][345]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.15-09.04.14:466][345]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.15-09.04.14:469][345]PIE: Server logged in
+[2023.04.15-09.04.14:470][345]PIE: Play in editor total start time 0.185 seconds.
+[2023.04.15-09.04.24:322][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.04.24:322][924]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.15-09.04.24:323][924]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-09.04.24:334][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.04.24:348][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-09.04.24:358][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.04.24:432][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-09.04.24:433][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.04.15-09.04.24:434][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.04.15-09.04.24:441][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.04.24:447][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.15-09.04.24:502][925]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.04.15-09.04.27:032][ 53]Cmd: DELETE
+[2023.04.15-09.04.27:032][ 53]Cmd: ACTOR DELETE
+[2023.04.15-09.04.27:035][ 53]LogEditorActor: Deleted Actor: SkyLight
+[2023.04.15-09.04.27:111][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.15-09.04.27:114][ 53]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2023.04.15-09.04.29:468][194]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.15-09.04.29:479][194]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.15-09.04.29:479][194]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.15-09.04.29:479][194]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.15-09.04.29:479][194]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.15-09.04.29:479][194]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.15-09.04.29:479][194]LogWorldPartition: Display: GetPartitionedActors took 49 us
+[2023.04.15-09.04.29:479][194]LogWorldPartition: Display: GenerateStreaming took 651 us
+[2023.04.15-09.04.29:479][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-09.04.29:480][194]PIE: New page: PIE session: ob_course_joint_ca_3 (15 Apr 2023, 11:04:29)
+[2023.04.15-09.04.29:501][194]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.15-09.04.29:513][194]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.15-09.04.29:513][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011097s)
+[2023.04.15-09.04.29:513][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_3.ob_course_joint_ca_3 to /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 (0.011185s)
+[2023.04.15-09.04.29:513][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.04.29:514][194]LogAIModule: Creating AISystem for world ob_course_joint_ca_3
+[2023.04.15-09.04.29:514][194]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.15-09.04.29:514][194]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.15-09.04.29:517][194]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.15-09.04.29:517][194]LogPlayLevel: PIE: World Init took: (0.004175s)
+[2023.04.15-09.04.29:589][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.04.15-09.04.29:591][194]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.04.15-09.04.29:591][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-09.04.29:591][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-09.04.29:591][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-09.04.29:591][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-09.04.29:591][194]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-09.04.29:591][194]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.15-09.04.29:591][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-09.04.29:591][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-09.04.29:592][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-09.04.29:592][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-09.04.29:592][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-09.04.29:595][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.15-09.04.29:637][194]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.15-09.04.29:637][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-09.04.29:637][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-09.04.29:637][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-09.04.29:638][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.04.15-09.04.29:638][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.04.15-09.04.29:641][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.04.15-09.04.29:641][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.04.15-09.04.29:641][194]LogInit: FAudioDevice initialized.
+[2023.04.15-09.04.29:641][194]LogAudio: Display: Audio Device (ID: 33) registered with world 'ob_course_joint_ca_3'.
+[2023.04.15-09.04.29:657][194]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.15-09.04.29:662][194]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 up for play (max tick rate 60) at 2023.04.15-10.04.29
+[2023.04.15-09.04.29:663][194]LogWorld: Bringing up level for play took: 0.005554
+[2023.04.15-09.04.29:666][194]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.04.15-09.04.29:668][194]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.15-09.04.29:668][194]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.15-09.04.29:671][194]PIE: Server logged in
+[2023.04.15-09.04.29:672][194]PIE: Play in editor total start time 0.196 seconds.
+[2023.04.15-09.04.54:323][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.04.54:323][666]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.15-09.04.54:323][666]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-09.04.54:324][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.04.54:352][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-09.04.54:362][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.04.54:433][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.04.54:433][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.04.15-09.04.54:435][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.04.15-09.04.54:446][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.04.15-09.04.54:556][667]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.04.15-09.05.01:442][ 39]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.04.15-09.05.01:442][ 39]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.04.15-09.05.43:697][537]Cmd: TRANSACTION UNDO
+[2023.04.15-09.05.43:697][537]LogEditorTransaction: Undo Edit Intensity
+[2023.04.15-09.05.43:703][537]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: F0CAD795C19D3A77A06F418437F9E3176FAED5E7), compiling. 
+[2023.04.15-09.05.43:719][537]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.05.43:719][537]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.43:719][537]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: ================================================
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Total job queries 155, among them cache hits 105 (67.74%)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 17 distinct outputs (44.74%)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Shaders Compiled: 28
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100.00%)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Average time worker was idle: 11445.48 s
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.14 s
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Job execution time: average 1.59 s, max 2.78 s
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Job life time (pending + execution): average 1.65 s, max 2.79
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.62 s
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Average processing rate: 2.43 jobs/sec
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Effective parallelization: 2.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 1.29 sec, max 1.91 sec, min 0.98 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 1.27 sec, max 1.96 sec, min 0.82 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 1.17 sec, max 1.87 sec, min 0.67 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.53% of total time (compiled   10 times, average 1.27 sec, max 1.96 sec, min 0.82 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.86% of total time (compiled   10 times, average 1.17 sec, max 1.87 sec, min 0.67 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.47% of total time (compiled    8 times, average 1.29 sec, max 1.91 sec, min 0.98 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.90% of total time (compiled    8 times, average 0.55 sec, max 0.84 sec, min 0.41 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display:                                             FDebugViewModeVS - 1.72% of total time (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2023.04.15-09.05.43:808][539]LogShaderCompilers: Display: ================================================
+[2023.04.15-09.05.43:841][540]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.05.43:841][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.43:841][540]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.05.44:812][587]Cmd: TRANSACTION UNDO
+[2023.04.15-09.05.44:812][587]LogEditorTransaction: Undo Move Elements
+[2023.04.15-09.05.44:817][587]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: CDF8CD568449428FCDF4F59476807656C8B4B6AA), compiling. 
+[2023.04.15-09.05.44:822][587]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.05.44:822][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.44:822][587]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.05.44:879][590]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.05.44:879][590]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.44:879][590]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.05.45:331][615]Cmd: TRANSACTION UNDO
+[2023.04.15-09.05.45:331][615]LogEditorTransaction: Undo Move Elements
+[2023.04.15-09.05.45:336][615]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 6855C7769AA5E454509DE8A8E2F05D77AAEA7478), compiling. 
+[2023.04.15-09.05.45:342][615]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.05.45:342][615]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.45:342][615]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.05.45:397][618]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.05.45:397][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.45:397][618]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.05.45:876][645]Cmd: TRANSACTION UNDO
+[2023.04.15-09.05.45:876][645]LogEditorTransaction: Undo Move Elements
+[2023.04.15-09.05.45:881][645]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: FBEDD9A72371F1721E88035FD4B5ACAD5816FFA3), compiling. 
+[2023.04.15-09.05.45:886][645]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.05.45:886][645]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.45:886][645]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.05.45:941][648]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.05.45:941][648]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.45:941][648]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.05.46:302][668]Cmd: TRANSACTION UNDO
+[2023.04.15-09.05.46:302][668]LogEditorTransaction: Undo Move Elements
+[2023.04.15-09.05.46:307][668]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 9B316D16ED4077594B2C948A23C613415D9EE122), compiling. 
+[2023.04.15-09.05.46:313][668]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.05.46:313][668]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.46:313][668]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.05.46:369][671]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.05.46:369][671]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.46:369][671]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.05.46:719][690]Cmd: TRANSACTION UNDO
+[2023.04.15-09.05.46:719][690]LogEditorTransaction: Undo Rotate Elements
+[2023.04.15-09.05.46:724][690]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 8FCEE76845465B2D0276F2A4A5ECCAC06688F0E0), compiling. 
+[2023.04.15-09.05.46:728][690]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.05.46:728][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.46:728][690]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.05.46:785][693]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.05.46:785][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.46:785][693]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.05.47:195][716]Cmd: TRANSACTION UNDO
+[2023.04.15-09.05.47:195][716]LogEditorTransaction: Undo Move Elements
+[2023.04.15-09.05.47:200][716]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 7DF9E47803D17390217C6E93661F47CC514B5ED5), compiling. 
+[2023.04.15-09.05.47:204][716]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.05.47:204][716]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.47:204][716]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.05.47:260][719]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.05.47:260][719]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.47:260][719]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.05.47:588][737]Cmd: TRANSACTION UNDO
+[2023.04.15-09.05.47:588][737]LogEditorTransaction: Undo Move Elements
+[2023.04.15-09.05.47:593][737]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 148087D77EC34801874BFCC61121C563FC56633E), compiling. 
+[2023.04.15-09.05.47:597][737]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.05.47:597][737]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.47:597][737]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.05.47:654][740]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.05.47:654][740]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.47:654][740]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.05.47:981][758]Cmd: TRANSACTION UNDO
+[2023.04.15-09.05.47:981][758]LogEditorTransaction: Undo Create Actor
+[2023.04.15-09.05.48:004][758]LogMaterial: Display: Missing cached shadermap for Preview:Space_Skybox in PCD3D_SM5, Default, SM5 (DDC key hash: 862A699B9759AF086F22B52B8811BCC341460AD4), compiling. 
+[2023.04.15-09.05.48:009][758]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.15-09.05.48:009][758]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.48:009][758]MaterialEditorStats: Shader Count: 0
+[2023.04.15-09.05.48:063][761]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.15-09.05.48:063][761]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.15-09.05.48:063][761]MaterialEditorStats: Shader Count: 4
+[2023.04.15-09.06.38:226][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.15-09.06.38:237][360]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_3/E/I4/R2SUG1BEG1503R7Q6JWMPK_Auto0
+[2023.04.15-09.06.38:237][360]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/R2SUG1BEG1503R7Q6JWMPK_Auto0BE8AED314C97E91BAAD2C39859FA4538.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Autosaves/Game/__ExternalActors__/ob_course_joint_ca_3/E/I4/R2SUG1BEG1503R7Q6JWMPK_Auto0.uasset'
+[2023.04.15-09.06.38:239][360]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ob_course_joint_ca_3' took 0.088
+[2023.04.15-09.06.38:239][360]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2023.04.15-09.07.18:591][694]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\petel\OneDrive - Dundalk Institute of Technology\Desktop\ObstacleCourse2023\models\bounce.fbx)
+[2023.04.15-09.07.18:624][694]LogFbx: Loading FBX Scene from C:\Users\petel\OneDrive - Dundalk Institute of Technology\Desktop\ObstacleCourse2023\models\bounce.fbx
+[2023.04.15-09.07.18:637][694]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.15-09.07.21:831][694]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.15-09.07.21:881][694]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F6EB5960E49E7FFDB5C5D365F1F0311514F15BB), compiling. 
+[2023.04.15-09.07.21:968][694]LogTexture: Display: Building textures: /Game/HDR/orange_metal.orange_metal (TFO_AutoDXT, 2048X1536 X1X1) (Required Memory Estimate: 60.000 MB), EncodeSpeed: Fast
+[2023.04.15-09.07.21:975][694]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: A582965C797E01DF1BD95E8F6E67FBB8E1B92BFC), compiling. 
+[2023.04.15-09.07.21:983][694]LogFbx: Display: Triangulating static mesh Cube
+[2023.04.15-09.07.22:004][694]LogTexture: Display: Building textures: /Game/HDR/NormalMap__8_.NormalMap__8_ (TFO_BC5, 2048X1536 X1X1) (Required Memory Estimate: 60.000 MB), EncodeSpeed: Fast
+[2023.04.15-09.07.22:004][694]LogStaticMesh: Display: Building static mesh bounce...
+[2023.04.15-09.07.22:021][694]LogStaticMesh: Built static mesh [0.02s] /Game/HDR/bounce.bounce
+[2023.04.15-09.07.22:026][694]LogStaticMesh: Warning: bounce has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.04.15-09.07.22:026][694]LogStaticMesh: Warning: bounce has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.15-09.07.22:069][694]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.15-09.07.22:069][694]FBXImport: Warning: bounce has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.04.15-09.07.22:069][694]FBXImport: Warning: bounce has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.15-09.07.22:234][694]LogStaticMesh: Display: Building static mesh bounce...
+[2023.04.15-09.07.22:234][694]LogStaticMesh: Built static mesh [0.01s] /Game/HDR/bounce.bounce
+[2023.04.15-09.07.22:234][694]LogStaticMesh: Warning: bounce has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.04.15-09.07.22:234][694]LogStaticMesh: Warning: bounce has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.15-09.07.24:114][794]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-09.07.24:119][794]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-09.07.29:490][ 74]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HDR/bounce.bounce
+[2023.04.15-09.07.29:490][ 74]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HDR/bounce.bounce
+[2023.04.15-09.07.29:491][ 74]LogActorFactory: Actor Factory spawned StaticMesh /Game/HDR/bounce.bounce as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_27
+[2023.04.15-09.07.30:591][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HDR/bounce.bounce
+[2023.04.15-09.07.30:591][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HDR/bounce.bounce
+[2023.04.15-09.07.30:593][138]LogActorFactory: Actor Factory spawned StaticMesh /Game/HDR/bounce.bounce as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F6265517901_1580327195
+[2023.04.15-09.07.34:248][346]Cmd: DELETE
+[2023.04.15-09.07.34:248][346]Cmd: ACTOR DELETE
+[2023.04.15-09.07.34:251][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.15-09.07.34:330][346]LogWorldPartition: Warning: Actor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.SpotLight_UAID_84A9380F6265517901_1431178194 is unreachable without properly detaching object /Game/__ExternalActors__/ob_course_joint_ca_3/D/ZQ/6M444GV88WOOKWUB49TEP0.PackageMetaData in its package
+[2023.04.15-09.07.34:335][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.04.15-09.07.34:341][346]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2023.04.15-09.07.34:424][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.04.15-09.07.45:036][605]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\petel\OneDrive - Dundalk Institute of Technology\Desktop\ObstacleCourse2023\models\spinner1.fbx)
+[2023.04.15-09.07.45:045][605]LogFbx: Loading FBX Scene from C:\Users\petel\OneDrive - Dundalk Institute of Technology\Desktop\ObstacleCourse2023\models\spinner1.fbx
+[2023.04.15-09.07.45:051][605]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.15-09.07.46:751][605]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.15-09.07.46:799][605]LogTexture: Display: Building textures: /Game/HDR/redmet_tex.redmet_tex (BGRA8, 1000X699 X1X1) (Required Memory Estimate: 13.332367 MB), EncodeSpeed: Fast
+[2023.04.15-09.07.46:799][605]LogTexture: Display: Building textures: /Game/HDR/NormalMap__9_.NormalMap__9_ (BGRA8, 1000X699 X1X1) (Required Memory Estimate: 13.332367 MB), EncodeSpeed: Fast
+[2023.04.15-09.07.46:802][605]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 144DE137DF9B12E732DD8F93F803BD1BCBBFFFD2), compiling. 
+[2023.04.15-09.07.46:809][605]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.04.15-09.07.46:820][605]LogStaticMesh: Display: Building static mesh spinner1...
+[2023.04.15-09.07.46:826][605]LogStaticMesh: Built static mesh [0.01s] /Game/HDR/spinner1.spinner1
+[2023.04.15-09.07.46:829][605]LogStaticMesh: Warning: spinner1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.04.15-09.07.46:829][605]LogStaticMesh: Warning: spinner1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.15-09.07.46:853][605]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.15-09.07.46:853][605]FBXImport: Warning: spinner1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.04.15-09.07.46:853][605]FBXImport: Warning: spinner1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.15-09.07.48:019][605]LogMeshUtilities: Finished distance field build in 1.2s - 70x126x84 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 87% occupied, 98 triangles, spinner1
+[2023.04.15-09.07.49:355][666]LogMeshUtilities: Finished distance field build in 1.3s - 70x126x84 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 87% occupied, 98 triangles, spinner1
+[2023.04.15-09.07.49:507][675]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-09.07.49:513][675]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-09.07.52:027][819]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HDR/spinner1.spinner1
+[2023.04.15-09.07.52:027][819]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HDR/spinner1.spinner1
+[2023.04.15-09.07.52:027][819]LogActorFactory: Actor Factory spawned StaticMesh /Game/HDR/spinner1.spinner1 as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_28
+[2023.04.15-09.07.52:811][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HDR/spinner1.spinner1
+[2023.04.15-09.07.52:811][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/HDR/spinner1.spinner1
+[2023.04.15-09.07.52:823][865]LogActorFactory: Actor Factory spawned StaticMesh /Game/HDR/spinner1.spinner1 as actor: StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F6265517901_1602547196
+[2023.04.15-09.08.09:741][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.15-09.08.09:753][857]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.15-09.08.09:753][857]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.15-09.08.09:753][857]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.15-09.08.09:753][857]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.15-09.08.09:753][857]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.15-09.08.09:753][857]LogWorldPartition: Display: GetPartitionedActors took 60 us
+[2023.04.15-09.08.09:754][857]LogWorldPartition: Display: GenerateStreaming took 646 us
+[2023.04.15-09.08.09:754][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-09.08.09:754][857]PIE: New page: PIE session: ob_course_joint_ca_3 (15 Apr 2023, 11:08:09)
+[2023.04.15-09.08.09:755][857]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.15-09.08.09:767][857]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.15-09.08.09:767][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012401s)
+[2023.04.15-09.08.09:768][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ob_course_joint_ca_3.ob_course_joint_ca_3 to /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 (0.012493s)
+[2023.04.15-09.08.09:768][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.08.09:769][857]LogAIModule: Creating AISystem for world ob_course_joint_ca_3
+[2023.04.15-09.08.09:769][857]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.15-09.08.09:769][857]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.15-09.08.09:771][857]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.04.15-09.08.09:771][857]LogPlayLevel: PIE: World Init took: (0.004559s)
+[2023.04.15-09.08.09:839][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.04.15-09.08.09:844][857]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.04.15-09.08.09:844][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-09.08.09:844][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-09.08.09:844][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-09.08.09:844][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-09.08.09:844][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-09.08.09:844][857]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.15-09.08.09:844][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-09.08.09:844][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-09.08.09:845][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-09.08.09:845][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-09.08.09:845][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-09.08.09:847][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.15-09.08.09:888][857]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.15-09.08.09:888][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-09.08.09:888][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-09.08.09:888][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-09.08.09:889][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.04.15-09.08.09:889][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.04.15-09.08.09:892][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.04.15-09.08.09:892][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.04.15-09.08.09:892][857]LogInit: FAudioDevice initialized.
+[2023.04.15-09.08.09:892][857]LogAudio: Display: Audio Device (ID: 34) registered with world 'ob_course_joint_ca_3'.
+[2023.04.15-09.08.09:909][857]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.15-09.08.09:914][857]LogWorld: Bringing World /Game/UEDPIE_0_ob_course_joint_ca_3.ob_course_joint_ca_3 up for play (max tick rate 60) at 2023.04.15-10.08.09
+[2023.04.15-09.08.09:915][857]LogWorld: Bringing up level for play took: 0.005807
+[2023.04.15-09.08.09:920][857]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.04.15-09.08.09:921][857]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=390.000 Y=19440.000 Z=1382.013
+[2023.04.15-09.08.09:921][857]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.15-09.08.09:924][857]PIE: Server logged in
+[2023.04.15-09.08.09:924][857]PIE: Play in editor total start time 0.175 seconds.
+[2023.04.15-09.08.34:092][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.08.34:092][291]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ob_course_joint_ca_3
+[2023.04.15-09.08.34:093][291]LogWorld: UWorld::CleanupWorld for ob_course_joint_ca_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-09.08.34:094][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.08.34:106][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-09.08.34:115][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.08.34:193][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-09.08.34:193][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.04.15-09.08.34:195][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.04.15-09.08.34:201][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.08.34:207][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.04.15-09.08.34:382][292]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.04.15-09.08.38:462][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.04.15-09.08.39:365][491]LogWorldPartition: Warning: Actor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F6265517901_1580327195 is unreachable without properly detaching object /Game/__ExternalActors__/ob_course_joint_ca_3/D/IT/UNY2U0PDQL3O1GI2DA1R1D.PackageMetaData in its package
+[2023.04.15-09.08.39:372][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.04.15-09.08.39:469][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.04.15-09.08.39:560][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.15-09.08.40:656][491]SourceControl: Error: Updated 0 paths from the index
+[2023.04.15-09.08.40:989][491]SourceControl: rm 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/7/NP/ZI6QJ1ARW8HELSK35CGFFQ.uasset'
+[2023.04.15-09.08.40:989][491]SourceControl: rm 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/8/5G/SE6ZNLA503G57LVLHQEGHA.uasset'
+[2023.04.15-09.08.40:989][491]SourceControl: rm 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/A/F7/OIVP8DCCZDGIBLQLLSEKS8.uasset'
+[2023.04.15-09.08.40:989][491]SourceControl: rm 'joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/B/H9/5EDI8WAXA70Q9EXAPTKTZR.uasset'
+[2023.04.15-09.08.40:999][491]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/I4/R2SUG1BEG1503R7Q6JWMPK
+[2023.04.15-09.08.41:000][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/R2SUG1BEG1503R7Q6JWMPK60C246B34C0A297FFD7AF3A08AC278D5.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/I4/R2SUG1BEG1503R7Q6JWMPK.uasset'
+[2023.04.15-09.08.41:003][491]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/0/K6/6WU365NT9KTGXJIIVQCFX3
+[2023.04.15-09.08.41:003][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/6WU365NT9KTGXJIIVQCFX344B481E849041DEADE0C619714CB1F49.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/0/K6/6WU365NT9KTGXJIIVQCFX3.uasset'
+[2023.04.15-09.08.41:045][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDR/bounce" FILE="../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/bounce.uasset" SILENT=true
+[2023.04.15-09.08.41:049][491]LogSavePackage: Moving output files for package: /Game/HDR/bounce
+[2023.04.15-09.08.41:049][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/bounce3A7E2D544FFCD60DC5DD72A4811875A4.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/bounce.uasset'
+[2023.04.15-09.08.43:411][491]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.04.15-09.08.43:411][491]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.047410s
+[2023.04.15-09.08.45:426][491]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000061s (2.058260s overbudget)
+[2023.04.15-09.08.45:432][491]LogShaderCompilers: Display: ================================================
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Total job queries 211, among them cache hits 141 (66.82%)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Tracking 58 distinct input hashes that result in 26 distinct outputs (44.83%)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Shaders Compiled: 34
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Jobs assigned 58, completed 58 (100.00%)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Average time worker was idle: 8016.26 s
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 3.02 s
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Job execution time: average 1.81 s, max 3.23 s
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Job life time (pending + execution): average 2.08 s, max 4.34
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.29 s
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Jobs were issued in 58 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Average processing rate: 2.60 jobs/sec
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Effective parallelization: 3.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 2.81 sec, max 2.81 sec, min 2.81 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 2.67 sec, max 2.67 sec, min 2.67 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 2.65 sec, max 2.65 sec, min 2.65 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.53 sec, max 2.53 sec, min 2.53 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.52 sec, max 2.52 sec, min 2.52 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.01% of total time (compiled   12 times, average 1.36 sec, max 1.96 sec, min 0.82 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.60% of total time (compiled   12 times, average 1.27 sec, max 1.87 sec, min 0.67 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.80% of total time (compiled   10 times, average 1.38 sec, max 1.91 sec, min 0.98 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.66% of total time (compiled   10 times, average 0.59 sec, max 0.86 sec, min 0.41 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 3.62% of total time (compiled    1 times, average 2.81 sec, max 2.81 sec, min 2.81 sec)
+[2023.04.15-09.08.45:433][491]LogShaderCompilers: Display: ================================================
+[2023.04.15-09.08.45:470][491]LogSavePackage: Moving output files for package: /Game/HDR/Material_001
+[2023.04.15-09.08.45:470][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Material_0019D53B07C474F1B2BB38A1ABA6DC9CC9F.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/Material_001.uasset'
+[2023.04.15-09.08.47:550][491]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.15-09.08.48:819][491]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005003s (1.331331s overbudget)
+[2023.04.15-09.08.48:854][491]LogSavePackage: Moving output files for package: /Game/HDR/Material_002
+[2023.04.15-09.08.48:854][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Material_002297EEDF9414D5EB7ADB0878C32A87E25.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/Material_002.uasset'
+[2023.04.15-09.08.48:861][491]LogSavePackage: Moving output files for package: /Game/HDR/orange_metal
+[2023.04.15-09.08.48:861][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/orange_metalD3C48A1C4ACD43C184263DAA10D1270D.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/orange_metal.uasset'
+[2023.04.15-09.08.49:048][491]LogSavePackage: Moving output files for package: /Game/HDR/NormalMap__8_
+[2023.04.15-09.08.49:048][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NormalMap__8_C43E0F254645149D305BCF9C2913AB09.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/NormalMap__8_.uasset'
+[2023.04.15-09.08.49:089][491]LogSavePackage: Moving output files for package: /Game/HDR/spinner1
+[2023.04.15-09.08.49:089][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/spinner1A9919E2B44225D66CDB69EAC077C3CD9.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/spinner1.uasset'
+[2023.04.15-09.08.51:107][491]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.15-09.08.52:147][491]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004959s (1.044163s overbudget)
+[2023.04.15-09.08.52:191][491]LogSavePackage: Moving output files for package: /Game/HDR/Material
+[2023.04.15-09.08.52:191][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/Material389F1F344899B5B30376E9AD8DFB08A8.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/Material.uasset'
+[2023.04.15-09.08.52:198][491]LogSavePackage: Moving output files for package: /Game/HDR/redmet_tex
+[2023.04.15-09.08.52:198][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/redmet_tex7266BFE646B2313BB3C698853CAA356F.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/redmet_tex.uasset'
+[2023.04.15-09.08.52:234][491]LogSavePackage: Moving output files for package: /Game/HDR/NormalMap__9_
+[2023.04.15-09.08.52:235][491]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/NormalMap__9_A0A1D3494908BCAF7B17C093E2F3DF2A.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/HDR/NormalMap__9_.uasset'
+[2023.04.15-09.08.52:449][491]SourceControl: Error: fatal: Unable to create 'C:/Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/.git/index.lock': File exists.
+[2023.04.15-09.08.52:449][491]SourceControl: Error: Another git process seems to be running in this repository, e.g.
+[2023.04.15-09.08.52:449][491]SourceControl: Error: an editor opened by 'git commit'. Please make sure all processes
+[2023.04.15-09.08.52:449][491]SourceControl: Error: are terminated then try again. If it still fails, a git process
+[2023.04.15-09.08.52:449][491]SourceControl: Error: may have crashed in this repository earlier:
+[2023.04.15-09.08.52:449][491]SourceControl: Error: remove the file manually to continue.
+[2023.04.15-09.08.52:527][491]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-09.08.52:527][491]LogContentValidation: Display: Validating Texture2D /Game/HDR/redmet_tex.redmet_tex
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F6265517901_1602547196
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating Texture2D /Game/HDR/NormalMap__9_.NormalMap__9_
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating Material /Game/HDR/Material.Material
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating Texture2D /Game/HDR/NormalMap__8_.NormalMap__8_
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating Texture2D /Game/HDR/orange_metal.orange_metal
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating Material /Game/HDR/Material_002.Material_002
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating Material /Game/HDR/Material_001.Material_001
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating StaticMesh /Game/HDR/bounce.bounce
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating StaticMesh /Game/HDR/spinner1.spinner1
+[2023.04.15-09.08.52:528][491]LogContentValidation: Display: Validating StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
