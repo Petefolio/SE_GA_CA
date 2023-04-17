@@ -11805,3 +11805,16 @@ Script Stack (0 frames):
 [2023.04.17-07.56.22:078][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.04.17-07.56.22:087][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
 [2023.04.17-07.56.22:259][730]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2023.04.17-07.58.22:700][553]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.17-07.58.41:778][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.04.17-07.58.42:074][166]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/1/JI/DNH8J3IH8XWQOV70DGP2ML
+[2023.04.17-07.58.42:077][166]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/DNH8J3IH8XWQOV70DGP2ML59BBDCD842FF33610FC9128960A2994A.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/1/JI/DNH8J3IH8XWQOV70DGP2ML.uasset'
+[2023.04.17-07.58.42:082][166]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ob_course_joint_ca_3/E/KE/QDEJCLVLBJABQQ563UL45S
+[2023.04.17-07.58.42:083][166]LogSavePackage: Moving '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Saved/QDEJCLVLBJABQQ563UL45SD16BA94949D96612CE31828BC24B7493.tmp' to '../../../../../../Users/petel/OneDrive - Dundalk Institute of Technology/Desktop/cagaca/SE_GA_CA/joint_SE_GA_CA/Content/__ExternalActors__/ob_course_joint_ca_3/E/KE/QDEJCLVLBJABQQ563UL45S.uasset'
+[2023.04.17-07.58.42:123][166]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.17-07.58.42:123][166]LogContentValidation: Display: Validating StaticMeshActor /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.StaticMeshActor_UAID_84A9380F6265CE7901_1735426287
+[2023.04.17-07.58.42:123][166]LogContentValidation: Display: Validating PlayerStart /Game/ob_course_joint_ca_3.ob_course_joint_ca_3:PersistentLevel.PlayerStart_0
+[2023.04.17-07.58.43:474][214]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.17-07.58.43:474][214]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
+[2023.04.17-07.58.43:474][214]SourceControl: Error: [wW][mM][aA] is not a valid attribute name: .gitattributes:54
+[2023.04.17-07.58.43:474][214]SourceControl: Error: used, is not a valid attribute name: .gitattributes:69
